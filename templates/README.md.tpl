@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 {{range rss "https://arthur.lutz.im/blog/feed" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedA}})
 {{- end}}
 
 #### 🐘 My recent toots on mastodon
@@ -34,15 +34,6 @@ Say Hello, I don't bite!
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
+  
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
