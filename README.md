@@ -53,21 +53,4 @@ Say Hello, I don't bite!
 - [arthurlutzim: [blog] Expérimentati](https://mamot.fr/@arthurlutzim/104902390872888912) (1 day ago)
 - [arthurlutzim: Regarder les autres](https://mamot.fr/@arthurlutzim/104897248614595038) (2 days ago)
 
-
-#### 📓 Gists I wrote
-
-- [](https://gist.github.com/82b5a88cc283a88e01530ae80018792e) (1 week ago)
-- [](https://gist.github.com/5c2b32b4c1524b1d4bf3a16e073f5661) (10 months ago)
-- [](https://gist.github.com/ba04e637f5a4b2f36ed4e4f1ddf39d0b) (10 months ago)
-- [](https://gist.github.com/25ea0970a9d26ba0394d54f1b79cdaea) (1 year ago)
-- [](https://gist.github.com/99f0950549f1dcc9d33334f2e89a192e) (2 years ago)
-
-#### 👯 Check out some of my recent followers
-
-- [ManUtopiK](https://github.com/ManUtopiK)
-- [afix-space](https://github.com/afix-space)
-- [Dmitriy-Vas](https://github.com/Dmitriy-Vas)
-- [alexAubin](https://github.com/alexAubin)
-- [iNDicat0r](https://github.com/iNDicat0r)
-
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
