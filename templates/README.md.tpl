@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 {{range rss "https://arthur.lutz.im/blog/feed" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedA}})
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 🐘 My recent toots on mastodon
