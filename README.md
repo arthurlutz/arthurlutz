@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (5 days ago)
+- [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (6 days ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (1 month ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (2 months ago)
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (3 months ago)
@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.0-beta2](https://github.com/microhomie/microhomie/releases/tag/v3.0.0-beta2), 1 week ago) - MicroPython implementation of the Homie MQTT convention for IoT.
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.15.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.15.1), 2 weeks ago) - Linter for Awesome lists
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.15.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.15.1), 3 weeks ago) - Linter for Awesome lists
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.2](https://github.com/karlstav/cava/releases/tag/0.7.2), 2 months ago) - Console-based Audio Visualizer for Alsa
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 6 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [clockworkpi/launcher](https://github.com/clockworkpi/launcher) ([1.22](https://github.com/clockworkpi/launcher/releases/tag/1.22), 2 years ago) - The launcher for GameShell
@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (4 days ago)
+- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (5 days ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (3 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (4 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (5 months ago)
@@ -47,10 +47,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: Ça c&#39;est fait.](https://mamot.fr/@arthurlutzim/104903706193965377) (4 days ago)
-- [arthurlutzim: #hackmonday Essayer](https://mamot.fr/@arthurlutzim/104902515407370622) (4 days ago)
-- [arthurlutzim: #réparation effectué](https://mamot.fr/@arthurlutzim/104902424794618200) (4 days ago)
-- [arthurlutzim: [blog] Expérimentati](https://mamot.fr/@arthurlutzim/104902390872888912) (4 days ago)
-- [arthurlutzim: Regarder les autres](https://mamot.fr/@arthurlutzim/104897248614595038) (5 days ago)
+- [arthurlutzim: Ça c&#39;est fait.](https://mamot.fr/@arthurlutzim/104903706193965377) (5 days ago)
+- [arthurlutzim: #hackmonday Essayer](https://mamot.fr/@arthurlutzim/104902515407370622) (5 days ago)
+- [arthurlutzim: #réparation effectué](https://mamot.fr/@arthurlutzim/104902424794618200) (5 days ago)
+- [arthurlutzim: [blog] Expérimentati](https://mamot.fr/@arthurlutzim/104902390872888912) (5 days ago)
+- [arthurlutzim: Regarder les autres](https://mamot.fr/@arthurlutzim/104897248614595038) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
