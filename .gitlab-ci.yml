@@ -1,0 +1,8 @@
+image: thorsager/kramdown
+build:
+  scripts:
+    - mkdir public/
+    - kramdown README.md > public/index.html
+  artifacts:
+    paths:
+      - public/
