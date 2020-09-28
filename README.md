@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (6 days ago)
+- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 week ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (3 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (4 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (5 months ago)
@@ -47,10 +47,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: Ça c&#39;est fait.](https://mamot.fr/@arthurlutzim/104903706193965377) (6 days ago)
-- [arthurlutzim: #hackmonday Essayer](https://mamot.fr/@arthurlutzim/104902515407370622) (6 days ago)
-- [arthurlutzim: #réparation effectué](https://mamot.fr/@arthurlutzim/104902424794618200) (6 days ago)
-- [arthurlutzim: [blog] Expérimentati](https://mamot.fr/@arthurlutzim/104902390872888912) (6 days ago)
+- [arthurlutzim: Ça c&#39;est fait.](https://mamot.fr/@arthurlutzim/104903706193965377) (1 week ago)
+- [arthurlutzim: #hackmonday Essayer](https://mamot.fr/@arthurlutzim/104902515407370622) (1 week ago)
+- [arthurlutzim: #réparation effectué](https://mamot.fr/@arthurlutzim/104902424794618200) (1 week ago)
+- [arthurlutzim: [blog] Expérimentati](https://mamot.fr/@arthurlutzim/104902390872888912) (1 week ago)
 - [arthurlutzim: Regarder les autres](https://mamot.fr/@arthurlutzim/104897248614595038) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
