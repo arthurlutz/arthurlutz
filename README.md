@@ -47,10 +47,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: Decentralized Social](https://mamot.fr/@arthurlutzim/104947382653046712) (today)
 - [arthurlutzim: @IndieHosters@mastod](https://mamot.fr/@arthurlutzim/104944638253754683) (1 day ago)
 - [arthurlutzim: #hackmonday suis en](https://mamot.fr/@arthurlutzim/104944243999226518) (1 day ago)
 - [arthurlutzim: Salut l&#39;intelligence](https://mamot.fr/@arthurlutzim/104942511146751057) (1 day ago)
 - [arthurlutzim: Ça c&#39;est fait.](https://mamot.fr/@arthurlutzim/104903706193965377) (1 week ago)
-- [arthurlutzim: #hackmonday Essayer](https://mamot.fr/@arthurlutzim/104902515407370622) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
