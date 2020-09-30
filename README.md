@@ -47,10 +47,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Decentralized Social Networks …”](https://mamot.fr/@arthurlutzim/104947382653046712) (today)
-- [arthurlutzim: “@IndieHosters@mastodon.indie.h…”](https://mamot.fr/@arthurlutzim/104944638253754683) (1 day ago)
-- [arthurlutzim: “#hackmonday suis en train de j…”](https://mamot.fr/@arthurlutzim/104944243999226518) (1 day ago)
-- [arthurlutzim: “Salut l&#39;intelligence collectiv…”](https://mamot.fr/@arthurlutzim/104942511146751057) (1 day ago)
+- [arthurlutzim: “Decentralized Social Networks …”](https://mamot.fr/@arthurlutzim/104947382653046712) (1 day ago)
+- [arthurlutzim: “@IndieHosters@mastodon.indie.h…”](https://mamot.fr/@arthurlutzim/104944638253754683) (2 days ago)
+- [arthurlutzim: “#hackmonday suis en train de j…”](https://mamot.fr/@arthurlutzim/104944243999226518) (2 days ago)
+- [arthurlutzim: “Salut l&#39;intelligence collectiv…”](https://mamot.fr/@arthurlutzim/104942511146751057) (2 days ago)
 - [arthurlutzim: “Ça c&#39;est fait.…”](https://mamot.fr/@arthurlutzim/104903706193965377) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
