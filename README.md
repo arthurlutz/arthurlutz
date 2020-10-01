@@ -17,7 +17,7 @@ Say Hello, I don't bite!
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (3 months ago)
 - [YunoHost-Apps/calibreweb_ynh](https://github.com/YunoHost-Apps/calibreweb_ynh) - Package de Calibre-web pour Yunohost (3 months ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (5 months ago)
-- [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives (6 months ago)
+- [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives (7 months ago)
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) -  (7 months ago)
 - [txoof/slimpi_epd](https://github.com/txoof/slimpi_epd) - Raspberry Pi Logitech Media Server Client with ePaper display (7 months ago)
 - [YunoHost-Apps/ampache_ynh](https://github.com/YunoHost-Apps/ampache_ynh) -  (7 months ago)
@@ -47,10 +47,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Decentralized Social Networks …”](https://mamot.fr/@arthurlutzim/104947382653046712) (1 day ago)
-- [arthurlutzim: “@IndieHosters@mastodon.indie.h…”](https://mamot.fr/@arthurlutzim/104944638253754683) (2 days ago)
-- [arthurlutzim: “#hackmonday suis en train de j…”](https://mamot.fr/@arthurlutzim/104944243999226518) (2 days ago)
-- [arthurlutzim: “Salut l&#39;intelligence collectiv…”](https://mamot.fr/@arthurlutzim/104942511146751057) (2 days ago)
+- [arthurlutzim: “Decentralized Social Networks …”](https://mamot.fr/@arthurlutzim/104947382653046712) (2 days ago)
+- [arthurlutzim: “@IndieHosters@mastodon.indie.h…”](https://mamot.fr/@arthurlutzim/104944638253754683) (3 days ago)
+- [arthurlutzim: “#hackmonday suis en train de j…”](https://mamot.fr/@arthurlutzim/104944243999226518) (3 days ago)
+- [arthurlutzim: “Salut l&#39;intelligence collectiv…”](https://mamot.fr/@arthurlutzim/104942511146751057) (3 days ago)
 - [arthurlutzim: “Ça c&#39;est fait.…”](https://mamot.fr/@arthurlutzim/104903706193965377) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
