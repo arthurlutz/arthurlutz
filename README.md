@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.0-beta2](https://github.com/microhomie/microhomie/releases/tag/v3.0.0-beta2), 2 weeks ago) - MicroPython implementation of the Homie MQTT convention for IoT.
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.15.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.15.1), 3 weeks ago) - Linter for Awesome lists
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.15.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.15.1), 4 weeks ago) - Linter for Awesome lists
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.2](https://github.com/karlstav/cava/releases/tag/0.7.2), 3 months ago) - Console-based Audio Visualizer for Alsa
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 6 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [clockworkpi/launcher](https://github.com/clockworkpi/launcher) ([1.22](https://github.com/clockworkpi/launcher/releases/tag/1.22), 2 years ago) - The launcher for GameShell
@@ -47,10 +47,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Decentralized Social Networks …”](https://mamot.fr/@arthurlutzim/104947382653046712) (3 days ago)
-- [arthurlutzim: “@IndieHosters@mastodon.indie.h…”](https://mamot.fr/@arthurlutzim/104944638253754683) (4 days ago)
-- [arthurlutzim: “#hackmonday suis en train de j…”](https://mamot.fr/@arthurlutzim/104944243999226518) (4 days ago)
-- [arthurlutzim: “Salut l&#39;intelligence collectiv…”](https://mamot.fr/@arthurlutzim/104942511146751057) (4 days ago)
+- [arthurlutzim: “Decentralized Social Networks …”](https://mamot.fr/@arthurlutzim/104947382653046712) (4 days ago)
+- [arthurlutzim: “@IndieHosters@mastodon.indie.h…”](https://mamot.fr/@arthurlutzim/104944638253754683) (5 days ago)
+- [arthurlutzim: “#hackmonday suis en train de j…”](https://mamot.fr/@arthurlutzim/104944243999226518) (5 days ago)
+- [arthurlutzim: “Salut l&#39;intelligence collectiv…”](https://mamot.fr/@arthurlutzim/104942511146751057) (5 days ago)
 - [arthurlutzim: “Ça c&#39;est fait.…”](https://mamot.fr/@arthurlutzim/104903706193965377) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
