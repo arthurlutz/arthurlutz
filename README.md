@@ -11,6 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (2 weeks ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (1 month ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (2 months ago)
@@ -20,7 +21,6 @@ Say Hello, I don't bite!
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives (7 months ago)
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) -  (7 months ago)
 - [txoof/slimpi_epd](https://github.com/txoof/slimpi_epd) - Raspberry Pi Logitech Media Server Client with ePaper display (7 months ago)
-- [YunoHost-Apps/ampache_ynh](https://github.com/YunoHost-Apps/ampache_ynh) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -31,6 +31,7 @@ Say Hello, I don't bite!
 
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.15.2](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.15.2), 2 days ago) - Linter for Awesome lists
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.0-beta2](https://github.com/microhomie/microhomie/releases/tag/v3.0.0-beta2), 2 weeks ago) - MicroPython implementation of the Homie MQTT convention for IoT.
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 2 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.2](https://github.com/karlstav/cava/releases/tag/0.7.2), 3 months ago) - Console-based Audio Visualizer for Alsa
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 6 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [clockworkpi/launcher](https://github.com/clockworkpi/launcher) ([1.22](https://github.com/clockworkpi/launcher/releases/tag/1.22), 2 years ago) - The launcher for GameShell
