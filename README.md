@@ -47,10 +47,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “#inktober  #inktober2020 #geek…”](https://mamot.fr/@arthurlutzim/104982527244608276) (today)
 - [arthurlutzim: “#inktober #inktober2020 …”](https://mamot.fr/@arthurlutzim/104976408488153199) (1 day ago)
 - [arthurlutzim: “À partir de https://hackaday.c…”](https://mamot.fr/@arthurlutzim/104972857668352990) (2 days ago)
 - [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/104970893614127088) (2 days ago)
 - [arthurlutzim: “🤯 Organising your electronics …”](https://mamot.fr/@arthurlutzim/104970824552953762) (2 days ago)
-- [arthurlutzim: “I ♥ my bibliothèque #bd #bande…”](https://mamot.fr/@arthurlutzim/104970485949619897) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
