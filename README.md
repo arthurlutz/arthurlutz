@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.15.2](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.15.2), 1 day ago) - Linter for Awesome lists
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.15.2](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.15.2), 2 days ago) - Linter for Awesome lists
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.0-beta2](https://github.com/microhomie/microhomie/releases/tag/v3.0.0-beta2), 2 weeks ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.2](https://github.com/karlstav/cava/releases/tag/0.7.2), 3 months ago) - Console-based Audio Visualizer for Alsa
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 6 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 week ago)
+- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (2 weeks ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (4 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (4 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (5 months ago)
@@ -47,10 +47,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#inktober #inktober2020 …”](https://mamot.fr/@arthurlutzim/104976408488153199) (today)
-- [arthurlutzim: “À partir de https://hackaday.c…”](https://mamot.fr/@arthurlutzim/104972857668352990) (1 day ago)
-- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/104970893614127088) (1 day ago)
-- [arthurlutzim: “🤯 Organising your electronics …”](https://mamot.fr/@arthurlutzim/104970824552953762) (1 day ago)
-- [arthurlutzim: “I ♥ my bibliothèque #bd #bande…”](https://mamot.fr/@arthurlutzim/104970485949619897) (1 day ago)
+- [arthurlutzim: “#inktober #inktober2020 …”](https://mamot.fr/@arthurlutzim/104976408488153199) (1 day ago)
+- [arthurlutzim: “À partir de https://hackaday.c…”](https://mamot.fr/@arthurlutzim/104972857668352990) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/104970893614127088) (2 days ago)
+- [arthurlutzim: “🤯 Organising your electronics …”](https://mamot.fr/@arthurlutzim/104970824552953762) (2 days ago)
+- [arthurlutzim: “I ♥ my bibliothèque #bd #bande…”](https://mamot.fr/@arthurlutzim/104970485949619897) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
