@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (1 month ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (2 months ago)
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (3 months ago)
-- [YunoHost-Apps/calibreweb_ynh](https://github.com/YunoHost-Apps/calibreweb_ynh) - Package de Calibre-web pour Yunohost (3 months ago)
+- [YunoHost-Apps/calibreweb_ynh](https://github.com/YunoHost-Apps/calibreweb_ynh) - Calibre-web package for YunoHost (3 months ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (6 months ago)
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives (7 months ago)
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) -  (7 months ago)
