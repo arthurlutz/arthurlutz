@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.0](https://github.com/microhomie/microhomie/releases/tag/v3.0.0), today) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.15.2](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.15.2), 3 days ago) - Linter for Awesome lists
-- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.0-beta2](https://github.com/microhomie/microhomie/releases/tag/v3.0.0-beta2), 3 weeks ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 2 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.2](https://github.com/karlstav/cava/releases/tag/0.7.2), 3 months ago) - Console-based Audio Visualizer for Alsa
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 6 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
