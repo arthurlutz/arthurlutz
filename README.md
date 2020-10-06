@@ -12,6 +12,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
+- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (1 day ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (2 weeks ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (1 month ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (2 months ago)
@@ -20,7 +21,6 @@ Say Hello, I don't bite!
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (6 months ago)
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives (7 months ago)
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) -  (7 months ago)
-- [txoof/slimpi_epd](https://github.com/txoof/slimpi_epd) - Raspberry Pi Logitech Media Server Client with ePaper display (7 months ago)
 
 #### 🌱 My latest projects
 
