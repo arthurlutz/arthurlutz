@@ -11,10 +11,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (5 days ago)
-- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (5 days ago)
-- [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (2 weeks ago)
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (3 days ago)
+- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (6 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (6 days ago)
+- [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 weeks ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (1 month ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (3 months ago)
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (4 months ago)
@@ -29,12 +29,12 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 3 days ago) - Console-based Audio Visualizer for Alsa
-- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.0](https://github.com/microhomie/microhomie/releases/tag/v3.0.0), 4 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
+- [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 4 days ago) - Console-based Audio Visualizer for Alsa
+- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.0](https://github.com/microhomie/microhomie/releases/tag/v3.0.0), 5 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.15.2](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.15.2), 1 week ago) - Linter for Awesome lists
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 2 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.0.1](https://github.com/Psycojoker/prosopopee/releases/tag/1.0.1), 5 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
-- [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 6 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
+- [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 7 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [clockworkpi/launcher](https://github.com/clockworkpi/launcher) ([1.22](https://github.com/clockworkpi/launcher/releases/tag/1.22), 2 years ago) - The launcher for GameShell
 - [YunoHost/yunohost-admin](https://github.com/YunoHost/yunohost-admin) ([debian/2.7.13](https://github.com/YunoHost/yunohost-admin/releases/tag/debian%2F2.7.13), 2 years ago) - Web administration interface for YunoHost
 - [openhab/openhab1-addons](https://github.com/openhab/openhab1-addons) ([v1.9.0](https://github.com/openhab/openhab1-addons/releases/tag/v1.9.0), 3 years ago) - Add-ons for openHAB 1.x
@@ -49,9 +49,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “https://www.theclittest.com/”](https://mamot.fr/@arthurlutzim/104993336273306656) (3 days ago)
-- [arthurlutzim: “#inktober  #inktober2020 #geek…”](https://mamot.fr/@arthurlutzim/104982527244608276) (5 days ago)
-- [arthurlutzim: “#inktober #inktober2020 …”](https://mamot.fr/@arthurlutzim/104976408488153199) (6 days ago)
+- [arthurlutzim: “https://www.theclittest.com/”](https://mamot.fr/@arthurlutzim/104993336273306656) (4 days ago)
+- [arthurlutzim: “#inktober  #inktober2020 #geek…”](https://mamot.fr/@arthurlutzim/104982527244608276) (6 days ago)
+- [arthurlutzim: “#inktober #inktober2020 …”](https://mamot.fr/@arthurlutzim/104976408488153199) (1 week ago)
 - [arthurlutzim: “À partir de https://hackaday.c…”](https://mamot.fr/@arthurlutzim/104972857668352990) (1 week ago)
 - [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/104970893614127088) (1 week ago)
 
