@@ -11,9 +11,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (3 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (6 days ago)
-- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (6 days ago)
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (4 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
+- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (1 week ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 weeks ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (1 month ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (3 months ago)
@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 4 days ago) - Console-based Audio Visualizer for Alsa
-- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.0](https://github.com/microhomie/microhomie/releases/tag/v3.0.0), 5 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
+- [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 5 days ago) - Console-based Audio Visualizer for Alsa
+- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.0](https://github.com/microhomie/microhomie/releases/tag/v3.0.0), 6 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.15.2](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.15.2), 1 week ago) - Linter for Awesome lists
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 2 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.0.1](https://github.com/Psycojoker/prosopopee/releases/tag/1.0.1), 5 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (2 weeks ago)
+- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (3 weeks ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (4 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (4 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (5 months ago)
@@ -49,9 +49,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Réparation (en cours) du jour …”](https://mamot.fr/@arthurlutzim/105016963778008428) (today)
-- [arthurlutzim: “https://www.theclittest.com/”](https://mamot.fr/@arthurlutzim/104993336273306656) (4 days ago)
-- [arthurlutzim: “#inktober  #inktober2020 #geek…”](https://mamot.fr/@arthurlutzim/104982527244608276) (6 days ago)
+- [arthurlutzim: “Réparation (en cours) du jour …”](https://mamot.fr/@arthurlutzim/105016963778008428) (1 day ago)
+- [arthurlutzim: “https://www.theclittest.com/”](https://mamot.fr/@arthurlutzim/104993336273306656) (5 days ago)
+- [arthurlutzim: “#inktober  #inktober2020 #geek…”](https://mamot.fr/@arthurlutzim/104982527244608276) (1 week ago)
 - [arthurlutzim: “#inktober #inktober2020 …”](https://mamot.fr/@arthurlutzim/104976408488153199) (1 week ago)
 - [arthurlutzim: “À partir de https://hackaday.c…”](https://mamot.fr/@arthurlutzim/104972857668352990) (1 week ago)
 
