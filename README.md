@@ -11,9 +11,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (5 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (6 days ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (1 week ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 weeks ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (1 month ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (3 months ago)
@@ -29,9 +29,9 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.16.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.16.0), 1 day ago) - Linter for Awesome lists
-- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.1](https://github.com/microhomie/microhomie/releases/tag/v3.0.1), 1 day ago) - MicroPython implementation of the Homie MQTT convention for IoT.
-- [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 6 days ago) - Console-based Audio Visualizer for Alsa
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.16.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.16.0), 2 days ago) - Linter for Awesome lists
+- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.1](https://github.com/microhomie/microhomie/releases/tag/v3.0.1), 2 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
+- [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 1 week ago) - Console-based Audio Visualizer for Alsa
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 2 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.0.1](https://github.com/Psycojoker/prosopopee/releases/tag/1.0.1), 5 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 7 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “@commownfr @fcayre https://com…”](https://mamot.fr/@arthurlutzim/105022291193971277) (1 day ago)
-- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/105021195440624678) (1 day ago)
-- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/105021190829500968) (1 day ago)
-- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/105021183495431149) (1 day ago)
-- [arthurlutzim: “&#34;A Geared Bench Vise To Clamp …”](https://mamot.fr/@arthurlutzim/105020873451979006) (1 day ago)
+- [arthurlutzim: “@commownfr @fcayre https://com…”](https://mamot.fr/@arthurlutzim/105022291193971277) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/105021195440624678) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/105021190829500968) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/105021183495431149) (2 days ago)
+- [arthurlutzim: “&#34;A Geared Bench Vise To Clamp …”](https://mamot.fr/@arthurlutzim/105020873451979006) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
