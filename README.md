@@ -12,8 +12,8 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 week ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (1 week ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 weeks ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (1 month ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (3 months ago)
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Dans l&#39;ombre d&#39;internet... des…”](https://mamot.fr/@arthurlutzim/105046640844103427) (today)
 - [arthurlutzim: “J&#39;ai bien aimé : …”](https://mamot.fr/@arthurlutzim/105040934928147301) (1 day ago)
 - [arthurlutzim: “&gt; Js13kGames is a JavaScript  …”](https://mamot.fr/@arthurlutzim/105040929577779379) (1 day ago)
 - [arthurlutzim: “Soirée jeux hier soir #j2s #je…”](https://mamot.fr/@arthurlutzim/105032025190322635) (2 days ago)
 - [arthurlutzim: “@commownfr @fcayre https://com…”](https://mamot.fr/@arthurlutzim/105022291193971277) (4 days ago)
-- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/105021195440624678) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
