@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.16.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.16.0), 3 days ago) - Linter for Awesome lists
-- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.1](https://github.com/microhomie/microhomie/releases/tag/v3.0.1), 3 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.16.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.16.0), 4 days ago) - Linter for Awesome lists
+- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.1](https://github.com/microhomie/microhomie/releases/tag/v3.0.1), 4 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 1 week ago) - Console-based Audio Visualizer for Alsa
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 2 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.0.1](https://github.com/Psycojoker/prosopopee/releases/tag/1.0.1), 5 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “J&#39;ai bien aimé : …”](https://mamot.fr/@arthurlutzim/105040934928147301) (today)
-- [arthurlutzim: “&gt; Js13kGames is a JavaScript  …”](https://mamot.fr/@arthurlutzim/105040929577779379) (today)
-- [arthurlutzim: “Soirée jeux hier soir #j2s #je…”](https://mamot.fr/@arthurlutzim/105032025190322635) (1 day ago)
-- [arthurlutzim: “@commownfr @fcayre https://com…”](https://mamot.fr/@arthurlutzim/105022291193971277) (3 days ago)
-- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/105021195440624678) (3 days ago)
+- [arthurlutzim: “J&#39;ai bien aimé : …”](https://mamot.fr/@arthurlutzim/105040934928147301) (1 day ago)
+- [arthurlutzim: “&gt; Js13kGames is a JavaScript  …”](https://mamot.fr/@arthurlutzim/105040929577779379) (1 day ago)
+- [arthurlutzim: “Soirée jeux hier soir #j2s #je…”](https://mamot.fr/@arthurlutzim/105032025190322635) (2 days ago)
+- [arthurlutzim: “@commownfr @fcayre https://com…”](https://mamot.fr/@arthurlutzim/105022291193971277) (4 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #geek …”](https://mamot.fr/@arthurlutzim/105021195440624678) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
