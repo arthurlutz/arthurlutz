@@ -12,9 +12,9 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 week ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (1 week ago)
-- [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 weeks ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
+- [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (4 weeks ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (1 month ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (3 months ago)
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (4 months ago)
@@ -29,8 +29,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.16.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.16.0), 5 days ago) - Linter for Awesome lists
-- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.1](https://github.com/microhomie/microhomie/releases/tag/v3.0.1), 5 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.16.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.16.0), 6 days ago) - Linter for Awesome lists
+- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.1](https://github.com/microhomie/microhomie/releases/tag/v3.0.1), 6 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 1 week ago) - Console-based Audio Visualizer for Alsa
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 2 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.0.1](https://github.com/Psycojoker/prosopopee/releases/tag/1.0.1), 5 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#j2s #jeudeplateau …”](https://mamot.fr/@arthurlutzim/105049668250284565) (today)
-- [arthurlutzim: “Dans l&#39;ombre d&#39;internet... des…”](https://mamot.fr/@arthurlutzim/105046640844103427) (1 day ago)
-- [arthurlutzim: “J&#39;ai bien aimé : …”](https://mamot.fr/@arthurlutzim/105040934928147301) (2 days ago)
-- [arthurlutzim: “&gt; Js13kGames is a JavaScript  …”](https://mamot.fr/@arthurlutzim/105040929577779379) (2 days ago)
-- [arthurlutzim: “Soirée jeux hier soir #j2s #je…”](https://mamot.fr/@arthurlutzim/105032025190322635) (3 days ago)
+- [arthurlutzim: “#j2s #jeudeplateau …”](https://mamot.fr/@arthurlutzim/105049668250284565) (1 day ago)
+- [arthurlutzim: “Dans l&#39;ombre d&#39;internet... des…”](https://mamot.fr/@arthurlutzim/105046640844103427) (2 days ago)
+- [arthurlutzim: “J&#39;ai bien aimé : …”](https://mamot.fr/@arthurlutzim/105040934928147301) (3 days ago)
+- [arthurlutzim: “&gt; Js13kGames is a JavaScript  …”](https://mamot.fr/@arthurlutzim/105040929577779379) (3 days ago)
+- [arthurlutzim: “Soirée jeux hier soir #j2s #je…”](https://mamot.fr/@arthurlutzim/105032025190322635) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
