@@ -12,8 +12,8 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 week ago)
-- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
+- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 weeks ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (4 weeks ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (2 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (3 months ago)
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “#inktober2020 #inktober #storm…”](https://mamot.fr/@arthurlutzim/105061645106916327) (today)
+- [arthurlutzim: “#inktober #inktober2020 #rocke…”](https://mamot.fr/@arthurlutzim/105061587848424557) (today)
 - [arthurlutzim: “#j2s #jeudeplateau …”](https://mamot.fr/@arthurlutzim/105049668250284565) (2 days ago)
 - [arthurlutzim: “Dans l&#39;ombre d&#39;internet... des…”](https://mamot.fr/@arthurlutzim/105046640844103427) (3 days ago)
 - [arthurlutzim: “J&#39;ai bien aimé : …”](https://mamot.fr/@arthurlutzim/105040934928147301) (4 days ago)
-- [arthurlutzim: “&gt; Js13kGames is a JavaScript  …”](https://mamot.fr/@arthurlutzim/105040929577779379) (4 days ago)
-- [arthurlutzim: “Soirée jeux hier soir #j2s #je…”](https://mamot.fr/@arthurlutzim/105032025190322635) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
