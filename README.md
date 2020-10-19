@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “SFR condamnée en appel pour l’…”](https://mamot.fr/@arthurlutzim/105062836595464392) (today)
 - [arthurlutzim: “#inktober2020 #inktober #storm…”](https://mamot.fr/@arthurlutzim/105061645106916327) (today)
 - [arthurlutzim: “#inktober #inktober2020 #rocke…”](https://mamot.fr/@arthurlutzim/105061587848424557) (today)
 - [arthurlutzim: “#j2s #jeudeplateau …”](https://mamot.fr/@arthurlutzim/105049668250284565) (2 days ago)
 - [arthurlutzim: “Dans l&#39;ombre d&#39;internet... des…”](https://mamot.fr/@arthurlutzim/105046640844103427) (3 days ago)
-- [arthurlutzim: “J&#39;ai bien aimé : …”](https://mamot.fr/@arthurlutzim/105040934928147301) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
