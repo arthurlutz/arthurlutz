@@ -12,9 +12,9 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 week ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 weeks ago)
-- [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (4 weeks ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
+- [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (1 month ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (2 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (3 months ago)
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (4 months ago)
@@ -42,16 +42,16 @@ Say Hello, I don't bite!
 
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (4 weeks ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (4 months ago)
-- [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (4 months ago)
+- [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (5 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (5 months ago)
 - [Android alternatifs sur Samsung G7](https://arthur.lutz.im/blog/2020/04/26/android-alternatifs-sur-samsung-g7/) (5 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Le Katorza : un siècle d’histo…”](https://mamot.fr/@arthurlutzim/105062857313388795) (today)
-- [arthurlutzim: “SFR condamnée en appel pour l’…”](https://mamot.fr/@arthurlutzim/105062836595464392) (today)
-- [arthurlutzim: “#inktober2020 #inktober #storm…”](https://mamot.fr/@arthurlutzim/105061645106916327) (today)
-- [arthurlutzim: “#inktober #inktober2020 #rocke…”](https://mamot.fr/@arthurlutzim/105061587848424557) (today)
-- [arthurlutzim: “#j2s #jeudeplateau …”](https://mamot.fr/@arthurlutzim/105049668250284565) (2 days ago)
+- [arthurlutzim: “Le Katorza : un siècle d’histo…”](https://mamot.fr/@arthurlutzim/105062857313388795) (1 day ago)
+- [arthurlutzim: “SFR condamnée en appel pour l’…”](https://mamot.fr/@arthurlutzim/105062836595464392) (1 day ago)
+- [arthurlutzim: “#inktober2020 #inktober #storm…”](https://mamot.fr/@arthurlutzim/105061645106916327) (1 day ago)
+- [arthurlutzim: “#inktober #inktober2020 #rocke…”](https://mamot.fr/@arthurlutzim/105061587848424557) (1 day ago)
+- [arthurlutzim: “#j2s #jeudeplateau …”](https://mamot.fr/@arthurlutzim/105049668250284565) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
