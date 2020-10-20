@@ -11,6 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (today)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 weeks ago)
@@ -20,7 +21,6 @@ Say Hello, I don't bite!
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (4 months ago)
 - [YunoHost-Apps/calibreweb_ynh](https://github.com/YunoHost-Apps/calibreweb_ynh) - Calibre-web package for YunoHost (4 months ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (6 months ago)
-- [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “#teamvieux il y a fort longtem…”](https://mamot.fr/@arthurlutzim/105066875406728023) (today)
+- [arthurlutzim: “#inktober #inktober2020 #dizzy…”](https://mamot.fr/@arthurlutzim/105066855474061850) (today)
 - [arthurlutzim: “#inktober #inktober2020 #trap…”](https://mamot.fr/@arthurlutzim/105066780952721157) (today)
 - [arthurlutzim: “Le Katorza : un siècle d’histo…”](https://mamot.fr/@arthurlutzim/105062857313388795) (1 day ago)
 - [arthurlutzim: “SFR condamnée en appel pour l’…”](https://mamot.fr/@arthurlutzim/105062836595464392) (1 day ago)
-- [arthurlutzim: “#inktober2020 #inktober #storm…”](https://mamot.fr/@arthurlutzim/105061645106916327) (1 day ago)
-- [arthurlutzim: “#inktober #inktober2020 #rocke…”](https://mamot.fr/@arthurlutzim/105061587848424557) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
