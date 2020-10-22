@@ -11,8 +11,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (1 day ago)
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 week ago)
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (2 days ago)
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 weeks ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (1 month ago)
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#inktober #inktober2020 #sleep…”](https://mamot.fr/@arthurlutzim/105072609068844498) (today)
-- [arthurlutzim: “#inktober #inktober2020 #coral…”](https://mamot.fr/@arthurlutzim/105067413850236444) (1 day ago)
-- [arthurlutzim: “#teamvieux il y a fort longtem…”](https://mamot.fr/@arthurlutzim/105066875406728023) (1 day ago)
-- [arthurlutzim: “#inktober #inktober2020 #dizzy…”](https://mamot.fr/@arthurlutzim/105066855474061850) (1 day ago)
-- [arthurlutzim: “#inktober #inktober2020 #trap…”](https://mamot.fr/@arthurlutzim/105066780952721157) (1 day ago)
+- [arthurlutzim: “#inktober #inktober2020 #sleep…”](https://mamot.fr/@arthurlutzim/105072609068844498) (1 day ago)
+- [arthurlutzim: “#inktober #inktober2020 #coral…”](https://mamot.fr/@arthurlutzim/105067413850236444) (2 days ago)
+- [arthurlutzim: “#teamvieux il y a fort longtem…”](https://mamot.fr/@arthurlutzim/105066875406728023) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #dizzy…”](https://mamot.fr/@arthurlutzim/105066855474061850) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #trap…”](https://mamot.fr/@arthurlutzim/105066780952721157) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
