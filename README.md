@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “#inktober #inktober2020 #chef …”](https://mamot.fr/@arthurlutzim/105078282345642672) (today)
 - [arthurlutzim: “Guided Tour of the Precursor M…”](https://mamot.fr/@arthurlutzim/105077471103355923) (today)
 - [arthurlutzim: “Eric Paré - Montréal…”](https://mamot.fr/@arthurlutzim/105077412611667576) (today)
 - [arthurlutzim: “#inktober #inktober2020 #sleep…”](https://mamot.fr/@arthurlutzim/105072609068844498) (1 day ago)
 - [arthurlutzim: “#inktober #inktober2020 #coral…”](https://mamot.fr/@arthurlutzim/105067413850236444) (2 days ago)
-- [arthurlutzim: “#teamvieux il y a fort longtem…”](https://mamot.fr/@arthurlutzim/105066875406728023) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
