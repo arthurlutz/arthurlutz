@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (2 days ago)
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (3 days ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 weeks ago)
@@ -44,14 +44,14 @@ Say Hello, I don't bite!
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (4 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (5 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (5 months ago)
-- [Android alternatifs sur Samsung G7](https://arthur.lutz.im/blog/2020/04/26/android-alternatifs-sur-samsung-g7/) (5 months ago)
+- [Android alternatifs sur Samsung G7](https://arthur.lutz.im/blog/2020/04/26/android-alternatifs-sur-samsung-g7/) (6 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#inktober #inktober2020 #chef …”](https://mamot.fr/@arthurlutzim/105078282345642672) (today)
-- [arthurlutzim: “Guided Tour of the Precursor M…”](https://mamot.fr/@arthurlutzim/105077471103355923) (today)
-- [arthurlutzim: “Eric Paré - Montréal…”](https://mamot.fr/@arthurlutzim/105077412611667576) (today)
-- [arthurlutzim: “#inktober #inktober2020 #sleep…”](https://mamot.fr/@arthurlutzim/105072609068844498) (1 day ago)
-- [arthurlutzim: “#inktober #inktober2020 #coral…”](https://mamot.fr/@arthurlutzim/105067413850236444) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #chef …”](https://mamot.fr/@arthurlutzim/105078282345642672) (1 day ago)
+- [arthurlutzim: “Guided Tour of the Precursor M…”](https://mamot.fr/@arthurlutzim/105077471103355923) (1 day ago)
+- [arthurlutzim: “Eric Paré - Montréal…”](https://mamot.fr/@arthurlutzim/105077412611667576) (1 day ago)
+- [arthurlutzim: “#inktober #inktober2020 #sleep…”](https://mamot.fr/@arthurlutzim/105072609068844498) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #coral…”](https://mamot.fr/@arthurlutzim/105067413850236444) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
