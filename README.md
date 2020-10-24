@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (3 days ago)
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (4 days ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 weeks ago)
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#inktober #inktober2020 #rip…”](https://mamot.fr/@arthurlutzim/105083863627772068) (today)
-- [arthurlutzim: “#inktober #inktober2020 #chef …”](https://mamot.fr/@arthurlutzim/105078282345642672) (1 day ago)
-- [arthurlutzim: “Guided Tour of the Precursor M…”](https://mamot.fr/@arthurlutzim/105077471103355923) (1 day ago)
-- [arthurlutzim: “Eric Paré - Montréal…”](https://mamot.fr/@arthurlutzim/105077412611667576) (1 day ago)
-- [arthurlutzim: “#inktober #inktober2020 #sleep…”](https://mamot.fr/@arthurlutzim/105072609068844498) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #rip…”](https://mamot.fr/@arthurlutzim/105083863627772068) (1 day ago)
+- [arthurlutzim: “#inktober #inktober2020 #chef …”](https://mamot.fr/@arthurlutzim/105078282345642672) (2 days ago)
+- [arthurlutzim: “Guided Tour of the Precursor M…”](https://mamot.fr/@arthurlutzim/105077471103355923) (2 days ago)
+- [arthurlutzim: “Eric Paré - Montréal…”](https://mamot.fr/@arthurlutzim/105077412611667576) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #sleep…”](https://mamot.fr/@arthurlutzim/105072609068844498) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
