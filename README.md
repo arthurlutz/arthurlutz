@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (4 days ago)
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (5 days ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 weeks ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), today) - MicroPython implementation of the Homie MQTT convention for IoT.
+- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 1 day ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.16.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.16.0), 1 week ago) - Linter for Awesome lists
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 2 weeks ago) - Console-based Audio Visualizer for Alsa
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 3 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -43,15 +43,15 @@ Say Hello, I don't bite!
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 month ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (4 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (5 months ago)
-- [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (5 months ago)
+- [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (6 months ago)
 - [Android alternatifs sur Samsung G7](https://arthur.lutz.im/blog/2020/04/26/android-alternatifs-sur-samsung-g7/) (6 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#inktober #inktober2020 #rip…”](https://mamot.fr/@arthurlutzim/105083863627772068) (1 day ago)
-- [arthurlutzim: “#inktober #inktober2020 #chef …”](https://mamot.fr/@arthurlutzim/105078282345642672) (2 days ago)
-- [arthurlutzim: “Guided Tour of the Precursor M…”](https://mamot.fr/@arthurlutzim/105077471103355923) (2 days ago)
-- [arthurlutzim: “Eric Paré - Montréal…”](https://mamot.fr/@arthurlutzim/105077412611667576) (2 days ago)
-- [arthurlutzim: “#inktober #inktober2020 #sleep…”](https://mamot.fr/@arthurlutzim/105072609068844498) (3 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #rip…”](https://mamot.fr/@arthurlutzim/105083863627772068) (2 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #chef …”](https://mamot.fr/@arthurlutzim/105078282345642672) (3 days ago)
+- [arthurlutzim: “Guided Tour of the Precursor M…”](https://mamot.fr/@arthurlutzim/105077471103355923) (3 days ago)
+- [arthurlutzim: “Eric Paré - Montréal…”](https://mamot.fr/@arthurlutzim/105077412611667576) (3 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #sleep…”](https://mamot.fr/@arthurlutzim/105072609068844498) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
