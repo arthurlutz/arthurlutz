@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (6 days ago)
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (1 week ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (3 weeks ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 2 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
+- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 3 days ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.16.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.16.0), 2 weeks ago) - Linter for Awesome lists
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 2 weeks ago) - Console-based Audio Visualizer for Alsa
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 3 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “How FLASH GAMES shaped the vid…”](https://mamot.fr/@arthurlutzim/105102231095652881) (today)
-- [arthurlutzim: “#inktober #inktober2020 #rip…”](https://mamot.fr/@arthurlutzim/105083863627772068) (3 days ago)
-- [arthurlutzim: “#inktober #inktober2020 #chef …”](https://mamot.fr/@arthurlutzim/105078282345642672) (4 days ago)
-- [arthurlutzim: “Guided Tour of the Precursor M…”](https://mamot.fr/@arthurlutzim/105077471103355923) (4 days ago)
-- [arthurlutzim: “Eric Paré - Montréal…”](https://mamot.fr/@arthurlutzim/105077412611667576) (4 days ago)
+- [arthurlutzim: “How FLASH GAMES shaped the vid…”](https://mamot.fr/@arthurlutzim/105102231095652881) (1 day ago)
+- [arthurlutzim: “#inktober #inktober2020 #rip…”](https://mamot.fr/@arthurlutzim/105083863627772068) (4 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #chef …”](https://mamot.fr/@arthurlutzim/105078282345642672) (5 days ago)
+- [arthurlutzim: “Guided Tour of the Precursor M…”](https://mamot.fr/@arthurlutzim/105077471103355923) (5 days ago)
+- [arthurlutzim: “Eric Paré - Montréal…”](https://mamot.fr/@arthurlutzim/105077412611667576) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
