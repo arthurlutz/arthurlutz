@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (1 week ago)
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (2 weeks ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (3 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (4 weeks ago)
@@ -20,7 +20,7 @@ Say Hello, I don't bite!
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (3 months ago)
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (4 months ago)
 - [YunoHost-Apps/calibreweb_ynh](https://github.com/YunoHost-Apps/calibreweb_ynh) - Calibre-web package for YunoHost (4 months ago)
-- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (6 months ago)
+- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.0), 5 days ago) - Linter for Awesome lists
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.0), 6 days ago) - Linter for Awesome lists
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 1 week ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 3 weeks ago) - Console-based Audio Visualizer for Alsa
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 3 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “How a Pinball Machine works in…”](https://mamot.fr/@arthurlutzim/105140446715806275) (today)
-- [arthurlutzim: “Regarder la liste des contribu…”](https://mamot.fr/@arthurlutzim/105140243235955453) (today)
-- [arthurlutzim: “An open-source video transcode…”](https://mamot.fr/@arthurlutzim/105140185070566833) (today)
-- [arthurlutzim: “#inktober #inktober2020 #crawl…”](https://mamot.fr/@arthurlutzim/105128851610550864) (2 days ago)
-- [arthurlutzim: “#inktober #inktober2020 #omino…”](https://mamot.fr/@arthurlutzim/105128789047106716) (2 days ago)
+- [arthurlutzim: “How a Pinball Machine works in…”](https://mamot.fr/@arthurlutzim/105140446715806275) (1 day ago)
+- [arthurlutzim: “Regarder la liste des contribu…”](https://mamot.fr/@arthurlutzim/105140243235955453) (1 day ago)
+- [arthurlutzim: “An open-source video transcode…”](https://mamot.fr/@arthurlutzim/105140185070566833) (1 day ago)
+- [arthurlutzim: “#inktober #inktober2020 #crawl…”](https://mamot.fr/@arthurlutzim/105128851610550864) (3 days ago)
+- [arthurlutzim: “#inktober #inktober2020 #omino…”](https://mamot.fr/@arthurlutzim/105128789047106716) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
