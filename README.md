@@ -40,18 +40,18 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
+- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (today)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 month ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (5 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (5 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (6 months ago)
-- [Android alternatifs sur Samsung G7](https://arthur.lutz.im/blog/2020/04/26/android-alternatifs-sur-samsung-g7/) (6 months ago)
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “[blog] Inktober 2020 https://a…”](https://mamot.fr/@arthurlutzim/105182715394271229) (today)
 - [arthurlutzim: “The Octopad…”](https://mamot.fr/@arthurlutzim/105181602867015169) (today)
 - [arthurlutzim: “Réparation en cours: Sèche che…”](https://mamot.fr/@arthurlutzim/105179618087410167) (today)
 - [arthurlutzim: “Réparation en cours: écran Ben…”](https://mamot.fr/@arthurlutzim/105179601974354209) (today)
 - [arthurlutzim: “Réparation chaine hifi Kenwood…”](https://mamot.fr/@arthurlutzim/105179582230923716) (today)
-- [arthurlutzim: “À Carquefou, ouverture d&#39;un ha…”](https://mamot.fr/@arthurlutzim/105176419169068842) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
