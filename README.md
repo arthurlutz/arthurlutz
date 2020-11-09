@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Réparation en cours: écran Ben…”](https://mamot.fr/@arthurlutzim/105179601974354209) (today)
+- [arthurlutzim: “Réparation chaine hifi Kenwood…”](https://mamot.fr/@arthurlutzim/105179582230923716) (today)
 - [arthurlutzim: “À Carquefou, ouverture d&#39;un ha…”](https://mamot.fr/@arthurlutzim/105176419169068842) (1 day ago)
 - [arthurlutzim: “Pas loin de chez moi, au Nord …”](https://mamot.fr/@arthurlutzim/105176391005862760) (1 day ago)
 - [arthurlutzim: “Concert confiné du soir : …”](https://mamot.fr/@arthurlutzim/105170133810437946) (2 days ago)
-- [arthurlutzim: “On peut même éditer ses propre…”](https://mamot.fr/@arthurlutzim/105170049185825837) (2 days ago)
-- [arthurlutzim: “Découverte du jour : https://w…”](https://mamot.fr/@arthurlutzim/105170041815139140) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
