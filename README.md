@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (2 weeks ago)
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (3 weeks ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 month ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (1 month ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
@@ -34,13 +34,13 @@ Say Hello, I don't bite!
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 1 month ago) - Console-based Audio Visualizer for Alsa
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 3 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.0.1](https://github.com/Psycojoker/prosopopee/releases/tag/1.0.1), 6 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
-- [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 7 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
+- [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 8 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [YunoHost/yunohost-admin](https://github.com/YunoHost/yunohost-admin) ([debian/2.7.13](https://github.com/YunoHost/yunohost-admin/releases/tag/debian%2F2.7.13), 2 years ago) - Web administration interface for YunoHost
 - [openhab/openhab1-addons](https://github.com/openhab/openhab1-addons) ([v1.9.0](https://github.com/openhab/openhab1-addons/releases/tag/v1.9.0), 3 years ago) - Add-ons for openHAB 1.x
 
 #### 📜 My recent blog posts
 
-- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (today)
+- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (1 day ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 month ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (5 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (5 months ago)
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “[blog] Inktober 2020 https://a…”](https://mamot.fr/@arthurlutzim/105182715394271229) (today)
-- [arthurlutzim: “The Octopad…”](https://mamot.fr/@arthurlutzim/105181602867015169) (today)
-- [arthurlutzim: “Réparation en cours: Sèche che…”](https://mamot.fr/@arthurlutzim/105179618087410167) (today)
-- [arthurlutzim: “Réparation en cours: écran Ben…”](https://mamot.fr/@arthurlutzim/105179601974354209) (today)
-- [arthurlutzim: “Réparation chaine hifi Kenwood…”](https://mamot.fr/@arthurlutzim/105179582230923716) (today)
+- [arthurlutzim: “[blog] Inktober 2020 https://a…”](https://mamot.fr/@arthurlutzim/105182715394271229) (1 day ago)
+- [arthurlutzim: “The Octopad…”](https://mamot.fr/@arthurlutzim/105181602867015169) (1 day ago)
+- [arthurlutzim: “Réparation en cours: Sèche che…”](https://mamot.fr/@arthurlutzim/105179618087410167) (1 day ago)
+- [arthurlutzim: “Réparation en cours: écran Ben…”](https://mamot.fr/@arthurlutzim/105179601974354209) (1 day ago)
+- [arthurlutzim: “Réparation chaine hifi Kenwood…”](https://mamot.fr/@arthurlutzim/105179582230923716) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
