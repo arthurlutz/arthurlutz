@@ -40,7 +40,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (2 days ago)
+- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (3 days ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 month ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (5 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (5 months ago)
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “[blog] Inktober 2020 https://a…”](https://mamot.fr/@arthurlutzim/105182715394271229) (2 days ago)
-- [arthurlutzim: “The Octopad…”](https://mamot.fr/@arthurlutzim/105181602867015169) (2 days ago)
-- [arthurlutzim: “Réparation en cours: Sèche che…”](https://mamot.fr/@arthurlutzim/105179618087410167) (2 days ago)
-- [arthurlutzim: “Réparation en cours: écran Ben…”](https://mamot.fr/@arthurlutzim/105179601974354209) (2 days ago)
-- [arthurlutzim: “Réparation chaine hifi Kenwood…”](https://mamot.fr/@arthurlutzim/105179582230923716) (2 days ago)
+- [arthurlutzim: “[blog] Inktober 2020 https://a…”](https://mamot.fr/@arthurlutzim/105182715394271229) (3 days ago)
+- [arthurlutzim: “The Octopad…”](https://mamot.fr/@arthurlutzim/105181602867015169) (3 days ago)
+- [arthurlutzim: “Réparation en cours: Sèche che…”](https://mamot.fr/@arthurlutzim/105179618087410167) (3 days ago)
+- [arthurlutzim: “Réparation en cours: écran Ben…”](https://mamot.fr/@arthurlutzim/105179601974354209) (3 days ago)
+- [arthurlutzim: “Réparation chaine hifi Kenwood…”](https://mamot.fr/@arthurlutzim/105179582230923716) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
