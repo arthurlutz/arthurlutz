@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), today) - Testinfra test your infrastructures
+- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 day ago) - Testinfra test your infrastructures
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.0), 2 weeks ago) - Linter for Awesome lists
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 2 weeks ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 1 month ago) - Console-based Audio Visualizer for Alsa
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (3 days ago)
+- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (4 days ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 month ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (5 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (5 months ago)
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “[blog] Inktober 2020 https://a…”](https://mamot.fr/@arthurlutzim/105182715394271229) (3 days ago)
-- [arthurlutzim: “The Octopad…”](https://mamot.fr/@arthurlutzim/105181602867015169) (3 days ago)
-- [arthurlutzim: “Réparation en cours: Sèche che…”](https://mamot.fr/@arthurlutzim/105179618087410167) (3 days ago)
-- [arthurlutzim: “Réparation en cours: écran Ben…”](https://mamot.fr/@arthurlutzim/105179601974354209) (3 days ago)
-- [arthurlutzim: “Réparation chaine hifi Kenwood…”](https://mamot.fr/@arthurlutzim/105179582230923716) (3 days ago)
+- [arthurlutzim: “[blog] Inktober 2020 https://a…”](https://mamot.fr/@arthurlutzim/105182715394271229) (4 days ago)
+- [arthurlutzim: “The Octopad…”](https://mamot.fr/@arthurlutzim/105181602867015169) (4 days ago)
+- [arthurlutzim: “Réparation en cours: Sèche che…”](https://mamot.fr/@arthurlutzim/105179618087410167) (4 days ago)
+- [arthurlutzim: “Réparation en cours: écran Ben…”](https://mamot.fr/@arthurlutzim/105179601974354209) (4 days ago)
+- [arthurlutzim: “Réparation chaine hifi Kenwood…”](https://mamot.fr/@arthurlutzim/105179582230923716) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
