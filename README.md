@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Petite pause du rangement de m…”](https://mamot.fr/@arthurlutzim/105208850050622064) (today)
 - [arthurlutzim: “✊ Rassemblement pour faire bar…”](https://mamot.fr/@arthurlutzim/105201829800338539) (1 day ago)
 - [arthurlutzim: “[blog] Inktober 2020 https://a…”](https://mamot.fr/@arthurlutzim/105182715394271229) (5 days ago)
 - [arthurlutzim: “The Octopad…”](https://mamot.fr/@arthurlutzim/105181602867015169) (5 days ago)
 - [arthurlutzim: “Réparation en cours: Sèche che…”](https://mamot.fr/@arthurlutzim/105179618087410167) (5 days ago)
-- [arthurlutzim: “Réparation en cours: écran Ben…”](https://mamot.fr/@arthurlutzim/105179601974354209) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
