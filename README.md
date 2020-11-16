@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Réparation : Microphone USB Ro…”](https://mamot.fr/@arthurlutzim/105220854644687086) (today)
+- [arthurlutzim: “Réparation : Microphone USB Ro…”](https://mamot.fr/@arthurlutzim/105220838204494594) (today)
 - [arthurlutzim: “🎉🐧 postmaketOS working on an &#34;…”](https://mamot.fr/@arthurlutzim/105214058506725690) (1 day ago)
 - [arthurlutzim: “Les passages secrets du web…”](https://mamot.fr/@arthurlutzim/105210339334574348) (2 days ago)
 - [arthurlutzim: “Réparation enceinte Altec, c&#39;e…”](https://mamot.fr/@arthurlutzim/105209360262131715) (2 days ago)
-- [arthurlutzim: “Petite pause du rangement de m…”](https://mamot.fr/@arthurlutzim/105208850050622064) (2 days ago)
-- [arthurlutzim: “✊ Rassemblement pour faire bar…”](https://mamot.fr/@arthurlutzim/105201829800338539) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
