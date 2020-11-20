@@ -13,8 +13,8 @@ Say Hello, I don't bite!
 
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (1 month ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 month ago)
-- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (1 month ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
+- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (1 month ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (2 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (3 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (4 months ago)
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Pour mieux comprendre les enje…”](https://mamot.fr/@arthurlutzim/105243961432338171) (today)
+- [arthurlutzim: “Nantes: Élaboration du règleme…”](https://mamot.fr/@arthurlutzim/105243938091052373) (today)
 - [arthurlutzim: “Datasheet du composant trouvée…”](https://mamot.fr/@arthurlutzim/105221097186212780) (4 days ago)
 - [arthurlutzim: “Réparation : Microphone USB Ro…”](https://mamot.fr/@arthurlutzim/105220854644687086) (4 days ago)
 - [arthurlutzim: “Réparation : Microphone USB Ro…”](https://mamot.fr/@arthurlutzim/105220838204494594) (4 days ago)
-- [arthurlutzim: “🎉🐧 postmaketOS working on an &#34;…”](https://mamot.fr/@arthurlutzim/105214058506725690) (5 days ago)
-- [arthurlutzim: “Les passages secrets du web…”](https://mamot.fr/@arthurlutzim/105210339334574348) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
