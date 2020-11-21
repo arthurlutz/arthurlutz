@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 week ago) - Testinfra test your infrastructures
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.0), 3 weeks ago) - Linter for Awesome lists
-- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 3 weeks ago) - MicroPython implementation of the Homie MQTT convention for IoT.
+- [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 4 weeks ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 1 month ago) - Console-based Audio Visualizer for Alsa
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 4 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.0.1](https://github.com/Psycojoker/prosopopee/releases/tag/1.0.1), 6 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Pour mieux comprendre les enje…”](https://mamot.fr/@arthurlutzim/105243961432338171) (today)
-- [arthurlutzim: “Nantes: Élaboration du règleme…”](https://mamot.fr/@arthurlutzim/105243938091052373) (today)
-- [arthurlutzim: “Datasheet du composant trouvée…”](https://mamot.fr/@arthurlutzim/105221097186212780) (4 days ago)
-- [arthurlutzim: “Réparation : Microphone USB Ro…”](https://mamot.fr/@arthurlutzim/105220854644687086) (4 days ago)
-- [arthurlutzim: “Réparation : Microphone USB Ro…”](https://mamot.fr/@arthurlutzim/105220838204494594) (4 days ago)
+- [arthurlutzim: “Pour mieux comprendre les enje…”](https://mamot.fr/@arthurlutzim/105243961432338171) (1 day ago)
+- [arthurlutzim: “Nantes: Élaboration du règleme…”](https://mamot.fr/@arthurlutzim/105243938091052373) (1 day ago)
+- [arthurlutzim: “Datasheet du composant trouvée…”](https://mamot.fr/@arthurlutzim/105221097186212780) (5 days ago)
+- [arthurlutzim: “Réparation : Microphone USB Ro…”](https://mamot.fr/@arthurlutzim/105220854644687086) (5 days ago)
+- [arthurlutzim: “Réparation : Microphone USB Ro…”](https://mamot.fr/@arthurlutzim/105220838204494594) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
