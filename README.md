@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (today)
+- [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (1 day ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (1 month ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 month ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (1 month ago)
@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), today) - a static website generator to make beautiful customizable pictures galleries that tell a story
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 1 day ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 week ago) - Testinfra test your infrastructures
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.0), 3 weeks ago) - Linter for Awesome lists
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 1 month ago) - MicroPython implementation of the Homie MQTT convention for IoT.
@@ -46,14 +46,14 @@ Say Hello, I don't bite!
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (2 months ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (5 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (6 months ago)
-- [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (6 months ago)
+- [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (7 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Dans la série des concerts vis…”](https://mamot.fr/@arthurlutzim/105259089804181294) (today)
-- [arthurlutzim: “Avec le confinement, les conce…”](https://mamot.fr/@arthurlutzim/105259057033464091) (today)
-- [arthurlutzim: “📰 🔧 Living in Syndication…”](https://mamot.fr/@arthurlutzim/105258622199762889) (today)
-- [arthurlutzim: “Pour mieux comprendre les enje…”](https://mamot.fr/@arthurlutzim/105243961432338171) (3 days ago)
-- [arthurlutzim: “Nantes: Élaboration du règleme…”](https://mamot.fr/@arthurlutzim/105243938091052373) (3 days ago)
+- [arthurlutzim: “Dans la série des concerts vis…”](https://mamot.fr/@arthurlutzim/105259089804181294) (1 day ago)
+- [arthurlutzim: “Avec le confinement, les conce…”](https://mamot.fr/@arthurlutzim/105259057033464091) (1 day ago)
+- [arthurlutzim: “📰 🔧 Living in Syndication…”](https://mamot.fr/@arthurlutzim/105258622199762889) (1 day ago)
+- [arthurlutzim: “Pour mieux comprendre les enje…”](https://mamot.fr/@arthurlutzim/105243961432338171) (4 days ago)
+- [arthurlutzim: “Nantes: Élaboration du règleme…”](https://mamot.fr/@arthurlutzim/105243938091052373) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
