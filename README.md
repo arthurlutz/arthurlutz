@@ -31,7 +31,6 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 1 day ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
-- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) ([6.1.0](https://github.com/pytest-dev/pytest-testinfra/releases/tag/6.1.0), 1 week ago) - Testinfra test your infrastructures
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.0), 3 weeks ago) - Linter for Awesome lists
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 1 month ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 1 month ago) - Console-based Audio Visualizer for Alsa
