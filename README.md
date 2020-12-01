@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 1 day ago) - Linter for Awesome lists
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 2 days ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 1 week ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 1 month ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 1 month ago) - Console-based Audio Visualizer for Alsa
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Just got my @sylvia_ritter@mas…”](https://mamot.fr/@arthurlutzim/105282292033075761) (3 days ago)
-- [arthurlutzim: “Récit d’une habitante du quart…”](https://mamot.fr/@arthurlutzim/105282215794454535) (3 days ago)
-- [arthurlutzim: “Hier soir, soirée jeux de soci…”](https://mamot.fr/@arthurlutzim/105269870462473670) (5 days ago)
-- [arthurlutzim: “@dulsi@social.freegamedev.net …”](https://mamot.fr/@arthurlutzim/105266391681803451) (6 days ago)
-- [arthurlutzim: “@dulsi@social.freegamedev.net …”](https://mamot.fr/@arthurlutzim/105266387975042964) (6 days ago)
+- [arthurlutzim: “Just got my @sylvia_ritter@mas…”](https://mamot.fr/@arthurlutzim/105282292033075761) (4 days ago)
+- [arthurlutzim: “Récit d’une habitante du quart…”](https://mamot.fr/@arthurlutzim/105282215794454535) (4 days ago)
+- [arthurlutzim: “Hier soir, soirée jeux de soci…”](https://mamot.fr/@arthurlutzim/105269870462473670) (6 days ago)
+- [arthurlutzim: “@dulsi@social.freegamedev.net …”](https://mamot.fr/@arthurlutzim/105266391681803451) (1 week ago)
+- [arthurlutzim: “@dulsi@social.freegamedev.net …”](https://mamot.fr/@arthurlutzim/105266387975042964) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
