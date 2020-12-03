@@ -50,10 +50,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Les Trans Musicales de Rennes …”](https://mamot.fr/@arthurlutzim/105317954980198301) (today)
 - [arthurlutzim: “Just got my @sylvia_ritter@mas…”](https://mamot.fr/@arthurlutzim/105282292033075761) (6 days ago)
 - [arthurlutzim: “Récit d’une habitante du quart…”](https://mamot.fr/@arthurlutzim/105282215794454535) (6 days ago)
 - [arthurlutzim: “Hier soir, soirée jeux de soci…”](https://mamot.fr/@arthurlutzim/105269870462473670) (1 week ago)
 - [arthurlutzim: “@dulsi@social.freegamedev.net …”](https://mamot.fr/@arthurlutzim/105266391681803451) (1 week ago)
-- [arthurlutzim: “@dulsi@social.freegamedev.net …”](https://mamot.fr/@arthurlutzim/105266387975042964) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
