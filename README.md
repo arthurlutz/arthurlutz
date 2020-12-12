@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.2](https://github.com/libretro/ludo/releases/tag/v0.12.2), 6 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.2](https://github.com/libretro/ludo/releases/tag/v0.12.2), 1 week ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 1 week ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 2 weeks ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 1 month ago) - MicroPython implementation of the Homie MQTT convention for IoT.
@@ -50,8 +50,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355984984225712) (1 day ago)
-- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355970995418175) (1 day ago)
+- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355984984225712) (2 days ago)
+- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355970995418175) (2 days ago)
 - [arthurlutzim: “Les Trans Musicales de Rennes …”](https://mamot.fr/@arthurlutzim/105317954980198301) (1 week ago)
 - [arthurlutzim: “Just got my @sylvia_ritter@mas…”](https://mamot.fr/@arthurlutzim/105282292033075761) (2 weeks ago)
 - [arthurlutzim: “Récit d’une habitante du quart…”](https://mamot.fr/@arthurlutzim/105282215794454535) (2 weeks ago)
