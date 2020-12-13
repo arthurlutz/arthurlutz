@@ -15,8 +15,8 @@ Say Hello, I don't bite!
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (2 weeks ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (1 month ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 months ago)
-- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 months ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
+- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (2 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (3 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (5 months ago)
@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.2](https://github.com/libretro/ludo/releases/tag/v0.12.2), 1 week ago) - A libretro frontend written in golang
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 1 week ago) - Linter for Awesome lists
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 2 weeks ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 2 weeks ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 1 month ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 2 months ago) - Console-based Audio Visualizer for Alsa
@@ -50,9 +50,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Réparation et maintenance de f…”](https://mamot.fr/@arthurlutzim/105366514992319870) (today)
-- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355984984225712) (2 days ago)
-- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355970995418175) (2 days ago)
+- [arthurlutzim: “Réparation et maintenance de f…”](https://mamot.fr/@arthurlutzim/105366514992319870) (1 day ago)
+- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355984984225712) (3 days ago)
+- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355970995418175) (3 days ago)
 - [arthurlutzim: “Les Trans Musicales de Rennes …”](https://mamot.fr/@arthurlutzim/105317954980198301) (1 week ago)
 - [arthurlutzim: “Just got my @sylvia_ritter@mas…”](https://mamot.fr/@arthurlutzim/105282292033075761) (2 weeks ago)
 
