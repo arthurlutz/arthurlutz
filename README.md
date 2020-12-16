@@ -15,8 +15,8 @@ Say Hello, I don't bite!
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (3 weeks ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (1 month ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 months ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 months ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (2 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (3 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (5 months ago)
@@ -34,7 +34,6 @@ Say Hello, I don't bite!
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 2 weeks ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 3 weeks ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 1 month ago) - MicroPython implementation of the Homie MQTT convention for IoT.
-- [karlstav/cava](https://github.com/karlstav/cava) ([0.7.3](https://github.com/karlstav/cava/releases/tag/0.7.3), 2 months ago) - Console-based Audio Visualizer for Alsa
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 4 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 9 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [YunoHost/yunohost-admin](https://github.com/YunoHost/yunohost-admin) ([debian/2.7.13](https://github.com/YunoHost/yunohost-admin/releases/tag/debian%2F2.7.13), 2 years ago) - Web administration interface for YunoHost
