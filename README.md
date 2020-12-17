@@ -11,12 +11,12 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (1 week ago)
+- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (2 weeks ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (3 weeks ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (1 month ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 months ago)
-- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 months ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
+- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (2 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (3 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (5 months ago)
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Réparation et maintenance de f…”](https://mamot.fr/@arthurlutzim/105366514992319870) (4 days ago)
-- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355984984225712) (6 days ago)
-- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355970995418175) (6 days ago)
-- [arthurlutzim: “Les Trans Musicales de Rennes …”](https://mamot.fr/@arthurlutzim/105317954980198301) (1 week ago)
+- [arthurlutzim: “Réparation et maintenance de f…”](https://mamot.fr/@arthurlutzim/105366514992319870) (5 days ago)
+- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355984984225712) (1 week ago)
+- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355970995418175) (1 week ago)
+- [arthurlutzim: “Les Trans Musicales de Rennes …”](https://mamot.fr/@arthurlutzim/105317954980198301) (2 weeks ago)
 - [arthurlutzim: “Just got my @sylvia_ritter@mas…”](https://mamot.fr/@arthurlutzim/105282292033075761) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
