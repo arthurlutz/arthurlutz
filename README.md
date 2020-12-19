@@ -13,11 +13,11 @@ Say Hello, I don't bite!
 
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (2 weeks ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (3 weeks ago)
-- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (1 month ago)
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (2 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 months ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 months ago)
-- [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (2 months ago)
+- [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (4 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (5 months ago)
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (6 months ago)
@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.2](https://github.com/libretro/ludo/releases/tag/v0.12.2), 1 week ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.2](https://github.com/libretro/ludo/releases/tag/v0.12.2), 2 weeks ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 2 weeks ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 3 weeks ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 1 month ago) - MicroPython implementation of the Homie MQTT convention for IoT.
@@ -44,13 +44,13 @@ Say Hello, I don't bite!
 - [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (1 month ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (2 months ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (6 months ago)
-- [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (6 months ago)
+- [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (7 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (7 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/105394409858670005) (1 day ago)
-- [arthurlutzim: “Réparation et maintenance de f…”](https://mamot.fr/@arthurlutzim/105366514992319870) (6 days ago)
+- [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/105394409858670005) (2 days ago)
+- [arthurlutzim: “Réparation et maintenance de f…”](https://mamot.fr/@arthurlutzim/105366514992319870) (1 week ago)
 - [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355984984225712) (1 week ago)
 - [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355970995418175) (1 week ago)
 - [arthurlutzim: “Les Trans Musicales de Rennes …”](https://mamot.fr/@arthurlutzim/105317954980198301) (2 weeks ago)
