@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.2](https://github.com/libretro/ludo/releases/tag/v0.12.2), 2 weeks ago) - A libretro frontend written in golang
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 2 weeks ago) - Linter for Awesome lists
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 3 weeks ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 3 weeks ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 1 month ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 5 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -42,14 +42,14 @@ Say Hello, I don't bite!
 #### 📜 My recent blog posts
 
 - [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (1 month ago)
-- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (2 months ago)
+- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (3 months ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (6 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (7 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (7 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/105394409858670005) (2 days ago)
+- [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/105394409858670005) (3 days ago)
 - [arthurlutzim: “Réparation et maintenance de f…”](https://mamot.fr/@arthurlutzim/105366514992319870) (1 week ago)
 - [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355984984225712) (1 week ago)
 - [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355970995418175) (1 week ago)
