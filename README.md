@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Chignole à manivelle, détails …”](https://mamot.fr/@arthurlutzim/105430852789305179) (today)
+- [arthurlutzim: “Chignole à manivelle (penser l…”](https://mamot.fr/@arthurlutzim/105430788750699316) (today)
 - [arthurlutzim: “#j2s Imaginarium…”](https://mamot.fr/@arthurlutzim/105429839060600478) (today)
 - [arthurlutzim: “#j2s Micropolis 🎲🃏🐜…”](https://mamot.fr/@arthurlutzim/105429816032917599) (today)
 - [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/105394409858670005) (6 days ago)
-- [arthurlutzim: “Réparation et maintenance de f…”](https://mamot.fr/@arthurlutzim/105366514992319870) (1 week ago)
-- [arthurlutzim: “Pour répondre au challenge de …”](https://mamot.fr/@arthurlutzim/105355984984225712) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
