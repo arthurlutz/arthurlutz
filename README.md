@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (2 weeks ago)
+- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (3 weeks ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (1 month ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (2 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 months ago)
@@ -45,14 +45,14 @@ Say Hello, I don't bite!
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (3 months ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (6 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (7 months ago)
-- [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (7 months ago)
+- [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (8 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Chignole à manivelle, détails …”](https://mamot.fr/@arthurlutzim/105430852789305179) (today)
-- [arthurlutzim: “Chignole à manivelle (penser l…”](https://mamot.fr/@arthurlutzim/105430788750699316) (today)
-- [arthurlutzim: “#j2s Imaginarium…”](https://mamot.fr/@arthurlutzim/105429839060600478) (today)
-- [arthurlutzim: “#j2s Micropolis 🎲🃏🐜…”](https://mamot.fr/@arthurlutzim/105429816032917599) (today)
-- [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/105394409858670005) (6 days ago)
+- [arthurlutzim: “Chignole à manivelle, détails …”](https://mamot.fr/@arthurlutzim/105430852789305179) (1 day ago)
+- [arthurlutzim: “Chignole à manivelle (penser l…”](https://mamot.fr/@arthurlutzim/105430788750699316) (1 day ago)
+- [arthurlutzim: “#j2s Imaginarium…”](https://mamot.fr/@arthurlutzim/105429839060600478) (1 day ago)
+- [arthurlutzim: “#j2s Micropolis 🎲🃏🐜…”](https://mamot.fr/@arthurlutzim/105429816032917599) (1 day ago)
+- [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/105394409858670005) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
