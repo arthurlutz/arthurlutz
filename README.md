@@ -15,8 +15,8 @@ Say Hello, I don't bite!
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (1 month ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (2 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 months ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 months ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (4 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (5 months ago)
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “#j2s #jeudeplateau #deckbuildi…”](https://mamot.fr/@arthurlutzim/105435471512637661) (today)
 - [arthurlutzim: “Chignole à manivelle, détails …”](https://mamot.fr/@arthurlutzim/105430852789305179) (1 day ago)
 - [arthurlutzim: “Chignole à manivelle (penser l…”](https://mamot.fr/@arthurlutzim/105430788750699316) (1 day ago)
 - [arthurlutzim: “#j2s Imaginarium…”](https://mamot.fr/@arthurlutzim/105429839060600478) (1 day ago)
 - [arthurlutzim: “#j2s Micropolis 🎲🃏🐜…”](https://mamot.fr/@arthurlutzim/105429816032917599) (1 day ago)
-- [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/105394409858670005) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
