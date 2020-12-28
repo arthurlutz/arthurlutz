@@ -43,16 +43,16 @@ Say Hello, I don't bite!
 
 - [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (1 month ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (3 months ago)
-- [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (6 months ago)
+- [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (7 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (7 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (8 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Trying to catch up on some #rc…”](https://mamot.fr/@arthurlutzim/105454341314911914) (today)
-- [arthurlutzim: “#j2s #jeudeplateau #deckbuildi…”](https://mamot.fr/@arthurlutzim/105435471512637661) (3 days ago)
-- [arthurlutzim: “Chignole à manivelle, détails …”](https://mamot.fr/@arthurlutzim/105430852789305179) (4 days ago)
-- [arthurlutzim: “Chignole à manivelle (penser l…”](https://mamot.fr/@arthurlutzim/105430788750699316) (4 days ago)
-- [arthurlutzim: “#j2s Imaginarium…”](https://mamot.fr/@arthurlutzim/105429839060600478) (4 days ago)
+- [arthurlutzim: “Trying to catch up on some #rc…”](https://mamot.fr/@arthurlutzim/105454341314911914) (1 day ago)
+- [arthurlutzim: “#j2s #jeudeplateau #deckbuildi…”](https://mamot.fr/@arthurlutzim/105435471512637661) (4 days ago)
+- [arthurlutzim: “Chignole à manivelle, détails …”](https://mamot.fr/@arthurlutzim/105430852789305179) (5 days ago)
+- [arthurlutzim: “Chignole à manivelle (penser l…”](https://mamot.fr/@arthurlutzim/105430788750699316) (5 days ago)
+- [arthurlutzim: “#j2s Imaginarium…”](https://mamot.fr/@arthurlutzim/105429839060600478) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
