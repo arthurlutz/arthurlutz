@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “#rc3 catching up on yesterday&#39;…”](https://mamot.fr/@arthurlutzim/105458066467714380) (today)
 - [arthurlutzim: “#rc3 didn&#39;t watch the talk (ye…”](https://mamot.fr/@arthurlutzim/105457813515032845) (today)
 - [arthurlutzim: “#rc3 #mqtt more content in the…”](https://mamot.fr/@arthurlutzim/105457721865184855) (today)
 - [arthurlutzim: “#rc3 watching live 🔴 …”](https://mamot.fr/@arthurlutzim/105457528861085418) (today)
 - [arthurlutzim: “#rc3 discovered during the Q&amp;A…”](https://mamot.fr/@arthurlutzim/105457320642675654) (today)
-- [arthurlutzim: “#rc3 catching up on missed tal…”](https://mamot.fr/@arthurlutzim/105457257866930702) (today)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
