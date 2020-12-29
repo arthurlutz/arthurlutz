@@ -15,8 +15,8 @@ Say Hello, I don't bite!
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (1 month ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (2 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 months ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (2 months ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (4 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (5 months ago)
@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.2](https://github.com/libretro/ludo/releases/tag/v0.12.2), 3 weeks ago) - A libretro frontend written in golang
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 4 weeks ago) - Linter for Awesome lists
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 1 month ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 1 month ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 2 months ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 5 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#rc3 participating in the Cont…”](https://mamot.fr/@arthurlutzim/105459159111251523) (today)
-- [arthurlutzim: “#rc3 watching live 🔴 …”](https://mamot.fr/@arthurlutzim/105458911273907869) (today)
-- [arthurlutzim: “#rc3 diversity in free softwar…”](https://mamot.fr/@arthurlutzim/105458900144633296) (today)
-- [arthurlutzim: “#rc3 participating in the AMA …”](https://mamot.fr/@arthurlutzim/105458530256137510) (today)
-- [arthurlutzim: “#rc3 catching up with yesterda…”](https://mamot.fr/@arthurlutzim/105458283301986730) (today)
+- [arthurlutzim: “#rc3 participating in the Cont…”](https://mamot.fr/@arthurlutzim/105459159111251523) (1 day ago)
+- [arthurlutzim: “#rc3 watching live 🔴 …”](https://mamot.fr/@arthurlutzim/105458911273907869) (1 day ago)
+- [arthurlutzim: “#rc3 diversity in free softwar…”](https://mamot.fr/@arthurlutzim/105458900144633296) (1 day ago)
+- [arthurlutzim: “#rc3 participating in the AMA …”](https://mamot.fr/@arthurlutzim/105458530256137510) (1 day ago)
+- [arthurlutzim: “#rc3 catching up with yesterda…”](https://mamot.fr/@arthurlutzim/105458283301986730) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
