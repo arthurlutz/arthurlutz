@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 weeks ago)
+- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (1 month ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (1 month ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (2 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 months ago)
@@ -30,14 +30,14 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.2](https://github.com/libretro/ludo/releases/tag/v0.12.2), 3 weeks ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.2](https://github.com/libretro/ludo/releases/tag/v0.12.2), 4 weeks ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 1 month ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 1 month ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 2 months ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 5 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 9 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [YunoHost/yunohost-admin](https://github.com/YunoHost/yunohost-admin) ([debian/2.7.13](https://github.com/YunoHost/yunohost-admin/releases/tag/debian%2F2.7.13), 2 years ago) - Web administration interface for YunoHost
-- [openhab/openhab1-addons](https://github.com/openhab/openhab1-addons) ([v1.9.0](https://github.com/openhab/openhab1-addons/releases/tag/v1.9.0), 3 years ago) - Add-ons for openHAB 1.x
+- [openhab/openhab1-addons](https://github.com/openhab/openhab1-addons) ([v1.9.0](https://github.com/openhab/openhab1-addons/releases/tag/v1.9.0), 4 years ago) - Add-ons for openHAB 1.x
 
 #### 📜 My recent blog posts
 
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Pitchfork – Shake That Button…”](https://mamot.fr/@arthurlutzim/105474946818893516) (1 day ago)
-- [arthurlutzim: “Lancement de services numériqu…”](https://mamot.fr/@arthurlutzim/105468277746717386) (2 days ago)
-- [arthurlutzim: “Projet du jour: pinball virtue…”](https://mamot.fr/@arthurlutzim/105465350276410920) (3 days ago)
-- [arthurlutzim: “Teardown: Creality Wi-Fi Box…”](https://mamot.fr/@arthurlutzim/105462472211204763) (3 days ago)
-- [arthurlutzim: “#nowplaying #pouetradio …”](https://mamot.fr/@arthurlutzim/105462413034366670) (3 days ago)
+- [arthurlutzim: “Pitchfork – Shake That Button…”](https://mamot.fr/@arthurlutzim/105474946818893516) (2 days ago)
+- [arthurlutzim: “Lancement de services numériqu…”](https://mamot.fr/@arthurlutzim/105468277746717386) (3 days ago)
+- [arthurlutzim: “Projet du jour: pinball virtue…”](https://mamot.fr/@arthurlutzim/105465350276410920) (4 days ago)
+- [arthurlutzim: “Teardown: Creality Wi-Fi Box…”](https://mamot.fr/@arthurlutzim/105462472211204763) (4 days ago)
+- [arthurlutzim: “#nowplaying #pouetradio …”](https://mamot.fr/@arthurlutzim/105462413034366670) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
