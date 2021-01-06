@@ -14,9 +14,9 @@ Say Hello, I don't bite!
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (1 month ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (1 month ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (2 months ago)
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (2 months ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 months ago)
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (3 months ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (3 months ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (4 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (5 months ago)
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “@david@social.logilab.org oui,…”](https://mamot.fr/@arthurlutzim/105505538286906078) (today)
-- [arthurlutzim: “Current status : tentative de …”](https://mamot.fr/@arthurlutzim/105504584007754779) (today)
-- [arthurlutzim: “On trouve sur les forums, la v…”](https://mamot.fr/@arthurlutzim/105498249913757293) (1 day ago)
-- [arthurlutzim: “Démontage d&#39;une calculatrice &#34;…”](https://mamot.fr/@arthurlutzim/105498203288805069) (1 day ago)
-- [arthurlutzim: “@qwazix@cybre.space hi, I hope…”](https://mamot.fr/@arthurlutzim/105497896382355535) (1 day ago)
+- [arthurlutzim: “@david@social.logilab.org oui,…”](https://mamot.fr/@arthurlutzim/105505538286906078) (1 day ago)
+- [arthurlutzim: “Current status : tentative de …”](https://mamot.fr/@arthurlutzim/105504584007754779) (1 day ago)
+- [arthurlutzim: “On trouve sur les forums, la v…”](https://mamot.fr/@arthurlutzim/105498249913757293) (2 days ago)
+- [arthurlutzim: “Démontage d&#39;une calculatrice &#34;…”](https://mamot.fr/@arthurlutzim/105498203288805069) (2 days ago)
+- [arthurlutzim: “@qwazix@cybre.space hi, I hope…”](https://mamot.fr/@arthurlutzim/105497896382355535) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
