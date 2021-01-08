@@ -19,7 +19,7 @@ Say Hello, I don't bite!
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (3 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (4 months ago)
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (5 months ago)
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (6 months ago)
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (7 months ago)
 
 #### 🌱 My latest projects
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (1 month ago)
+- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (2 months ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (3 months ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (7 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (7 months ago)
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#nowplaying #pouetradio…”](https://mamot.fr/@arthurlutzim/105515846357060972) (today)
-- [arthurlutzim: “@david@social.logilab.org oui,…”](https://mamot.fr/@arthurlutzim/105505538286906078) (2 days ago)
-- [arthurlutzim: “Current status : tentative de …”](https://mamot.fr/@arthurlutzim/105504584007754779) (2 days ago)
-- [arthurlutzim: “On trouve sur les forums, la v…”](https://mamot.fr/@arthurlutzim/105498249913757293) (3 days ago)
-- [arthurlutzim: “Démontage d&#39;une calculatrice &#34;…”](https://mamot.fr/@arthurlutzim/105498203288805069) (3 days ago)
+- [arthurlutzim: “#nowplaying #pouetradio…”](https://mamot.fr/@arthurlutzim/105515846357060972) (1 day ago)
+- [arthurlutzim: “@david@social.logilab.org oui,…”](https://mamot.fr/@arthurlutzim/105505538286906078) (3 days ago)
+- [arthurlutzim: “Current status : tentative de …”](https://mamot.fr/@arthurlutzim/105504584007754779) (3 days ago)
+- [arthurlutzim: “On trouve sur les forums, la v…”](https://mamot.fr/@arthurlutzim/105498249913757293) (4 days ago)
+- [arthurlutzim: “Démontage d&#39;une calculatrice &#34;…”](https://mamot.fr/@arthurlutzim/105498203288805069) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
