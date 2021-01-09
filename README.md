@@ -35,7 +35,7 @@ Say Hello, I don't bite!
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 1 month ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [microhomie/microhomie](https://github.com/microhomie/microhomie) ([v3.0.2](https://github.com/microhomie/microhomie/releases/tag/v3.0.2), 2 months ago) - MicroPython implementation of the Homie MQTT convention for IoT.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 5 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 9 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
+- [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 10 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [YunoHost/yunohost-admin](https://github.com/YunoHost/yunohost-admin) ([debian/2.7.13](https://github.com/YunoHost/yunohost-admin/releases/tag/debian%2F2.7.13), 2 years ago) - Web administration interface for YunoHost
 - [openhab/openhab1-addons](https://github.com/openhab/openhab1-addons) ([v1.9.0](https://github.com/openhab/openhab1-addons/releases/tag/v1.9.0), 4 years ago) - Add-ons for openHAB 1.x
 
@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🎤 🎛 🎹 🎺 Concert confiné du soi…”](https://mamot.fr/@arthurlutzim/105522197324839696) (today)
-- [arthurlutzim: “#nowplaying #pouetradio…”](https://mamot.fr/@arthurlutzim/105515846357060972) (1 day ago)
-- [arthurlutzim: “@david@social.logilab.org oui,…”](https://mamot.fr/@arthurlutzim/105505538286906078) (3 days ago)
-- [arthurlutzim: “Current status : tentative de …”](https://mamot.fr/@arthurlutzim/105504584007754779) (3 days ago)
-- [arthurlutzim: “On trouve sur les forums, la v…”](https://mamot.fr/@arthurlutzim/105498249913757293) (4 days ago)
+- [arthurlutzim: “🎤 🎛 🎹 🎺 Concert confiné du soi…”](https://mamot.fr/@arthurlutzim/105522197324839696) (1 day ago)
+- [arthurlutzim: “#nowplaying #pouetradio…”](https://mamot.fr/@arthurlutzim/105515846357060972) (2 days ago)
+- [arthurlutzim: “@david@social.logilab.org oui,…”](https://mamot.fr/@arthurlutzim/105505538286906078) (4 days ago)
+- [arthurlutzim: “Current status : tentative de …”](https://mamot.fr/@arthurlutzim/105504584007754779) (4 days ago)
+- [arthurlutzim: “On trouve sur les forums, la v…”](https://mamot.fr/@arthurlutzim/105498249913757293) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
