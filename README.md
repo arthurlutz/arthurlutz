@@ -49,10 +49,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Expérimentation en cours : sui…”](https://mamot.fr/@arthurlutzim/105531535625743087) (today)
-- [arthurlutzim: “🎤 🎛 🎹 🎺 Concert confiné du soi…”](https://mamot.fr/@arthurlutzim/105522197324839696) (2 days ago)
-- [arthurlutzim: “#nowplaying #pouetradio…”](https://mamot.fr/@arthurlutzim/105515846357060972) (3 days ago)
-- [arthurlutzim: “@david@social.logilab.org oui,…”](https://mamot.fr/@arthurlutzim/105505538286906078) (5 days ago)
-- [arthurlutzim: “Current status : tentative de …”](https://mamot.fr/@arthurlutzim/105504584007754779) (5 days ago)
+- [arthurlutzim: “Expérimentation en cours : sui…”](https://mamot.fr/@arthurlutzim/105531535625743087) (1 day ago)
+- [arthurlutzim: “🎤 🎛 🎹 🎺 Concert confiné du soi…”](https://mamot.fr/@arthurlutzim/105522197324839696) (3 days ago)
+- [arthurlutzim: “#nowplaying #pouetradio…”](https://mamot.fr/@arthurlutzim/105515846357060972) (4 days ago)
+- [arthurlutzim: “@david@social.logilab.org oui,…”](https://mamot.fr/@arthurlutzim/105505538286906078) (6 days ago)
+- [arthurlutzim: “Current status : tentative de …”](https://mamot.fr/@arthurlutzim/105504584007754779) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
