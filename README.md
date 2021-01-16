@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.3](https://github.com/libretro/ludo/releases/tag/v0.12.3), today) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.3](https://github.com/libretro/ludo/releases/tag/v0.12.3), 1 day ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 1 month ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 1 month ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 5 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “ReverseEagle / DeGoogle FOSS …”](https://mamot.fr/@arthurlutzim/105561806201790040) (today)
-- [arthurlutzim: “Réparation HTC m8 📱 réussie, a…”](https://mamot.fr/@arthurlutzim/105555668431263082) (1 day ago)
-- [arthurlutzim: “Post by gangduclito…”](https://mamot.fr/@arthurlutzim/105552981483255844) (1 day ago)
-- [arthurlutzim: “🔋 📱  Worst battery replacement…”](https://mamot.fr/@arthurlutzim/105537077481846634) (4 days ago)
-- [arthurlutzim: “Expérimentation en cours : sui…”](https://mamot.fr/@arthurlutzim/105531535625743087) (5 days ago)
+- [arthurlutzim: “ReverseEagle / DeGoogle FOSS …”](https://mamot.fr/@arthurlutzim/105561806201790040) (1 day ago)
+- [arthurlutzim: “Réparation HTC m8 📱 réussie, a…”](https://mamot.fr/@arthurlutzim/105555668431263082) (2 days ago)
+- [arthurlutzim: “Post by gangduclito…”](https://mamot.fr/@arthurlutzim/105552981483255844) (2 days ago)
+- [arthurlutzim: “🔋 📱  Worst battery replacement…”](https://mamot.fr/@arthurlutzim/105537077481846634) (5 days ago)
+- [arthurlutzim: “Expérimentation en cours : sui…”](https://mamot.fr/@arthurlutzim/105531535625743087) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
