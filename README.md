@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Hey, pinball makers and tinker…”](https://mamot.fr/@arthurlutzim/105572080937142092) (today)
 - [arthurlutzim: “ReverseEagle / DeGoogle FOSS …”](https://mamot.fr/@arthurlutzim/105561806201790040) (2 days ago)
 - [arthurlutzim: “Réparation HTC m8 📱 réussie, a…”](https://mamot.fr/@arthurlutzim/105555668431263082) (3 days ago)
 - [arthurlutzim: “Post by gangduclito…”](https://mamot.fr/@arthurlutzim/105552981483255844) (3 days ago)
 - [arthurlutzim: “🔋 📱  Worst battery replacement…”](https://mamot.fr/@arthurlutzim/105537077481846634) (6 days ago)
-- [arthurlutzim: “Expérimentation en cours : sui…”](https://mamot.fr/@arthurlutzim/105531535625743087) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
