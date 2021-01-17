@@ -18,7 +18,7 @@ Say Hello, I don't bite!
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 months ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (3 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (3 months ago)
-- [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (4 months ago)
+- [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (5 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (6 months ago)
 - [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (7 months ago)
 
@@ -30,10 +30,10 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.3](https://github.com/libretro/ludo/releases/tag/v0.12.3), 1 day ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.3](https://github.com/libretro/ludo/releases/tag/v0.12.3), 2 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 1 month ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 1 month ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 5 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 6 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 10 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [YunoHost/yunohost-admin](https://github.com/YunoHost/yunohost-admin) ([debian/2.7.13](https://github.com/YunoHost/yunohost-admin/releases/tag/debian%2F2.7.13), 2 years ago) - Web administration interface for YunoHost
 - [openhab/openhab1-addons](https://github.com/openhab/openhab1-addons) ([v1.9.0](https://github.com/openhab/openhab1-addons/releases/tag/v1.9.0), 4 years ago) - Add-ons for openHAB 1.x
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “ReverseEagle / DeGoogle FOSS …”](https://mamot.fr/@arthurlutzim/105561806201790040) (1 day ago)
-- [arthurlutzim: “Réparation HTC m8 📱 réussie, a…”](https://mamot.fr/@arthurlutzim/105555668431263082) (2 days ago)
-- [arthurlutzim: “Post by gangduclito…”](https://mamot.fr/@arthurlutzim/105552981483255844) (2 days ago)
-- [arthurlutzim: “🔋 📱  Worst battery replacement…”](https://mamot.fr/@arthurlutzim/105537077481846634) (5 days ago)
-- [arthurlutzim: “Expérimentation en cours : sui…”](https://mamot.fr/@arthurlutzim/105531535625743087) (6 days ago)
+- [arthurlutzim: “ReverseEagle / DeGoogle FOSS …”](https://mamot.fr/@arthurlutzim/105561806201790040) (2 days ago)
+- [arthurlutzim: “Réparation HTC m8 📱 réussie, a…”](https://mamot.fr/@arthurlutzim/105555668431263082) (3 days ago)
+- [arthurlutzim: “Post by gangduclito…”](https://mamot.fr/@arthurlutzim/105552981483255844) (3 days ago)
+- [arthurlutzim: “🔋 📱  Worst battery replacement…”](https://mamot.fr/@arthurlutzim/105537077481846634) (6 days ago)
+- [arthurlutzim: “Expérimentation en cours : sui…”](https://mamot.fr/@arthurlutzim/105531535625743087) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
