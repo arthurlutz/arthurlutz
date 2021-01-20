@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.3](https://github.com/libretro/ludo/releases/tag/v0.12.3), 4 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.3](https://github.com/libretro/ludo/releases/tag/v0.12.3), 5 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 1 month ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 1 month ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 6 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “LEDs From Dubai: The Royal Lig…”](https://mamot.fr/@arthurlutzim/105583978233212874) (today)
-- [arthurlutzim: “With all the discussions about…”](https://mamot.fr/@arthurlutzim/105577627640194293) (1 day ago)
-- [arthurlutzim: “🩸 Hop, cet après midi je suis …”](https://mamot.fr/@arthurlutzim/105577350375344589) (1 day ago)
-- [arthurlutzim: “Construire ensemble l&#39;école de…”](https://mamot.fr/@arthurlutzim/105575737831388640) (1 day ago)
-- [arthurlutzim: “Hey, pinball makers and tinker…”](https://mamot.fr/@arthurlutzim/105572080937142092) (2 days ago)
+- [arthurlutzim: “LEDs From Dubai: The Royal Lig…”](https://mamot.fr/@arthurlutzim/105583978233212874) (1 day ago)
+- [arthurlutzim: “With all the discussions about…”](https://mamot.fr/@arthurlutzim/105577627640194293) (2 days ago)
+- [arthurlutzim: “🩸 Hop, cet après midi je suis …”](https://mamot.fr/@arthurlutzim/105577350375344589) (2 days ago)
+- [arthurlutzim: “Construire ensemble l&#39;école de…”](https://mamot.fr/@arthurlutzim/105575737831388640) (2 days ago)
+- [arthurlutzim: “Hey, pinball makers and tinker…”](https://mamot.fr/@arthurlutzim/105572080937142092) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
