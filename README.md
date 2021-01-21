@@ -48,10 +48,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Suis en train de suivre le #MO…”](https://mamot.fr/@arthurlutzim/105595685875000141) (today)
 - [arthurlutzim: “GLISSE LIBRE de Mégane Murgia …”](https://mamot.fr/@arthurlutzim/105595632065630171) (today)
 - [arthurlutzim: “Suis en train de suivre le #mo…”](https://mamot.fr/@arthurlutzim/105590397975958593) (1 day ago)
 - [arthurlutzim: “LEDs From Dubai: The Royal Lig…”](https://mamot.fr/@arthurlutzim/105583978233212874) (2 days ago)
 - [arthurlutzim: “With all the discussions about…”](https://mamot.fr/@arthurlutzim/105577627640194293) (3 days ago)
-- [arthurlutzim: “🩸 Hop, cet après midi je suis …”](https://mamot.fr/@arthurlutzim/105577350375344589) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
