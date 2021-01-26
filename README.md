@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.4](https://github.com/libretro/ludo/releases/tag/v0.12.4), 2 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.4](https://github.com/libretro/ludo/releases/tag/v0.12.4), 3 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 1 month ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 2 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 6 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -47,10 +47,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Pfff 🤯 j&#39;ai résolu mon premier…”](https://mamot.fr/@arthurlutzim/105615656124613447) (today)
-- [arthurlutzim: “🌾➡🍺 Brasserie Paysanne  - L’At…”](https://mamot.fr/@arthurlutzim/105599106808143307) (3 days ago)
-- [arthurlutzim: “Suis en train de suivre le #MO…”](https://mamot.fr/@arthurlutzim/105595685875000141) (4 days ago)
-- [arthurlutzim: “GLISSE LIBRE de Mégane Murgia …”](https://mamot.fr/@arthurlutzim/105595632065630171) (4 days ago)
-- [arthurlutzim: “Suis en train de suivre le #mo…”](https://mamot.fr/@arthurlutzim/105590397975958593) (5 days ago)
+- [arthurlutzim: “Pfff 🤯 j&#39;ai résolu mon premier…”](https://mamot.fr/@arthurlutzim/105615656124613447) (1 day ago)
+- [arthurlutzim: “🌾➡🍺 Brasserie Paysanne  - L’At…”](https://mamot.fr/@arthurlutzim/105599106808143307) (4 days ago)
+- [arthurlutzim: “Suis en train de suivre le #MO…”](https://mamot.fr/@arthurlutzim/105595685875000141) (5 days ago)
+- [arthurlutzim: “GLISSE LIBRE de Mégane Murgia …”](https://mamot.fr/@arthurlutzim/105595632065630171) (5 days ago)
+- [arthurlutzim: “Suis en train de suivre le #mo…”](https://mamot.fr/@arthurlutzim/105590397975958593) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
