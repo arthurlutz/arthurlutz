@@ -47,10 +47,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Tucows ferme. Petit moment de …”](https://mamot.fr/@arthurlutzim/105623104055194828) (today)
 - [arthurlutzim: “Pfff 🤯 j&#39;ai résolu mon premier…”](https://mamot.fr/@arthurlutzim/105615656124613447) (1 day ago)
 - [arthurlutzim: “🌾➡🍺 Brasserie Paysanne  - L’At…”](https://mamot.fr/@arthurlutzim/105599106808143307) (4 days ago)
 - [arthurlutzim: “Suis en train de suivre le #MO…”](https://mamot.fr/@arthurlutzim/105595685875000141) (5 days ago)
 - [arthurlutzim: “GLISSE LIBRE de Mégane Murgia …”](https://mamot.fr/@arthurlutzim/105595632065630171) (5 days ago)
-- [arthurlutzim: “Suis en train de suivre le #mo…”](https://mamot.fr/@arthurlutzim/105590397975958593) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
