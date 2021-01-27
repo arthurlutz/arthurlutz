@@ -34,8 +34,6 @@ Say Hello, I don't bite!
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 1 month ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 2 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 6 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [YunoHost/yunohost](https://github.com/YunoHost/yunohost) ([debian/3.7.0.5](https://github.com/YunoHost/yunohost/releases/tag/debian%2F3.7.0.5), 10 months ago) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
-- [YunoHost/yunohost-admin](https://github.com/YunoHost/yunohost-admin) ([debian/2.7.13](https://github.com/YunoHost/yunohost-admin/releases/tag/debian%2F2.7.13), 2 years ago) - Web administration interface for YunoHost
 
 #### 📜 My recent blog posts
 
