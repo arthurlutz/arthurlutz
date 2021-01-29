@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.5](https://github.com/libretro/ludo/releases/tag/v0.12.5), 2 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.5](https://github.com/libretro/ludo/releases/tag/v0.12.5), 3 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 2 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 2 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 6 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,9 +45,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Tucows ferme. Petit moment de …”](https://mamot.fr/@arthurlutzim/105623104055194828) (2 days ago)
-- [arthurlutzim: “Pfff 🤯 j&#39;ai résolu mon premier…”](https://mamot.fr/@arthurlutzim/105615656124613447) (3 days ago)
-- [arthurlutzim: “🌾➡🍺 Brasserie Paysanne  - L’At…”](https://mamot.fr/@arthurlutzim/105599106808143307) (6 days ago)
+- [arthurlutzim: “Tucows ferme. Petit moment de …”](https://mamot.fr/@arthurlutzim/105623104055194828) (3 days ago)
+- [arthurlutzim: “Pfff 🤯 j&#39;ai résolu mon premier…”](https://mamot.fr/@arthurlutzim/105615656124613447) (4 days ago)
+- [arthurlutzim: “🌾➡🍺 Brasserie Paysanne  - L’At…”](https://mamot.fr/@arthurlutzim/105599106808143307) (1 week ago)
 - [arthurlutzim: “Suis en train de suivre le #MO…”](https://mamot.fr/@arthurlutzim/105595685875000141) (1 week ago)
 - [arthurlutzim: “GLISSE LIBRE de Mégane Murgia …”](https://mamot.fr/@arthurlutzim/105595632065630171) (1 week ago)
 
