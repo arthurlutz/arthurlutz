@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “@jelora@mastodon.gargantia.fr …”](https://mamot.fr/@arthurlutzim/105656659902680992) (today)
+- [arthurlutzim: “OK, de ce que je comprend en c…”](https://mamot.fr/@arthurlutzim/105656622932100899) (today)
+- [arthurlutzim: “Et bingo, l&#39;écran marche! Même…”](https://mamot.fr/@arthurlutzim/105656574678183617) (today)
+- [arthurlutzim: “Démontage du pied et extractio…”](https://mamot.fr/@arthurlutzim/105656518651861339) (today)
 - [arthurlutzim: “Ouverture du cache plastique, …”](https://mamot.fr/@arthurlutzim/105655519581403508) (today)
-- [arthurlutzim: “Autre panne, problème mineur: …”](https://mamot.fr/@arthurlutzim/105655462522624215) (today)
-- [arthurlutzim: “Si il marche, il y aura au moi…”](https://mamot.fr/@arthurlutzim/105655428800798135) (today)
-- [arthurlutzim: “Trouvé dans la rue et récupéré…”](https://mamot.fr/@arthurlutzim/105655402687928055) (today)
-- [arthurlutzim: “Petit guide de maintenance rég…”](https://mamot.fr/@arthurlutzim/105640897218543590) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
