@@ -20,7 +20,7 @@ Say Hello, I don't bite!
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (4 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (5 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (6 months ago)
-- [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (7 months ago)
+- [jpetazzo/griode](https://github.com/jpetazzo/griode) - Griode &#43; Novation Launchpad &#43; Raspberry Pi = a music instrument! (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🔴 LIVE: Atelier de Réparation …”](https://mamot.fr/@arthurlutzim/105662974194669874) (1 day ago)
-- [arthurlutzim: “Arduino is back on Debian 🎉…”](https://mamot.fr/@arthurlutzim/105657601482950180) (2 days ago)
-- [arthurlutzim: “Et encore un changement de bat…”](https://mamot.fr/@arthurlutzim/105656952246168339) (2 days ago)
-- [arthurlutzim: “@jelora@mastodon.gargantia.fr …”](https://mamot.fr/@arthurlutzim/105656659902680992) (2 days ago)
-- [arthurlutzim: “OK, de ce que je comprend en c…”](https://mamot.fr/@arthurlutzim/105656622932100899) (2 days ago)
+- [arthurlutzim: “🔴 LIVE: Atelier de Réparation …”](https://mamot.fr/@arthurlutzim/105662974194669874) (2 days ago)
+- [arthurlutzim: “Arduino is back on Debian 🎉…”](https://mamot.fr/@arthurlutzim/105657601482950180) (3 days ago)
+- [arthurlutzim: “Et encore un changement de bat…”](https://mamot.fr/@arthurlutzim/105656952246168339) (3 days ago)
+- [arthurlutzim: “@jelora@mastodon.gargantia.fr …”](https://mamot.fr/@arthurlutzim/105656659902680992) (3 days ago)
+- [arthurlutzim: “OK, de ce que je comprend en c…”](https://mamot.fr/@arthurlutzim/105656622932100899) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
