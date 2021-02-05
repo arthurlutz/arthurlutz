@@ -14,7 +14,7 @@ Say Hello, I don't bite!
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (2 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (2 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (3 months ago)
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (3 months ago)
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (4 months ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (4 months ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (4 months ago)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🎧  Dans 14h commencera 24h de …”](https://mamot.fr/@arthurlutzim/105674192896169174) (today)
-- [arthurlutzim: “🔴 LIVE: Atelier de Réparation …”](https://mamot.fr/@arthurlutzim/105662974194669874) (2 days ago)
-- [arthurlutzim: “Arduino is back on Debian 🎉…”](https://mamot.fr/@arthurlutzim/105657601482950180) (3 days ago)
-- [arthurlutzim: “Et encore un changement de bat…”](https://mamot.fr/@arthurlutzim/105656952246168339) (3 days ago)
-- [arthurlutzim: “@jelora@mastodon.gargantia.fr …”](https://mamot.fr/@arthurlutzim/105656659902680992) (3 days ago)
+- [arthurlutzim: “🎧  Dans 14h commencera 24h de …”](https://mamot.fr/@arthurlutzim/105674192896169174) (1 day ago)
+- [arthurlutzim: “🔴 LIVE: Atelier de Réparation …”](https://mamot.fr/@arthurlutzim/105662974194669874) (3 days ago)
+- [arthurlutzim: “Arduino is back on Debian 🎉…”](https://mamot.fr/@arthurlutzim/105657601482950180) (4 days ago)
+- [arthurlutzim: “Et encore un changement de bat…”](https://mamot.fr/@arthurlutzim/105656952246168339) (4 days ago)
+- [arthurlutzim: “@jelora@mastodon.gargantia.fr …”](https://mamot.fr/@arthurlutzim/105656659902680992) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
