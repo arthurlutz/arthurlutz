@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.5](https://github.com/libretro/ludo/releases/tag/v0.12.5), 1 week ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.5](https://github.com/libretro/ludo/releases/tag/v0.12.5), 2 weeks ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 2 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 2 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 6 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Dans le trip danse, j&#39;ai du co…”](https://mamot.fr/@arthurlutzim/105681067344724143) (3 days ago)
-- [arthurlutzim: “Soirée #spectacle #chezsoi …”](https://mamot.fr/@arthurlutzim/105681029482686266) (3 days ago)
-- [arthurlutzim: “🎧  Dans 14h commencera 24h de …”](https://mamot.fr/@arthurlutzim/105674192896169174) (4 days ago)
-- [arthurlutzim: “🔴 LIVE: Atelier de Réparation …”](https://mamot.fr/@arthurlutzim/105662974194669874) (6 days ago)
+- [arthurlutzim: “Dans le trip danse, j&#39;ai du co…”](https://mamot.fr/@arthurlutzim/105681067344724143) (4 days ago)
+- [arthurlutzim: “Soirée #spectacle #chezsoi …”](https://mamot.fr/@arthurlutzim/105681029482686266) (4 days ago)
+- [arthurlutzim: “🎧  Dans 14h commencera 24h de …”](https://mamot.fr/@arthurlutzim/105674192896169174) (5 days ago)
+- [arthurlutzim: “🔴 LIVE: Atelier de Réparation …”](https://mamot.fr/@arthurlutzim/105662974194669874) (1 week ago)
 - [arthurlutzim: “Arduino is back on Debian 🎉…”](https://mamot.fr/@arthurlutzim/105657601482950180) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
