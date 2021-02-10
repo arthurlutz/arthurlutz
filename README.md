@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (today)
+- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (1 day ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (2 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (2 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (3 months ago)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “📻 🎧  La santé mentale dont vou…”](https://mamot.fr/@arthurlutzim/105701365646065455) (today)
-- [arthurlutzim: “Dans le trip danse, j&#39;ai du co…”](https://mamot.fr/@arthurlutzim/105681067344724143) (4 days ago)
-- [arthurlutzim: “Soirée #spectacle #chezsoi …”](https://mamot.fr/@arthurlutzim/105681029482686266) (4 days ago)
-- [arthurlutzim: “🎧  Dans 14h commencera 24h de …”](https://mamot.fr/@arthurlutzim/105674192896169174) (5 days ago)
+- [arthurlutzim: “📻 🎧  La santé mentale dont vou…”](https://mamot.fr/@arthurlutzim/105701365646065455) (1 day ago)
+- [arthurlutzim: “Dans le trip danse, j&#39;ai du co…”](https://mamot.fr/@arthurlutzim/105681067344724143) (5 days ago)
+- [arthurlutzim: “Soirée #spectacle #chezsoi …”](https://mamot.fr/@arthurlutzim/105681029482686266) (5 days ago)
+- [arthurlutzim: “🎧  Dans 14h commencera 24h de …”](https://mamot.fr/@arthurlutzim/105674192896169174) (6 days ago)
 - [arthurlutzim: “🔴 LIVE: Atelier de Réparation …”](https://mamot.fr/@arthurlutzim/105662974194669874) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
