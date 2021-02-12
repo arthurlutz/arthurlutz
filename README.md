@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (2 days ago)
+- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (3 days ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (2 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (2 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (3 months ago)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “How to build a Pinball…”](https://mamot.fr/@arthurlutzim/105712664068418196) (today)
-- [arthurlutzim: “How to build a Pinball: …”](https://mamot.fr/@arthurlutzim/105712659987828139) (today)
-- [arthurlutzim: “📻 🎧  La santé mentale dont vou…”](https://mamot.fr/@arthurlutzim/105701365646065455) (2 days ago)
-- [arthurlutzim: “Dans le trip danse, j&#39;ai du co…”](https://mamot.fr/@arthurlutzim/105681067344724143) (6 days ago)
-- [arthurlutzim: “Soirée #spectacle #chezsoi …”](https://mamot.fr/@arthurlutzim/105681029482686266) (6 days ago)
+- [arthurlutzim: “How to build a Pinball…”](https://mamot.fr/@arthurlutzim/105712664068418196) (1 day ago)
+- [arthurlutzim: “How to build a Pinball: …”](https://mamot.fr/@arthurlutzim/105712659987828139) (1 day ago)
+- [arthurlutzim: “📻 🎧  La santé mentale dont vou…”](https://mamot.fr/@arthurlutzim/105701365646065455) (3 days ago)
+- [arthurlutzim: “Dans le trip danse, j&#39;ai du co…”](https://mamot.fr/@arthurlutzim/105681067344724143) (1 week ago)
+- [arthurlutzim: “Soirée #spectacle #chezsoi …”](https://mamot.fr/@arthurlutzim/105681029482686266) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
