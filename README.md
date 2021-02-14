@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (4 days ago)
+- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (5 days ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (2 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (2 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (3 months ago)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “J&#39;ai fait un rendu &#34;photoreali…”](https://mamot.fr/@arthurlutzim/105719298661164894) (1 day ago)
-- [arthurlutzim: “J&#39;ai fait un trucage de photo …”](https://mamot.fr/@arthurlutzim/105719291322119570) (1 day ago)
-- [arthurlutzim: “J&#39;ai créé un bout de pixelart …”](https://mamot.fr/@arthurlutzim/105719280359082347) (1 day ago)
-- [arthurlutzim: “J&#39;ai créé un bout de jeu vidéo…”](https://mamot.fr/@arthurlutzim/105719273516016844) (1 day ago)
-- [arthurlutzim: “Je participe, modestement, à #…”](https://mamot.fr/@arthurlutzim/105719248618717019) (1 day ago)
+- [arthurlutzim: “J&#39;ai fait un rendu &#34;photoreali…”](https://mamot.fr/@arthurlutzim/105719298661164894) (2 days ago)
+- [arthurlutzim: “J&#39;ai fait un trucage de photo …”](https://mamot.fr/@arthurlutzim/105719291322119570) (2 days ago)
+- [arthurlutzim: “J&#39;ai créé un bout de pixelart …”](https://mamot.fr/@arthurlutzim/105719280359082347) (2 days ago)
+- [arthurlutzim: “J&#39;ai créé un bout de jeu vidéo…”](https://mamot.fr/@arthurlutzim/105719273516016844) (2 days ago)
+- [arthurlutzim: “Je participe, modestement, à #…”](https://mamot.fr/@arthurlutzim/105719248618717019) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
