@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “LiPo Storage Charger…”](https://mamot.fr/@arthurlutzim/105734249989492419) (today)
 - [arthurlutzim: “Réparation du jour: récupérati…”](https://mamot.fr/@arthurlutzim/105731465894034239) (1 day ago)
 - [arthurlutzim: “Cette année, après quelques an…”](https://mamot.fr/@arthurlutzim/105729339546980691) (1 day ago)
 - [arthurlutzim: “J&#39;ai fait un rendu &#34;photoreali…”](https://mamot.fr/@arthurlutzim/105719298661164894) (3 days ago)
 - [arthurlutzim: “J&#39;ai fait un trucage de photo …”](https://mamot.fr/@arthurlutzim/105719291322119570) (3 days ago)
-- [arthurlutzim: “J&#39;ai créé un bout de pixelart …”](https://mamot.fr/@arthurlutzim/105719280359082347) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
