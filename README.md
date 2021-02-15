@@ -16,8 +16,8 @@ Say Hello, I don't bite!
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (2 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (3 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (4 months ago)
-- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (4 months ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 months ago)
+- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (4 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (4 months ago)
 - [YunoHost-Apps/bibliogram_ynh](https://github.com/YunoHost-Apps/bibliogram_ynh) - Bibliogram package for YunoHost (5 months ago)
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (7 months ago)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “#rubickscube 🎲🤹…”](https://mamot.fr/@arthurlutzim/105737319650308436) (today)
 - [arthurlutzim: “LiPo Storage Charger…”](https://mamot.fr/@arthurlutzim/105734249989492419) (today)
 - [arthurlutzim: “Réparation du jour: récupérati…”](https://mamot.fr/@arthurlutzim/105731465894034239) (1 day ago)
 - [arthurlutzim: “Cette année, après quelques an…”](https://mamot.fr/@arthurlutzim/105729339546980691) (1 day ago)
 - [arthurlutzim: “J&#39;ai fait un rendu &#34;photoreali…”](https://mamot.fr/@arthurlutzim/105719298661164894) (3 days ago)
-- [arthurlutzim: “J&#39;ai fait un trucage de photo …”](https://mamot.fr/@arthurlutzim/105719291322119570) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
