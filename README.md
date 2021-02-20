@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “#fleuristonfil”](https://mamot.fr/@arthurlutzim/105762802091871937) (today)
 - [arthurlutzim: “Poor Man&#39;s Pinball!: Daily mot…”](https://mamot.fr/@arthurlutzim/105760060155494717) (1 day ago)
 - [arthurlutzim: “#rubickscube 🎲🤹…”](https://mamot.fr/@arthurlutzim/105737319650308436) (5 days ago)
 - [arthurlutzim: “LiPo Storage Charger…”](https://mamot.fr/@arthurlutzim/105734249989492419) (5 days ago)
 - [arthurlutzim: “Réparation du jour: récupérati…”](https://mamot.fr/@arthurlutzim/105731465894034239) (6 days ago)
-- [arthurlutzim: “Cette année, après quelques an…”](https://mamot.fr/@arthurlutzim/105729339546980691) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
