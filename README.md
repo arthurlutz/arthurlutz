@@ -39,14 +39,14 @@ Say Hello, I don't bite!
 
 - [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (3 months ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (5 months ago)
-- [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (8 months ago)
+- [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (9 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (9 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (10 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#fleuristonfil”](https://mamot.fr/@arthurlutzim/105762802091871937) (5 days ago)
-- [arthurlutzim: “Poor Man&#39;s Pinball!: Daily mot…”](https://mamot.fr/@arthurlutzim/105760060155494717) (6 days ago)
+- [arthurlutzim: “#fleuristonfil”](https://mamot.fr/@arthurlutzim/105762802091871937) (6 days ago)
+- [arthurlutzim: “Poor Man&#39;s Pinball!: Daily mot…”](https://mamot.fr/@arthurlutzim/105760060155494717) (1 week ago)
 - [arthurlutzim: “#rubickscube 🎲🤹…”](https://mamot.fr/@arthurlutzim/105737319650308436) (1 week ago)
 - [arthurlutzim: “LiPo Storage Charger…”](https://mamot.fr/@arthurlutzim/105734249989492419) (1 week ago)
 - [arthurlutzim: “Réparation du jour: récupérati…”](https://mamot.fr/@arthurlutzim/105731465894034239) (1 week ago)
