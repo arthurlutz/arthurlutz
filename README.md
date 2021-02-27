@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.5](https://github.com/libretro/ludo/releases/tag/v0.12.5), 1 month ago) - A libretro frontend written in golang
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 2 months ago) - Linter for Awesome lists
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 3 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 3 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 7 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
@@ -45,7 +45,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#fleuristonfil”](https://mamot.fr/@arthurlutzim/105762802091871937) (6 days ago)
+- [arthurlutzim: “#fleuristonfil”](https://mamot.fr/@arthurlutzim/105762802091871937) (1 week ago)
 - [arthurlutzim: “Poor Man&#39;s Pinball!: Daily mot…”](https://mamot.fr/@arthurlutzim/105760060155494717) (1 week ago)
 - [arthurlutzim: “#rubickscube 🎲🤹…”](https://mamot.fr/@arthurlutzim/105737319650308436) (1 week ago)
 - [arthurlutzim: “LiPo Storage Charger…”](https://mamot.fr/@arthurlutzim/105734249989492419) (1 week ago)
