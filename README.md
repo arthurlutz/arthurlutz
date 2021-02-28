@@ -49,6 +49,6 @@ Say Hello, I don't bite!
 - [arthurlutzim: “Poor Man&#39;s Pinball!: Daily mot…”](https://mamot.fr/@arthurlutzim/105760060155494717) (1 week ago)
 - [arthurlutzim: “#rubickscube 🎲🤹…”](https://mamot.fr/@arthurlutzim/105737319650308436) (1 week ago)
 - [arthurlutzim: “LiPo Storage Charger…”](https://mamot.fr/@arthurlutzim/105734249989492419) (1 week ago)
-- [arthurlutzim: “Réparation du jour: récupérati…”](https://mamot.fr/@arthurlutzim/105731465894034239) (1 week ago)
+- [arthurlutzim: “Réparation du jour: récupérati…”](https://mamot.fr/@arthurlutzim/105731465894034239) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
