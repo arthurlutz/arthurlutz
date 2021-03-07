@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (3 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (3 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (4 months ago)
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (4 months ago)
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (5 months ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (5 months ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (5 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (5 months ago)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Maintenance : mécanisme des fl…”](https://mamot.fr/@arthurlutzim/105843206203565670) (today)
-- [arthurlutzim: “Conseils Dépannage - Boulet  h…”](https://mamot.fr/@arthurlutzim/105839188088080317) (1 day ago)
-- [arthurlutzim: “Micro:Bit Powered Cardboard Pi…”](https://mamot.fr/@arthurlutzim/105828278061697269) (3 days ago)
-- [arthurlutzim: “📻🎧 S&#39;acheter une bonne conscie…”](https://mamot.fr/@arthurlutzim/105810168129741859) (6 days ago)
+- [arthurlutzim: “Maintenance : mécanisme des fl…”](https://mamot.fr/@arthurlutzim/105843206203565670) (1 day ago)
+- [arthurlutzim: “Conseils Dépannage - Boulet  h…”](https://mamot.fr/@arthurlutzim/105839188088080317) (2 days ago)
+- [arthurlutzim: “Micro:Bit Powered Cardboard Pi…”](https://mamot.fr/@arthurlutzim/105828278061697269) (4 days ago)
+- [arthurlutzim: “📻🎧 S&#39;acheter une bonne conscie…”](https://mamot.fr/@arthurlutzim/105810168129741859) (1 week ago)
 - [arthurlutzim: “#fleuristonfil”](https://mamot.fr/@arthurlutzim/105762802091871937) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
