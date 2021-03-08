@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “https://projetco2.fr/ …”](https://mamot.fr/@arthurlutzim/105853982493752985) (today)
 - [arthurlutzim: “En train de regarder le webina…”](https://mamot.fr/@arthurlutzim/105853569057198830) (today)
 - [arthurlutzim: “Les différentes gommes de flip…”](https://mamot.fr/@arthurlutzim/105848842754617896) (1 day ago)
 - [arthurlutzim: “Maintenance : mécanisme des fl…”](https://mamot.fr/@arthurlutzim/105843206203565670) (2 days ago)
 - [arthurlutzim: “Conseils Dépannage - Boulet  h…”](https://mamot.fr/@arthurlutzim/105839188088080317) (3 days ago)
-- [arthurlutzim: “Micro:Bit Powered Cardboard Pi…”](https://mamot.fr/@arthurlutzim/105828278061697269) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
