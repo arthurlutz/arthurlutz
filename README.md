@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (4 weeks ago)
+- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (1 month ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (3 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (3 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (4 months ago)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Avancées d&#39;hier: j&#39;ai réactivé…”](https://mamot.fr/@arthurlutzim/105858811453567232) (1 day ago)
-- [arthurlutzim: “https://projetco2.fr/ …”](https://mamot.fr/@arthurlutzim/105853982493752985) (2 days ago)
-- [arthurlutzim: “En train de regarder le webina…”](https://mamot.fr/@arthurlutzim/105853569057198830) (2 days ago)
-- [arthurlutzim: “Les différentes gommes de flip…”](https://mamot.fr/@arthurlutzim/105848842754617896) (3 days ago)
-- [arthurlutzim: “Maintenance : mécanisme des fl…”](https://mamot.fr/@arthurlutzim/105843206203565670) (4 days ago)
+- [arthurlutzim: “Avancées d&#39;hier: j&#39;ai réactivé…”](https://mamot.fr/@arthurlutzim/105858811453567232) (2 days ago)
+- [arthurlutzim: “https://projetco2.fr/ …”](https://mamot.fr/@arthurlutzim/105853982493752985) (3 days ago)
+- [arthurlutzim: “En train de regarder le webina…”](https://mamot.fr/@arthurlutzim/105853569057198830) (3 days ago)
+- [arthurlutzim: “Les différentes gommes de flip…”](https://mamot.fr/@arthurlutzim/105848842754617896) (4 days ago)
+- [arthurlutzim: “Maintenance : mécanisme des fl…”](https://mamot.fr/@arthurlutzim/105843206203565670) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
