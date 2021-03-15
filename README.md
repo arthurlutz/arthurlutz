@@ -45,9 +45,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Avancées d&#39;hier: j&#39;ai réactivé…”](https://mamot.fr/@arthurlutzim/105858811453567232) (5 days ago)
-- [arthurlutzim: “https://projetco2.fr/ …”](https://mamot.fr/@arthurlutzim/105853982493752985) (6 days ago)
-- [arthurlutzim: “En train de regarder le webina…”](https://mamot.fr/@arthurlutzim/105853569057198830) (6 days ago)
+- [arthurlutzim: “Avancées d&#39;hier: j&#39;ai réactivé…”](https://mamot.fr/@arthurlutzim/105858811453567232) (6 days ago)
+- [arthurlutzim: “https://projetco2.fr/ …”](https://mamot.fr/@arthurlutzim/105853982493752985) (1 week ago)
+- [arthurlutzim: “En train de regarder le webina…”](https://mamot.fr/@arthurlutzim/105853569057198830) (1 week ago)
 - [arthurlutzim: “Les différentes gommes de flip…”](https://mamot.fr/@arthurlutzim/105848842754617896) (1 week ago)
 - [arthurlutzim: “Maintenance : mécanisme des fl…”](https://mamot.fr/@arthurlutzim/105843206203565670) (1 week ago)
 
