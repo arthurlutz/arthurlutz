@@ -38,15 +38,15 @@ Say Hello, I don't bite!
 #### 📜 My recent blog posts
 
 - [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (4 months ago)
-- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (5 months ago)
+- [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (6 months ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (9 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (10 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (10 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#TeamLevain #levain 🍞”](https://mamot.fr/@arthurlutzim/105895274397544983) (4 days ago)
-- [arthurlutzim: “@mailtape@masto.mtcrew.org @im…”](https://mamot.fr/@arthurlutzim/105893396840637764) (4 days ago)
+- [arthurlutzim: “#TeamLevain #levain 🍞”](https://mamot.fr/@arthurlutzim/105895274397544983) (5 days ago)
+- [arthurlutzim: “@mailtape@masto.mtcrew.org @im…”](https://mamot.fr/@arthurlutzim/105893396840637764) (5 days ago)
 - [arthurlutzim: “Avancées d&#39;hier: j&#39;ai réactivé…”](https://mamot.fr/@arthurlutzim/105858811453567232) (1 week ago)
 - [arthurlutzim: “https://projetco2.fr/ …”](https://mamot.fr/@arthurlutzim/105853982493752985) (1 week ago)
 - [arthurlutzim: “En train de regarder le webina…”](https://mamot.fr/@arthurlutzim/105853569057198830) (1 week ago)
