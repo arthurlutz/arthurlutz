@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (1 month ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (3 months ago)
-- [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (3 months ago)
+- [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (4 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (5 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (5 months ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (5 months ago)
@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.5](https://github.com/libretro/ludo/releases/tag/v0.12.5), 1 month ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 3 months ago) - Linter for Awesome lists
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 3 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 4 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 8 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
 #### 📜 My recent blog posts
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#hackmonday …”](https://mamot.fr/@arthurlutzim/105934498011797588) (today)
-- [arthurlutzim: “I ❤️ my #ludothèque …”](https://mamot.fr/@arthurlutzim/105934451115883797) (today)
+- [arthurlutzim: “#hackmonday …”](https://mamot.fr/@arthurlutzim/105934498011797588) (1 day ago)
+- [arthurlutzim: “I ❤️ my #ludothèque …”](https://mamot.fr/@arthurlutzim/105934451115883797) (1 day ago)
 - [arthurlutzim: “#TeamLevain #levain 🍞”](https://mamot.fr/@arthurlutzim/105895274397544983) (1 week ago)
 - [arthurlutzim: “@mailtape@masto.mtcrew.org @im…”](https://mamot.fr/@arthurlutzim/105893396840637764) (1 week ago)
-- [arthurlutzim: “Avancées d&#39;hier: j&#39;ai réactivé…”](https://mamot.fr/@arthurlutzim/105858811453567232) (1 week ago)
+- [arthurlutzim: “Avancées d&#39;hier: j&#39;ai réactivé…”](https://mamot.fr/@arthurlutzim/105858811453567232) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
