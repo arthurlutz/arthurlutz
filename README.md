@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.5](https://github.com/libretro/ludo/releases/tag/v0.12.5), 2 months ago) - A libretro frontend written in golang
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 3 months ago) - Linter for Awesome lists
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 4 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 4 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 8 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Après avoir fait joujou avec u…”](https://mamot.fr/@arthurlutzim/105969707089047216) (today)
-- [arthurlutzim: “#hackmonday …”](https://mamot.fr/@arthurlutzim/105934498011797588) (6 days ago)
-- [arthurlutzim: “I ❤️ my #ludothèque …”](https://mamot.fr/@arthurlutzim/105934451115883797) (6 days ago)
-- [arthurlutzim: “#TeamLevain #levain 🍞”](https://mamot.fr/@arthurlutzim/105895274397544983) (1 week ago)
-- [arthurlutzim: “@mailtape@masto.mtcrew.org @im…”](https://mamot.fr/@arthurlutzim/105893396840637764) (1 week ago)
+- [arthurlutzim: “Après avoir fait joujou avec u…”](https://mamot.fr/@arthurlutzim/105969707089047216) (1 day ago)
+- [arthurlutzim: “#hackmonday …”](https://mamot.fr/@arthurlutzim/105934498011797588) (1 week ago)
+- [arthurlutzim: “I ❤️ my #ludothèque …”](https://mamot.fr/@arthurlutzim/105934451115883797) (1 week ago)
+- [arthurlutzim: “#TeamLevain #levain 🍞”](https://mamot.fr/@arthurlutzim/105895274397544983) (2 weeks ago)
+- [arthurlutzim: “@mailtape@masto.mtcrew.org @im…”](https://mamot.fr/@arthurlutzim/105893396840637764) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
