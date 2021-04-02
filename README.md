@@ -12,7 +12,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (1 month ago)
-- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (3 months ago)
+- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (4 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (5 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (5 months ago)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “@vieuxsinge@toot.aquilenet.fr…”](https://mamot.fr/@arthurlutzim/105988767251945959) (today)
-- [arthurlutzim: “Help make it happen for Terms …”](https://mamot.fr/@arthurlutzim/105973636003176674) (3 days ago)
-- [arthurlutzim: “Réussi à tester des petits bou…”](https://mamot.fr/@arthurlutzim/105973550967971502) (3 days ago)
-- [arthurlutzim: “Hier j&#39;ai rejoué avec la boite…”](https://mamot.fr/@arthurlutzim/105972170026264963) (3 days ago)
-- [arthurlutzim: “Après avoir fait joujou avec u…”](https://mamot.fr/@arthurlutzim/105969707089047216) (4 days ago)
+- [arthurlutzim: “@vieuxsinge@toot.aquilenet.fr…”](https://mamot.fr/@arthurlutzim/105988767251945959) (1 day ago)
+- [arthurlutzim: “Help make it happen for Terms …”](https://mamot.fr/@arthurlutzim/105973636003176674) (4 days ago)
+- [arthurlutzim: “Réussi à tester des petits bou…”](https://mamot.fr/@arthurlutzim/105973550967971502) (4 days ago)
+- [arthurlutzim: “Hier j&#39;ai rejoué avec la boite…”](https://mamot.fr/@arthurlutzim/105972170026264963) (4 days ago)
+- [arthurlutzim: “Après avoir fait joujou avec u…”](https://mamot.fr/@arthurlutzim/105969707089047216) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
