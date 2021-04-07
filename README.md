@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.6](https://github.com/libretro/ludo/releases/tag/v0.12.6), today) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.6](https://github.com/libretro/ludo/releases/tag/v0.12.6), 1 day ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 4 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 4 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 8 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Les modèles pyramidaux…”](https://mamot.fr/@arthurlutzim/106002814299953970) (3 days ago)
-- [arthurlutzim: “Si vous ne savez pas quoi ache…”](https://mamot.fr/@arthurlutzim/105994543271006706) (4 days ago)
-- [arthurlutzim: “Si vous voulez soutenir vos ar…”](https://mamot.fr/@arthurlutzim/105994499323932861) (4 days ago)
-- [arthurlutzim: “@vieuxsinge@toot.aquilenet.fr…”](https://mamot.fr/@arthurlutzim/105988767251945959) (5 days ago)
+- [arthurlutzim: “Les modèles pyramidaux…”](https://mamot.fr/@arthurlutzim/106002814299953970) (4 days ago)
+- [arthurlutzim: “Si vous ne savez pas quoi ache…”](https://mamot.fr/@arthurlutzim/105994543271006706) (5 days ago)
+- [arthurlutzim: “Si vous voulez soutenir vos ar…”](https://mamot.fr/@arthurlutzim/105994499323932861) (5 days ago)
+- [arthurlutzim: “@vieuxsinge@toot.aquilenet.fr…”](https://mamot.fr/@arthurlutzim/105988767251945959) (6 days ago)
 - [arthurlutzim: “Help make it happen for Terms …”](https://mamot.fr/@arthurlutzim/105973636003176674) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
