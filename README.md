@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Lossless Audio Checker…”](https://mamot.fr/@arthurlutzim/106031684843971386) (today)
 - [arthurlutzim: “@david@social.logilab.org c&#39;es…”](https://mamot.fr/@arthurlutzim/106030387469002368) (today)
 - [arthurlutzim: “Test et remplacement des switc…”](https://mamot.fr/@arthurlutzim/106022743334442748) (1 day ago)
 - [arthurlutzim: “Les modèles pyramidaux…”](https://mamot.fr/@arthurlutzim/106002814299953970) (5 days ago)
 - [arthurlutzim: “Si vous ne savez pas quoi ache…”](https://mamot.fr/@arthurlutzim/105994543271006706) (6 days ago)
-- [arthurlutzim: “Si vous voulez soutenir vos ar…”](https://mamot.fr/@arthurlutzim/105994499323932861) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
