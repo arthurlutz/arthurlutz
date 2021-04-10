@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (1 month ago)
+- [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (2 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (4 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (5 months ago)
@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.6](https://github.com/libretro/ludo/releases/tag/v0.12.6), 3 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.6](https://github.com/libretro/ludo/releases/tag/v0.12.6), 4 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 4 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 4 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 8 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Lossless Audio Checker…”](https://mamot.fr/@arthurlutzim/106031684843971386) (1 day ago)
-- [arthurlutzim: “@david@social.logilab.org c&#39;es…”](https://mamot.fr/@arthurlutzim/106030387469002368) (1 day ago)
-- [arthurlutzim: “Test et remplacement des switc…”](https://mamot.fr/@arthurlutzim/106022743334442748) (2 days ago)
-- [arthurlutzim: “Les modèles pyramidaux…”](https://mamot.fr/@arthurlutzim/106002814299953970) (6 days ago)
+- [arthurlutzim: “Lossless Audio Checker…”](https://mamot.fr/@arthurlutzim/106031684843971386) (2 days ago)
+- [arthurlutzim: “@david@social.logilab.org c&#39;es…”](https://mamot.fr/@arthurlutzim/106030387469002368) (2 days ago)
+- [arthurlutzim: “Test et remplacement des switc…”](https://mamot.fr/@arthurlutzim/106022743334442748) (3 days ago)
+- [arthurlutzim: “Les modèles pyramidaux…”](https://mamot.fr/@arthurlutzim/106002814299953970) (1 week ago)
 - [arthurlutzim: “Si vous ne savez pas quoi ache…”](https://mamot.fr/@arthurlutzim/105994543271006706) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
