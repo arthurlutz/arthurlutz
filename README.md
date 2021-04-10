@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Suite à une panne de disque su…”](https://mamot.fr/@arthurlutzim/106041806205083425) (today)
 - [arthurlutzim: “Et ai fait un tour rapide dans…”](https://mamot.fr/@arthurlutzim/106041601094198904) (today)
 - [arthurlutzim: “Ensuite je suis allé voir la p…”](https://mamot.fr/@arthurlutzim/106041576384936139) (today)
 - [arthurlutzim: “J&#39;ai fait un tour à la présent…”](https://mamot.fr/@arthurlutzim/106041512918884389) (today)
 - [arthurlutzim: “Cool, il pleut ! Je vais pouvo…”](https://mamot.fr/@arthurlutzim/106040926404611586) (today)
-- [arthurlutzim: “Lossless Audio Checker…”](https://mamot.fr/@arthurlutzim/106031684843971386) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
