@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (today)
+- [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (1 day ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (2 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (4 months ago)
@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.6](https://github.com/libretro/ludo/releases/tag/v0.12.6), 4 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.6](https://github.com/libretro/ludo/releases/tag/v0.12.6), 5 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 4 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 4 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 8 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Suite à une panne de disque su…”](https://mamot.fr/@arthurlutzim/106041806205083425) (today)
-- [arthurlutzim: “Et ai fait un tour rapide dans…”](https://mamot.fr/@arthurlutzim/106041601094198904) (today)
-- [arthurlutzim: “Ensuite je suis allé voir la p…”](https://mamot.fr/@arthurlutzim/106041576384936139) (today)
-- [arthurlutzim: “J&#39;ai fait un tour à la présent…”](https://mamot.fr/@arthurlutzim/106041512918884389) (today)
-- [arthurlutzim: “Cool, il pleut ! Je vais pouvo…”](https://mamot.fr/@arthurlutzim/106040926404611586) (today)
+- [arthurlutzim: “Suite à une panne de disque su…”](https://mamot.fr/@arthurlutzim/106041806205083425) (1 day ago)
+- [arthurlutzim: “Et ai fait un tour rapide dans…”](https://mamot.fr/@arthurlutzim/106041601094198904) (1 day ago)
+- [arthurlutzim: “Ensuite je suis allé voir la p…”](https://mamot.fr/@arthurlutzim/106041576384936139) (1 day ago)
+- [arthurlutzim: “J&#39;ai fait un tour à la présent…”](https://mamot.fr/@arthurlutzim/106041512918884389) (1 day ago)
+- [arthurlutzim: “Cool, il pleut ! Je vais pouvo…”](https://mamot.fr/@arthurlutzim/106040926404611586) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
