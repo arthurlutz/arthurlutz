@@ -11,8 +11,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (1 day ago)
-- [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (3 days ago)
+- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (2 days ago)
+- [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (4 days ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (2 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (4 months ago)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Salut les réseaux sociaux, j&#39;a…”](https://mamot.fr/@arthurlutzim/106052949195005943) (1 day ago)
-- [arthurlutzim: “Je continue ma quête vers une …”](https://mamot.fr/@arthurlutzim/106051753676115102) (1 day ago)
-- [arthurlutzim: “Suite à une panne de disque su…”](https://mamot.fr/@arthurlutzim/106041806205083425) (3 days ago)
-- [arthurlutzim: “Et ai fait un tour rapide dans…”](https://mamot.fr/@arthurlutzim/106041601094198904) (3 days ago)
-- [arthurlutzim: “Ensuite je suis allé voir la p…”](https://mamot.fr/@arthurlutzim/106041576384936139) (3 days ago)
+- [arthurlutzim: “Salut les réseaux sociaux, j&#39;a…”](https://mamot.fr/@arthurlutzim/106052949195005943) (2 days ago)
+- [arthurlutzim: “Je continue ma quête vers une …”](https://mamot.fr/@arthurlutzim/106051753676115102) (2 days ago)
+- [arthurlutzim: “Suite à une panne de disque su…”](https://mamot.fr/@arthurlutzim/106041806205083425) (4 days ago)
+- [arthurlutzim: “Et ai fait un tour rapide dans…”](https://mamot.fr/@arthurlutzim/106041601094198904) (4 days ago)
+- [arthurlutzim: “Ensuite je suis allé voir la p…”](https://mamot.fr/@arthurlutzim/106041576384936139) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
