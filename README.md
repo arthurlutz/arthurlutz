@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.6](https://github.com/libretro/ludo/releases/tag/v0.12.6), 1 week ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.6](https://github.com/libretro/ludo/releases/tag/v0.12.6), 2 weeks ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 4 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 4 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 9 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Ce matin j&#39;ai  participé à htt…”](https://mamot.fr/@arthurlutzim/106093159387433649) (today)
-- [arthurlutzim: “I&#39;ve just discovered the follo…”](https://mamot.fr/@arthurlutzim/106091454058466200) (today)
-- [arthurlutzim: “I love reading the list of rec…”](https://mamot.fr/@arthurlutzim/106091382960625850) (today)
-- [arthurlutzim: “📻  Si vous êtes pas loin d&#39;une…”](https://mamot.fr/@arthurlutzim/106081448040259985) (2 days ago)
+- [arthurlutzim: “Ce matin j&#39;ai  participé à htt…”](https://mamot.fr/@arthurlutzim/106093159387433649) (1 day ago)
+- [arthurlutzim: “I&#39;ve just discovered the follo…”](https://mamot.fr/@arthurlutzim/106091454058466200) (1 day ago)
+- [arthurlutzim: “I love reading the list of rec…”](https://mamot.fr/@arthurlutzim/106091382960625850) (1 day ago)
+- [arthurlutzim: “📻  Si vous êtes pas loin d&#39;une…”](https://mamot.fr/@arthurlutzim/106081448040259985) (3 days ago)
 - [arthurlutzim: “Salut les réseaux sociaux, j&#39;a…”](https://mamot.fr/@arthurlutzim/106052949195005943) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
