@@ -41,14 +41,14 @@ Say Hello, I don't bite!
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (7 months ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (10 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (11 months ago)
-- [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (11 months ago)
+- [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (1 year ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🧼🍽️ Bob Cassette Rewinder: Hac…”](https://mamot.fr/@arthurlutzim/106105107162146878) (1 day ago)
-- [arthurlutzim: “Power Supply Uses Thin Form Fa…”](https://mamot.fr/@arthurlutzim/106105026747252704) (1 day ago)
-- [arthurlutzim: “How balenaSound inspired the a…”](https://mamot.fr/@arthurlutzim/106104884674442307) (1 day ago)
-- [arthurlutzim: “Wow... 😱😵💉 virtual pandemic in…” (sensitive)](https://mamot.fr/@arthurlutzim/106104031888013859) (1 day ago)
-- [arthurlutzim: CW “covid, confinement” (sensitive)](https://mamot.fr/@arthurlutzim/106097432062578145) (2 days ago)
+- [arthurlutzim: “🧼🍽️ Bob Cassette Rewinder: Hac…”](https://mamot.fr/@arthurlutzim/106105107162146878) (2 days ago)
+- [arthurlutzim: “Power Supply Uses Thin Form Fa…”](https://mamot.fr/@arthurlutzim/106105026747252704) (2 days ago)
+- [arthurlutzim: “How balenaSound inspired the a…”](https://mamot.fr/@arthurlutzim/106104884674442307) (2 days ago)
+- [arthurlutzim: “Wow... 😱😵💉 virtual pandemic in…” (sensitive)](https://mamot.fr/@arthurlutzim/106104031888013859) (2 days ago)
+- [arthurlutzim: CW “covid, confinement” (sensitive)](https://mamot.fr/@arthurlutzim/106097432062578145) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
