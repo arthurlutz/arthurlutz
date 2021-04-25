@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.7](https://github.com/libretro/ludo/releases/tag/v0.12.7), today) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.7](https://github.com/libretro/ludo/releases/tag/v0.12.7), 1 day ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 4 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 5 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 9 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🧼🍽️ Bob Cassette Rewinder: Hac…”](https://mamot.fr/@arthurlutzim/106105107162146878) (3 days ago)
-- [arthurlutzim: “Power Supply Uses Thin Form Fa…”](https://mamot.fr/@arthurlutzim/106105026747252704) (3 days ago)
-- [arthurlutzim: “How balenaSound inspired the a…”](https://mamot.fr/@arthurlutzim/106104884674442307) (3 days ago)
-- [arthurlutzim: “Wow... 😱😵💉 virtual pandemic in…” (sensitive)](https://mamot.fr/@arthurlutzim/106104031888013859) (3 days ago)
-- [arthurlutzim: CW “covid, confinement” (sensitive)](https://mamot.fr/@arthurlutzim/106097432062578145) (4 days ago)
+- [arthurlutzim: “🧼🍽️ Bob Cassette Rewinder: Hac…”](https://mamot.fr/@arthurlutzim/106105107162146878) (4 days ago)
+- [arthurlutzim: “Power Supply Uses Thin Form Fa…”](https://mamot.fr/@arthurlutzim/106105026747252704) (4 days ago)
+- [arthurlutzim: “How balenaSound inspired the a…”](https://mamot.fr/@arthurlutzim/106104884674442307) (4 days ago)
+- [arthurlutzim: “Wow... 😱😵💉 virtual pandemic in…” (sensitive)](https://mamot.fr/@arthurlutzim/106104031888013859) (4 days ago)
+- [arthurlutzim: CW “covid, confinement” (sensitive)](https://mamot.fr/@arthurlutzim/106097432062578145) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
