@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “📹🌐🐕🔓🕵🐧 Hacking the Furbo Dog C…”](https://mamot.fr/@arthurlutzim/106138449829068479) (today)
 - [arthurlutzim: “🧼🍽️ Bob Cassette Rewinder: Hac…”](https://mamot.fr/@arthurlutzim/106105107162146878) (6 days ago)
 - [arthurlutzim: “Power Supply Uses Thin Form Fa…”](https://mamot.fr/@arthurlutzim/106105026747252704) (6 days ago)
 - [arthurlutzim: “How balenaSound inspired the a…”](https://mamot.fr/@arthurlutzim/106104884674442307) (6 days ago)
 - [arthurlutzim: “Wow... 😱😵💉 virtual pandemic in…” (sensitive)](https://mamot.fr/@arthurlutzim/106104031888013859) (6 days ago)
-- [arthurlutzim: CW “covid, confinement” (sensitive)](https://mamot.fr/@arthurlutzim/106097432062578145) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
