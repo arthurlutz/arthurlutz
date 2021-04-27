@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.8](https://github.com/libretro/ludo/releases/tag/v0.12.8), 1 day ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.8](https://github.com/libretro/ludo/releases/tag/v0.12.8), 2 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 4 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 5 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 9 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -39,16 +39,16 @@ Say Hello, I don't bite!
 
 - [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (5 months ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (7 months ago)
-- [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (10 months ago)
+- [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (11 months ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (11 months ago)
 - [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (1 year ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🧼🍽️ Bob Cassette Rewinder: Hac…”](https://mamot.fr/@arthurlutzim/106105107162146878) (5 days ago)
-- [arthurlutzim: “Power Supply Uses Thin Form Fa…”](https://mamot.fr/@arthurlutzim/106105026747252704) (5 days ago)
-- [arthurlutzim: “How balenaSound inspired the a…”](https://mamot.fr/@arthurlutzim/106104884674442307) (5 days ago)
-- [arthurlutzim: “Wow... 😱😵💉 virtual pandemic in…” (sensitive)](https://mamot.fr/@arthurlutzim/106104031888013859) (5 days ago)
-- [arthurlutzim: CW “covid, confinement” (sensitive)](https://mamot.fr/@arthurlutzim/106097432062578145) (6 days ago)
+- [arthurlutzim: “🧼🍽️ Bob Cassette Rewinder: Hac…”](https://mamot.fr/@arthurlutzim/106105107162146878) (6 days ago)
+- [arthurlutzim: “Power Supply Uses Thin Form Fa…”](https://mamot.fr/@arthurlutzim/106105026747252704) (6 days ago)
+- [arthurlutzim: “How balenaSound inspired the a…”](https://mamot.fr/@arthurlutzim/106104884674442307) (6 days ago)
+- [arthurlutzim: “Wow... 😱😵💉 virtual pandemic in…” (sensitive)](https://mamot.fr/@arthurlutzim/106104031888013859) (6 days ago)
+- [arthurlutzim: CW “covid, confinement” (sensitive)](https://mamot.fr/@arthurlutzim/106097432062578145) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
