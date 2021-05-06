@@ -17,7 +17,7 @@ Say Hello, I don't bite!
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (5 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (5 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (6 months ago)
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (6 months ago)
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (7 months ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (7 months ago)
 - [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (7 months ago)
 - [russelldavies/matrix-archive](https://github.com/russelldavies/matrix-archive) - Archive Matrix room messages (7 months ago)
@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.9](https://github.com/libretro/ludo/releases/tag/v0.12.9), 2 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.12.9](https://github.com/libretro/ludo/releases/tag/v0.12.9), 3 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 5 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 5 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 9 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,8 +45,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Pi4 USB-C Gadget…”](https://mamot.fr/@arthurlutzim/106184766306094115) (today)
-- [arthurlutzim: “Lamps Double As Secret Surroun…”](https://mamot.fr/@arthurlutzim/106164847127732389) (3 days ago)
+- [arthurlutzim: “Pi4 USB-C Gadget…”](https://mamot.fr/@arthurlutzim/106184766306094115) (1 day ago)
+- [arthurlutzim: “Lamps Double As Secret Surroun…”](https://mamot.fr/@arthurlutzim/106164847127732389) (4 days ago)
 - [arthurlutzim: “📹🌐🐕🔓🕵🐧 Hacking the Furbo Dog C…”](https://mamot.fr/@arthurlutzim/106138449829068479) (1 week ago)
 - [arthurlutzim: “🧼🍽️ Bob Cassette Rewinder: Hac…”](https://mamot.fr/@arthurlutzim/106105107162146878) (2 weeks ago)
 - [arthurlutzim: “Power Supply Uses Thin Form Fa…”](https://mamot.fr/@arthurlutzim/106105026747252704) (2 weeks ago)
