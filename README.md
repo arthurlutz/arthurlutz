@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “K’nex Pinball Machine Is A Pla…”](https://mamot.fr/@arthurlutzim/106204218175729671) (today)
 - [arthurlutzim: “Graphics Tablet Primer for Hac…”](https://mamot.fr/@arthurlutzim/106198809446251924) (1 day ago)
 - [arthurlutzim: “Pi4 USB-C Gadget…”](https://mamot.fr/@arthurlutzim/106184766306094115) (4 days ago)
 - [arthurlutzim: “Lamps Double As Secret Surroun…”](https://mamot.fr/@arthurlutzim/106164847127732389) (1 week ago)
 - [arthurlutzim: “📹🌐🐕🔓🕵🐧 Hacking the Furbo Dog C…”](https://mamot.fr/@arthurlutzim/106138449829068479) (1 week ago)
-- [arthurlutzim: “🧼🍽️ Bob Cassette Rewinder: Hac…”](https://mamot.fr/@arthurlutzim/106105107162146878) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
