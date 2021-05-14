@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.13.0](https://github.com/libretro/ludo/releases/tag/v0.13.0), 1 day ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.13.0](https://github.com/libretro/ludo/releases/tag/v0.13.0), 2 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 5 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 5 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 9 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “À court de farine de blé pour …”](https://mamot.fr/@arthurlutzim/106210957991691401) (3 days ago)
-- [arthurlutzim: “🐧🎧🎸🎼🥁🎹 Suis en train de me per…”](https://mamot.fr/@arthurlutzim/106210292852570202) (3 days ago)
-- [arthurlutzim: “Yessss! I am now a proud patro…”](https://mamot.fr/@arthurlutzim/106205556121601417) (4 days ago)
-- [arthurlutzim: “Via makeymakey&#39;s blog https://…”](https://mamot.fr/@arthurlutzim/106204708569620446) (4 days ago)
-- [arthurlutzim: “@scanlime@beach.city I&#39;m going…”](https://mamot.fr/@arthurlutzim/106204619625807643) (4 days ago)
+- [arthurlutzim: “À court de farine de blé pour …”](https://mamot.fr/@arthurlutzim/106210957991691401) (4 days ago)
+- [arthurlutzim: “🐧🎧🎸🎼🥁🎹 Suis en train de me per…”](https://mamot.fr/@arthurlutzim/106210292852570202) (4 days ago)
+- [arthurlutzim: “Yessss! I am now a proud patro…”](https://mamot.fr/@arthurlutzim/106205556121601417) (5 days ago)
+- [arthurlutzim: “Via makeymakey&#39;s blog https://…”](https://mamot.fr/@arthurlutzim/106204708569620446) (5 days ago)
+- [arthurlutzim: “@scanlime@beach.city I&#39;m going…”](https://mamot.fr/@arthurlutzim/106204619625807643) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
