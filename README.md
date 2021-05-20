@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.0](https://github.com/libretro/ludo/releases/tag/v0.14.0), 4 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.0](https://github.com/libretro/ludo/releases/tag/v0.14.0), 5 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 5 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 5 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 10 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,7 +45,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “&gt; The tools and tech I use to …”](https://mamot.fr/@arthurlutzim/106260418713454353) (today)
+- [arthurlutzim: “&gt; The tools and tech I use to …”](https://mamot.fr/@arthurlutzim/106260418713454353) (1 day ago)
 - [arthurlutzim: “À court de farine de blé pour …”](https://mamot.fr/@arthurlutzim/106210957991691401) (1 week ago)
 - [arthurlutzim: “🐧🎧🎸🎼🥁🎹 Suis en train de me per…”](https://mamot.fr/@arthurlutzim/106210292852570202) (1 week ago)
 - [arthurlutzim: “Yessss! I am now a proud patro…”](https://mamot.fr/@arthurlutzim/106205556121601417) (1 week ago)
