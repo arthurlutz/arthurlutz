@@ -45,9 +45,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Le collectif FIL http://collec…”](https://mamot.fr/@arthurlutzim/106269377976758085) (2 days ago)
-- [arthurlutzim: “&gt; C’est pour cela que nous dés…”](https://mamot.fr/@arthurlutzim/106269369981042773) (2 days ago)
-- [arthurlutzim: “&gt; The tools and tech I use to …”](https://mamot.fr/@arthurlutzim/106260418713454353) (3 days ago)
+- [arthurlutzim: “Le collectif FIL http://collec…”](https://mamot.fr/@arthurlutzim/106269377976758085) (3 days ago)
+- [arthurlutzim: “&gt; C’est pour cela que nous dés…”](https://mamot.fr/@arthurlutzim/106269369981042773) (3 days ago)
+- [arthurlutzim: “&gt; The tools and tech I use to …”](https://mamot.fr/@arthurlutzim/106260418713454353) (4 days ago)
 - [arthurlutzim: “À court de farine de blé pour …”](https://mamot.fr/@arthurlutzim/106210957991691401) (1 week ago)
 - [arthurlutzim: “🐧🎧🎸🎼🥁🎹 Suis en train de me per…”](https://mamot.fr/@arthurlutzim/106210292852570202) (1 week ago)
 
