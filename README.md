@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.5](https://github.com/libretro/ludo/releases/tag/v0.14.5), today) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.5](https://github.com/libretro/ludo/releases/tag/v0.14.5), 1 day ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.17.1](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.17.1), 6 months ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 6 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 10 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Et la salle est magnifique. …”](https://mamot.fr/@arthurlutzim/106329558469524365) (2 days ago)
-- [arthurlutzim: “Le déconfinement, pour moi, la…”](https://mamot.fr/@arthurlutzim/106329536767302719) (2 days ago)
-- [arthurlutzim: “La réouverture des musées, ça …”](https://mamot.fr/@arthurlutzim/106328993480731606) (2 days ago)
-- [arthurlutzim: “Consulter Instagram, YouTube..…”](https://mamot.fr/@arthurlutzim/106322878574290643) (3 days ago)
-- [arthurlutzim: “Ho! Des @ChatonsOrg@framapiaf.…”](https://mamot.fr/@arthurlutzim/106308994394843318) (6 days ago)
+- [arthurlutzim: “Et la salle est magnifique. …”](https://mamot.fr/@arthurlutzim/106329558469524365) (3 days ago)
+- [arthurlutzim: “Le déconfinement, pour moi, la…”](https://mamot.fr/@arthurlutzim/106329536767302719) (3 days ago)
+- [arthurlutzim: “La réouverture des musées, ça …”](https://mamot.fr/@arthurlutzim/106328993480731606) (3 days ago)
+- [arthurlutzim: “Consulter Instagram, YouTube..…”](https://mamot.fr/@arthurlutzim/106322878574290643) (4 days ago)
+- [arthurlutzim: “Ho! Des @ChatonsOrg@framapiaf.…”](https://mamot.fr/@arthurlutzim/106308994394843318) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
