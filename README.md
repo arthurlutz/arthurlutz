@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Vieux outils... 🗜 …”](https://mamot.fr/@arthurlutzim/106346594660211287) (today)
 - [arthurlutzim: “Et la salle est magnifique. …”](https://mamot.fr/@arthurlutzim/106329558469524365) (3 days ago)
 - [arthurlutzim: “Le déconfinement, pour moi, la…”](https://mamot.fr/@arthurlutzim/106329536767302719) (3 days ago)
 - [arthurlutzim: “La réouverture des musées, ça …”](https://mamot.fr/@arthurlutzim/106328993480731606) (3 days ago)
 - [arthurlutzim: “Consulter Instagram, YouTube..…”](https://mamot.fr/@arthurlutzim/106322878574290643) (4 days ago)
-- [arthurlutzim: “Ho! Des @ChatonsOrg@framapiaf.…”](https://mamot.fr/@arthurlutzim/106308994394843318) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
