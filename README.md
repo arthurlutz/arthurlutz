@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447952354445368) (today)
+- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447910756957462) (today)
 - [arthurlutzim: “Teardown Report: Xiaomi Multi-…”](https://mamot.fr/@arthurlutzim/106447756180529952) (today)
 - [arthurlutzim: “Dans ce reportage radiophoniqu…”](https://mamot.fr/@arthurlutzim/106414490308001674) (6 days ago)
 - [arthurlutzim: “Dans ce reportage radiophoniqu…”](https://mamot.fr/@arthurlutzim/106414460301258408) (6 days ago)
-- [arthurlutzim: “📻🎧 Sexualités empêchées - Ép. …”](https://mamot.fr/@arthurlutzim/106414439248792665) (6 days ago)
-- [arthurlutzim: CW “mention de mort” (sensitive)](https://mamot.fr/@arthurlutzim/106410554427824363) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
