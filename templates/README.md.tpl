@@ -4,10 +4,10 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter 🐦: https://twitter.com/arthurlutzim
 - Fediverse 🐘: https://mamot.fr/@arthurlutzim
 - Homepage 🏠: https://arthur.lutz.im/
 - Blog 📰: https://arthur.lutz.im/blog/
+- Twitter 🐦: https://twitter.com/arthurlutzim
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
