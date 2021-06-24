@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.9](https://github.com/libretro/ludo/releases/tag/v0.14.9), 1 day ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.9](https://github.com/libretro/ludo/releases/tag/v0.14.9), 2 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.18.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.18.0), 1 week ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 7 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 11 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Don de sang aujourd&#39;hui 🩸…”](https://mamot.fr/@arthurlutzim/106450348701077566) (2 days ago)
-- [arthurlutzim: “Récente pratique qui étend mon…”](https://mamot.fr/@arthurlutzim/106448124599523308) (2 days ago)
-- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447952354445368) (2 days ago)
-- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447910756957462) (2 days ago)
-- [arthurlutzim: “Teardown Report: Xiaomi Multi-…”](https://mamot.fr/@arthurlutzim/106447756180529952) (2 days ago)
+- [arthurlutzim: “Don de sang aujourd&#39;hui 🩸…”](https://mamot.fr/@arthurlutzim/106450348701077566) (3 days ago)
+- [arthurlutzim: “Récente pratique qui étend mon…”](https://mamot.fr/@arthurlutzim/106448124599523308) (3 days ago)
+- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447952354445368) (3 days ago)
+- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447910756957462) (3 days ago)
+- [arthurlutzim: “Teardown Report: Xiaomi Multi-…”](https://mamot.fr/@arthurlutzim/106447756180529952) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
