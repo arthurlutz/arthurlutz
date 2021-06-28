@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 days ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 days ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (3 weeks ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (2 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (2 months ago)
@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.9](https://github.com/libretro/ludo/releases/tag/v0.14.9), 5 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.9](https://github.com/libretro/ludo/releases/tag/v0.14.9), 6 days ago) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.18.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.18.0), 1 week ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 7 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 11 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -46,10 +46,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Don de sang aujourd&#39;hui 🩸…”](https://mamot.fr/@arthurlutzim/106450348701077566) (6 days ago)
-- [arthurlutzim: “Récente pratique qui étend mon…”](https://mamot.fr/@arthurlutzim/106448124599523308) (6 days ago)
-- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447952354445368) (6 days ago)
-- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447910756957462) (6 days ago)
-- [arthurlutzim: “Teardown Report: Xiaomi Multi-…”](https://mamot.fr/@arthurlutzim/106447756180529952) (6 days ago)
+- [arthurlutzim: “Don de sang aujourd&#39;hui 🩸…”](https://mamot.fr/@arthurlutzim/106450348701077566) (1 week ago)
+- [arthurlutzim: “Récente pratique qui étend mon…”](https://mamot.fr/@arthurlutzim/106448124599523308) (1 week ago)
+- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447952354445368) (1 week ago)
+- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447910756957462) (1 week ago)
+- [arthurlutzim: “Teardown Report: Xiaomi Multi-…”](https://mamot.fr/@arthurlutzim/106447756180529952) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
