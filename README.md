@@ -20,7 +20,7 @@ Say Hello, I don't bite!
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (7 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (8 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (9 months ago)
-- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (9 months ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.9](https://github.com/libretro/ludo/releases/tag/v0.14.9), 2 weeks ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.10](https://github.com/libretro/ludo/releases/tag/v0.14.10), today) - A libretro frontend written in golang
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.18.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.18.0), 3 weeks ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 7 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 11 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
