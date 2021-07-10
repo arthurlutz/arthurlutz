@@ -46,10 +46,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “🛠🔦🚲 Tentative de réparation d&#39;…”](https://mamot.fr/@arthurlutzim/106556478974187021) (today)
+- [arthurlutzim: “🛠🔦🚲 Tentative de réparation d&#39;…”](https://mamot.fr/@arthurlutzim/106556456156555623) (today)
 - [arthurlutzim: “🎶🎹📹 La semaine dernière, je su…”](https://mamot.fr/@arthurlutzim/106506412425172758) (1 week ago)
 - [arthurlutzim: “📺 Rick et Morty : la SF mal po…”](https://mamot.fr/@arthurlutzim/106496052021573628) (1 week ago)
 - [arthurlutzim: “Don de sang aujourd&#39;hui 🩸…”](https://mamot.fr/@arthurlutzim/106450348701077566) (2 weeks ago)
-- [arthurlutzim: “Récente pratique qui étend mon…”](https://mamot.fr/@arthurlutzim/106448124599523308) (2 weeks ago)
-- [arthurlutzim: “Tentative de réparation d&#39;une …”](https://mamot.fr/@arthurlutzim/106447952354445368) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
