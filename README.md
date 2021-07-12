@@ -32,7 +32,6 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.10](https://github.com/libretro/ludo/releases/tag/v0.14.10), 5 days ago) - A libretro frontend written in golang
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) ([v0.18.0](https://github.com/sindresorhus/awesome-lint/releases/tag/v0.18.0), 3 weeks ago) - Linter for Awesome lists
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 7 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 11 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
