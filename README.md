@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (today)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (1 month ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (3 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (3 months ago)
@@ -33,7 +33,7 @@ Say Hello, I don't bite!
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.14.10](https://github.com/libretro/ludo/releases/tag/v0.14.10), 1 week ago) - A libretro frontend written in golang
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 7 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 11 months ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 1 year ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
 #### 📜 My recent blog posts
 
@@ -45,9 +45,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Tentative de réparation d&#39;un h…”](https://mamot.fr/@arthurlutzim/106566509357269925) (3 days ago)
-- [arthurlutzim: “🛠🔦🚲 Tentative de réparation d&#39;…”](https://mamot.fr/@arthurlutzim/106556478974187021) (5 days ago)
-- [arthurlutzim: “🛠🔦🚲 Tentative de réparation d&#39;…”](https://mamot.fr/@arthurlutzim/106556456156555623) (5 days ago)
+- [arthurlutzim: “Tentative de réparation d&#39;un h…”](https://mamot.fr/@arthurlutzim/106566509357269925) (4 days ago)
+- [arthurlutzim: “🛠🔦🚲 Tentative de réparation d&#39;…”](https://mamot.fr/@arthurlutzim/106556478974187021) (6 days ago)
+- [arthurlutzim: “🛠🔦🚲 Tentative de réparation d&#39;…”](https://mamot.fr/@arthurlutzim/106556456156555623) (6 days ago)
 - [arthurlutzim: “🎶🎹📹 La semaine dernière, je su…”](https://mamot.fr/@arthurlutzim/106506412425172758) (2 weeks ago)
 - [arthurlutzim: “📺 Rick et Morty : la SF mal po…”](https://mamot.fr/@arthurlutzim/106496052021573628) (2 weeks ago)
 
