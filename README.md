@@ -37,18 +37,18 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
+- [Suite réparations Flipper Gottlieb Four Seasons](https://arthur.lutz.im/blog/2021/07/19/suite-reparations-flipper-gottlieb-four-seasons/) (today)
 - [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (8 months ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (10 months ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (1 year ago)
 - [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (1 year ago)
-- [Démontage myFox security camera – part 3](https://arthur.lutz.im/blog/2020/04/28/demontage-myfox-security-camera-part-3/) (1 year ago)
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “[blog]  Suite réparations Flip…”](https://mamot.fr/@arthurlutzim/106608639572762837) (today)
 - [arthurlutzim: “Tentative de réparation d&#39;un h…”](https://mamot.fr/@arthurlutzim/106566509357269925) (1 week ago)
 - [arthurlutzim: “🛠🔦🚲 Tentative de réparation d&#39;…”](https://mamot.fr/@arthurlutzim/106556478974187021) (1 week ago)
 - [arthurlutzim: “🛠🔦🚲 Tentative de réparation d&#39;…”](https://mamot.fr/@arthurlutzim/106556456156555623) (1 week ago)
 - [arthurlutzim: “🎶🎹📹 La semaine dernière, je su…”](https://mamot.fr/@arthurlutzim/106506412425172758) (2 weeks ago)
-- [arthurlutzim: “📺 Rick et Morty : la SF mal po…”](https://mamot.fr/@arthurlutzim/106496052021573628) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
