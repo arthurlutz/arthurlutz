@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (today)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (2 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (4 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (4 months ago)
@@ -45,8 +45,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Related:  Many Tamagotchis Wer…”](https://mamot.fr/@arthurlutzim/106733356188926571) (1 day ago)
-- [arthurlutzim: “Tamagotchis Everywhere…”](https://mamot.fr/@arthurlutzim/106733342055678895) (1 day ago)
+- [arthurlutzim: “Related:  Many Tamagotchis Wer…”](https://mamot.fr/@arthurlutzim/106733356188926571) (2 days ago)
+- [arthurlutzim: “Tamagotchis Everywhere…”](https://mamot.fr/@arthurlutzim/106733342055678895) (2 days ago)
 - [arthurlutzim: “[blog]  Suite réparations Flip…”](https://mamot.fr/@arthurlutzim/106608639572762837) (3 weeks ago)
 - [arthurlutzim: “Tentative de réparation d&#39;un h…”](https://mamot.fr/@arthurlutzim/106566509357269925) (1 month ago)
 - [arthurlutzim: “🛠🔦🚲 Tentative de réparation d&#39;…”](https://mamot.fr/@arthurlutzim/106556478974187021) (1 month ago)
