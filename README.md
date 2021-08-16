@@ -37,18 +37,18 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
+- [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (today)
 - [Suite réparations Flipper Gottlieb Four Seasons](https://arthur.lutz.im/blog/2021/07/19/suite-reparations-flipper-gottlieb-four-seasons/) (4 weeks ago)
 - [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (9 months ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (10 months ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (1 year ago)
-- [Regards sur les technologies de partage numérique de musique](https://arthur.lutz.im/blog/2020/05/23/regards-sur-les-technologies-de-partage-numerique-de-musique/) (1 year ago)
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “[blog]  Piano numérique dans m…”](https://mamot.fr/@arthurlutzim/106766914087917839) (today)
 - [arthurlutzim: “Related:  Many Tamagotchis Wer…”](https://mamot.fr/@arthurlutzim/106733356188926571) (6 days ago)
 - [arthurlutzim: “Tamagotchis Everywhere…”](https://mamot.fr/@arthurlutzim/106733342055678895) (6 days ago)
 - [arthurlutzim: “[blog]  Suite réparations Flip…”](https://mamot.fr/@arthurlutzim/106608639572762837) (4 weeks ago)
 - [arthurlutzim: “Tentative de réparation d&#39;un h…”](https://mamot.fr/@arthurlutzim/106566509357269925) (1 month ago)
-- [arthurlutzim: “🛠🔦🚲 Tentative de réparation d&#39;…”](https://mamot.fr/@arthurlutzim/106556478974187021) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
