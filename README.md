@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (today)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (1 week ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (2 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (4 months ago)
@@ -20,7 +20,7 @@ Say Hello, I don't bite!
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (9 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (10 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (10 months ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (10 months ago)
+- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (10 months ago)
 
 #### 🌱 My latest projects
 
