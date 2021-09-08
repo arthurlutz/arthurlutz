@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Electronics Workbench, A fully…”](https://mamot.fr/@arthurlutzim/106897351026757804) (today)
 - [arthurlutzim: “https://hackaday.com/2021/07/2…”](https://mamot.fr/@arthurlutzim/106767547647311703) (3 weeks ago)
 - [arthurlutzim: “[blog]  Piano numérique dans m…”](https://mamot.fr/@arthurlutzim/106766914087917839) (3 weeks ago)
 - [arthurlutzim: “Related:  Many Tamagotchis Wer…”](https://mamot.fr/@arthurlutzim/106733356188926571) (4 weeks ago)
 - [arthurlutzim: “Tamagotchis Everywhere…”](https://mamot.fr/@arthurlutzim/106733342055678895) (4 weeks ago)
-- [arthurlutzim: “[blog]  Suite réparations Flip…”](https://mamot.fr/@arthurlutzim/106608639572762837) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
