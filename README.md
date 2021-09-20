@@ -45,7 +45,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🔌🔋 Powering Up With USB: Untan…”](https://mamot.fr/@arthurlutzim/106960189133419940) (today)
+- [arthurlutzim: “🔌🔋 Powering Up With USB: Untan…”](https://mamot.fr/@arthurlutzim/106960189133419940) (1 day ago)
 - [arthurlutzim: “Electronics Workbench, A fully…”](https://mamot.fr/@arthurlutzim/106897351026757804) (1 week ago)
 - [arthurlutzim: “https://hackaday.com/2021/07/2…”](https://mamot.fr/@arthurlutzim/106767547647311703) (1 month ago)
 - [arthurlutzim: “[blog]  Piano numérique dans m…”](https://mamot.fr/@arthurlutzim/106766914087917839) (1 month ago)
