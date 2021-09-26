@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.6-altui](https://github.com/libretro/ludo/releases/tag/v0.16.6-altui), 3 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.6-altui](https://github.com/libretro/ludo/releases/tag/v0.16.6-altui), 4 days ago) - A libretro frontend written in golang
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 10 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 1 year ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
@@ -45,9 +45,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: CW “alcool” (sensitive)](https://mamot.fr/@arthurlutzim/106992239955145582) (today)
-- [arthurlutzim: “Je procrastine, je procrastine…”](https://mamot.fr/@arthurlutzim/106963339201496682) (5 days ago)
-- [arthurlutzim: “🔌🔋 Powering Up With USB: Untan…”](https://mamot.fr/@arthurlutzim/106960189133419940) (6 days ago)
+- [arthurlutzim: CW “alcool” (sensitive)](https://mamot.fr/@arthurlutzim/106992239955145582) (1 day ago)
+- [arthurlutzim: “Je procrastine, je procrastine…”](https://mamot.fr/@arthurlutzim/106963339201496682) (6 days ago)
+- [arthurlutzim: “🔌🔋 Powering Up With USB: Untan…”](https://mamot.fr/@arthurlutzim/106960189133419940) (1 week ago)
 - [arthurlutzim: “Electronics Workbench, A fully…”](https://mamot.fr/@arthurlutzim/106897351026757804) (2 weeks ago)
 - [arthurlutzim: “https://hackaday.com/2021/07/2…”](https://mamot.fr/@arthurlutzim/106767547647311703) (1 month ago)
 
