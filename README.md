@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (today)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (1 month ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (4 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (5 months ago)
@@ -19,7 +19,7 @@ Say Hello, I don't bite!
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (7 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (10 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (11 months ago)
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (11 months ago)
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 year ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 year ago)
 
 #### 🌱 My latest projects
@@ -45,10 +45,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Récolte de houblon il y a quel…”](https://mamot.fr/@arthurlutzim/107013647944449722) (3 days ago)
+- [arthurlutzim: “Récolte de houblon il y a quel…”](https://mamot.fr/@arthurlutzim/107013647944449722) (4 days ago)
 - [arthurlutzim: CW “alcool” (sensitive)](https://mamot.fr/@arthurlutzim/106992239955145582) (1 week ago)
 - [arthurlutzim: “Je procrastine, je procrastine…”](https://mamot.fr/@arthurlutzim/106963339201496682) (1 week ago)
-- [arthurlutzim: “🔌🔋 Powering Up With USB: Untan…”](https://mamot.fr/@arthurlutzim/106960189133419940) (1 week ago)
+- [arthurlutzim: “🔌🔋 Powering Up With USB: Untan…”](https://mamot.fr/@arthurlutzim/106960189133419940) (2 weeks ago)
 - [arthurlutzim: “Electronics Workbench, A fully…”](https://mamot.fr/@arthurlutzim/106897351026757804) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
