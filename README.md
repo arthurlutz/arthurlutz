@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (today)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (1 month ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (4 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (5 months ago)
@@ -39,14 +39,14 @@ Say Hello, I don't bite!
 
 - [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (1 month ago)
 - [Suite réparations Flipper Gottlieb Four Seasons](https://arthur.lutz.im/blog/2021/07/19/suite-reparations-flipper-gottlieb-four-seasons/) (2 months ago)
-- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (10 months ago)
+- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (11 months ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 year ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (1 year ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Je suis à présent souscripteur…”](https://mamot.fr/@arthurlutzim/107043091066819787) (today)
-- [arthurlutzim: “Récolte de houblon il y a quel…”](https://mamot.fr/@arthurlutzim/107013647944449722) (5 days ago)
+- [arthurlutzim: “Je suis à présent souscripteur…”](https://mamot.fr/@arthurlutzim/107043091066819787) (1 day ago)
+- [arthurlutzim: “Récolte de houblon il y a quel…”](https://mamot.fr/@arthurlutzim/107013647944449722) (6 days ago)
 - [arthurlutzim: CW “alcool” (sensitive)](https://mamot.fr/@arthurlutzim/106992239955145582) (1 week ago)
 - [arthurlutzim: “Je procrastine, je procrastine…”](https://mamot.fr/@arthurlutzim/106963339201496682) (2 weeks ago)
 - [arthurlutzim: “🔌🔋 Powering Up With USB: Untan…”](https://mamot.fr/@arthurlutzim/106960189133419940) (2 weeks ago)
