@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.6-altui](https://github.com/libretro/ludo/releases/tag/v0.16.6-altui), 2 weeks ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.7](https://github.com/libretro/ludo/releases/tag/v0.16.7), today) - A libretro frontend written in golang
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) ([1.1.4](https://github.com/Psycojoker/prosopopee/releases/tag/1.1.4), 10 months ago) - a static website generator to make beautiful customizable pictures galleries that tell a story
 
 #### 📜 My recent blog posts
