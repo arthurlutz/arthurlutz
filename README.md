@@ -11,16 +11,16 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (today)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (1 month ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (4 months ago)
-- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (5 months ago)
+- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (6 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (6 months ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (8 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (10 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (11 months ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 year ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 year ago)
+- [lpieri/Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino) - Emulator MacOS for the Gamebuino (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.7](https://github.com/libretro/ludo/releases/tag/v0.16.7), today) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.7](https://github.com/libretro/ludo/releases/tag/v0.16.7), 1 day ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -43,10 +43,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “📻🎧 Low tech Lab…”](https://mamot.fr/@arthurlutzim/107059885600895511) (1 day ago)
-- [arthurlutzim: “L&#39;année dernière j&#39;ai particip…”](https://mamot.fr/@arthurlutzim/107048779330907914) (3 days ago)
-- [arthurlutzim: “Je suis à présent souscripteur…”](https://mamot.fr/@arthurlutzim/107043091066819787) (4 days ago)
+- [arthurlutzim: “📻🎧 Low tech Lab…”](https://mamot.fr/@arthurlutzim/107059885600895511) (2 days ago)
+- [arthurlutzim: “L&#39;année dernière j&#39;ai particip…”](https://mamot.fr/@arthurlutzim/107048779330907914) (4 days ago)
+- [arthurlutzim: “Je suis à présent souscripteur…”](https://mamot.fr/@arthurlutzim/107043091066819787) (5 days ago)
 - [arthurlutzim: “Récolte de houblon il y a quel…”](https://mamot.fr/@arthurlutzim/107013647944449722) (1 week ago)
-- [arthurlutzim: CW “alcool” (sensitive)](https://mamot.fr/@arthurlutzim/106992239955145582) (1 week ago)
+- [arthurlutzim: CW “alcool” (sensitive)](https://mamot.fr/@arthurlutzim/106992239955145582) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
