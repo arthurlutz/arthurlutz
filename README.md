@@ -19,8 +19,6 @@ Say Hello, I don't bite!
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (8 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (10 months ago)
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (11 months ago)
-- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 year ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 year ago)
 
 #### 🌱 My latest projects
 
