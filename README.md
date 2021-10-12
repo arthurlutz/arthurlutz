@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (today)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (1 month ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (4 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (6 months ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.7](https://github.com/libretro/ludo/releases/tag/v0.16.7), 3 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.7](https://github.com/libretro/ludo/releases/tag/v0.16.7), 4 days ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -41,8 +41,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “📻🎧 Low tech Lab…”](https://mamot.fr/@arthurlutzim/107059885600895511) (4 days ago)
-- [arthurlutzim: “L&#39;année dernière j&#39;ai particip…”](https://mamot.fr/@arthurlutzim/107048779330907914) (6 days ago)
+- [arthurlutzim: “📻🎧 Low tech Lab…”](https://mamot.fr/@arthurlutzim/107059885600895511) (5 days ago)
+- [arthurlutzim: “L&#39;année dernière j&#39;ai particip…”](https://mamot.fr/@arthurlutzim/107048779330907914) (1 week ago)
 - [arthurlutzim: “Je suis à présent souscripteur…”](https://mamot.fr/@arthurlutzim/107043091066819787) (1 week ago)
 - [arthurlutzim: “Récolte de houblon il y a quel…”](https://mamot.fr/@arthurlutzim/107013647944449722) (1 week ago)
 - [arthurlutzim: CW “alcool” (sensitive)](https://mamot.fr/@arthurlutzim/106992239955145582) (2 weeks ago)
