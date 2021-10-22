@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.8](https://github.com/libretro/ludo/releases/tag/v0.16.8), 1 week ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.9-altui](https://github.com/libretro/ludo/releases/tag/v0.16.9-altui), today) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
