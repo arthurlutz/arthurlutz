@@ -18,7 +18,6 @@ Say Hello, I don't bite!
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (6 months ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (8 months ago)
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (11 months ago)
-- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources (1 year ago)
 
 #### 🌱 My latest projects
 
