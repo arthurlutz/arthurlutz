@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107185858144731214) (today)
 - [arthurlutzim: “Ce soir, Jury BD Utopiales 202…”](https://mamot.fr/@arthurlutzim/107178780330764516) (1 day ago)
 - [arthurlutzim: “📻🎧 Low tech Lab…”](https://mamot.fr/@arthurlutzim/107059885600895511) (3 weeks ago)
 - [arthurlutzim: “L&#39;année dernière j&#39;ai particip…”](https://mamot.fr/@arthurlutzim/107048779330907914) (3 weeks ago)
 - [arthurlutzim: “Je suis à présent souscripteur…”](https://mamot.fr/@arthurlutzim/107043091066819787) (3 weeks ago)
-- [arthurlutzim: “Récolte de houblon il y a quel…”](https://mamot.fr/@arthurlutzim/107013647944449722) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
