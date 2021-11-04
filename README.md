@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (today)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (2 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (5 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (6 months ago)
@@ -34,16 +34,16 @@ Say Hello, I don't bite!
 
 - [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (2 months ago)
 - [Suite réparations Flipper Gottlieb Four Seasons](https://arthur.lutz.im/blog/2021/07/19/suite-reparations-flipper-gottlieb-four-seasons/) (3 months ago)
-- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (11 months ago)
+- [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (1 year ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 year ago)
 - [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (1 year ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107204059384545444) (2 days ago)
-- [arthurlutzim: “#utopiales #utopiales2021 …”](https://mamot.fr/@arthurlutzim/107197786513959198) (3 days ago)
-- [arthurlutzim: “Hier, deuxième journée aux #ut…”](https://mamot.fr/@arthurlutzim/107195027625729448) (3 days ago)
-- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107185858144731214) (5 days ago)
-- [arthurlutzim: “Ce soir, Jury BD Utopiales 202…”](https://mamot.fr/@arthurlutzim/107178780330764516) (6 days ago)
+- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107204059384545444) (3 days ago)
+- [arthurlutzim: “#utopiales #utopiales2021 …”](https://mamot.fr/@arthurlutzim/107197786513959198) (4 days ago)
+- [arthurlutzim: “Hier, deuxième journée aux #ut…”](https://mamot.fr/@arthurlutzim/107195027625729448) (4 days ago)
+- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107185858144731214) (6 days ago)
+- [arthurlutzim: “Ce soir, Jury BD Utopiales 202…”](https://mamot.fr/@arthurlutzim/107178780330764516) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
