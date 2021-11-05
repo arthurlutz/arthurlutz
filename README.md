@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (2 days ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (2 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (5 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (6 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.9-altui](https://github.com/libretro/ludo/releases/tag/v0.16.9-altui), 1 week ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.9-altui](https://github.com/libretro/ludo/releases/tag/v0.16.9-altui), 2 weeks ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107204059384545444) (3 days ago)
-- [arthurlutzim: “#utopiales #utopiales2021 …”](https://mamot.fr/@arthurlutzim/107197786513959198) (4 days ago)
-- [arthurlutzim: “Hier, deuxième journée aux #ut…”](https://mamot.fr/@arthurlutzim/107195027625729448) (4 days ago)
-- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107185858144731214) (6 days ago)
+- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107204059384545444) (4 days ago)
+- [arthurlutzim: “#utopiales #utopiales2021 …”](https://mamot.fr/@arthurlutzim/107197786513959198) (5 days ago)
+- [arthurlutzim: “Hier, deuxième journée aux #ut…”](https://mamot.fr/@arthurlutzim/107195027625729448) (5 days ago)
+- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107185858144731214) (1 week ago)
 - [arthurlutzim: “Ce soir, Jury BD Utopiales 202…”](https://mamot.fr/@arthurlutzim/107178780330764516) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
