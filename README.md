@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (6 days ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 week ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (2 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (5 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (7 months ago)
