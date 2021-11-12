@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.9-altui](https://github.com/libretro/ludo/releases/tag/v0.16.9-altui), 2 weeks ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.9-altui](https://github.com/libretro/ludo/releases/tag/v0.16.9-altui), 3 weeks ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -43,7 +43,7 @@ Say Hello, I don't bite!
 - [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107204059384545444) (1 week ago)
 - [arthurlutzim: “#utopiales #utopiales2021 …”](https://mamot.fr/@arthurlutzim/107197786513959198) (1 week ago)
 - [arthurlutzim: “Hier, deuxième journée aux #ut…”](https://mamot.fr/@arthurlutzim/107195027625729448) (1 week ago)
-- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107185858144731214) (1 week ago)
+- [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107185858144731214) (2 weeks ago)
 - [arthurlutzim: “Ce soir, Jury BD Utopiales 202…”](https://mamot.fr/@arthurlutzim/107178780330764516) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
