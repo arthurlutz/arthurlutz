@@ -17,7 +17,7 @@ Say Hello, I don't bite!
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (7 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (7 months ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (9 months ago)
-- [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (11 months ago)
+- [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.10](https://github.com/libretro/ludo/releases/tag/v0.16.10), 5 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.10](https://github.com/libretro/ludo/releases/tag/v0.16.10), 6 days ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -40,7 +40,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Pestacle de cirque vu ce soir …”](https://mamot.fr/@arthurlutzim/107266539728156810) (5 days ago)
+- [arthurlutzim: “Pestacle de cirque vu ce soir …”](https://mamot.fr/@arthurlutzim/107266539728156810) (6 days ago)
 - [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107204059384545444) (2 weeks ago)
 - [arthurlutzim: “#utopiales #utopiales2021 …”](https://mamot.fr/@arthurlutzim/107197786513959198) (2 weeks ago)
 - [arthurlutzim: “Hier, deuxième journée aux #ut…”](https://mamot.fr/@arthurlutzim/107195027625729448) (2 weeks ago)
