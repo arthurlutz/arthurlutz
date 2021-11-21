@@ -42,8 +42,8 @@ Say Hello, I don't bite!
 
 - [arthurlutzim: “Pestacle de cirque vu ce soir …”](https://mamot.fr/@arthurlutzim/107266539728156810) (1 week ago)
 - [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107204059384545444) (2 weeks ago)
-- [arthurlutzim: “#utopiales #utopiales2021 …”](https://mamot.fr/@arthurlutzim/107197786513959198) (2 weeks ago)
-- [arthurlutzim: “Hier, deuxième journée aux #ut…”](https://mamot.fr/@arthurlutzim/107195027625729448) (2 weeks ago)
+- [arthurlutzim: “#utopiales #utopiales2021 …”](https://mamot.fr/@arthurlutzim/107197786513959198) (3 weeks ago)
+- [arthurlutzim: “Hier, deuxième journée aux #ut…”](https://mamot.fr/@arthurlutzim/107195027625729448) (3 weeks ago)
 - [arthurlutzim: “#utopiales #utopiales2021…”](https://mamot.fr/@arthurlutzim/107185858144731214) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
