@@ -36,14 +36,14 @@ Say Hello, I don't bite!
 - [Suite réparations Flipper Gottlieb Four Seasons](https://arthur.lutz.im/blog/2021/07/19/suite-reparations-flipper-gottlieb-four-seasons/) (4 months ago)
 - [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (1 year ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 year ago)
-- [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (1 year ago)
+- [Suringénierie d’un système de son DIY](https://arthur.lutz.im/blog/2020/06/01/suringenierie-dun-systeme-de-son-diy/) (2 years ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Voilà ! J&#39;ai découvert plein d…”](https://mamot.fr/@arthurlutzim/107319940319712864) (today)
-- [arthurlutzim: “J&#39;avais entendu parler de Ener…”](https://mamot.fr/@arthurlutzim/107319925003460326) (today)
-- [arthurlutzim: “La méthodologie de constructio…”](https://mamot.fr/@arthurlutzim/107319905062144902) (today)
-- [arthurlutzim: “Montage des tasseaux sur film …”](https://mamot.fr/@arthurlutzim/107319888522567207) (today)
-- [arthurlutzim: “On a fait une demi journée sur…”](https://mamot.fr/@arthurlutzim/107319871138485424) (today)
+- [arthurlutzim: “Voilà ! J&#39;ai découvert plein d…”](https://mamot.fr/@arthurlutzim/107319940319712864) (1 day ago)
+- [arthurlutzim: “J&#39;avais entendu parler de Ener…”](https://mamot.fr/@arthurlutzim/107319925003460326) (1 day ago)
+- [arthurlutzim: “La méthodologie de constructio…”](https://mamot.fr/@arthurlutzim/107319905062144902) (1 day ago)
+- [arthurlutzim: “Montage des tasseaux sur film …”](https://mamot.fr/@arthurlutzim/107319888522567207) (1 day ago)
+- [arthurlutzim: “On a fait une demi journée sur…”](https://mamot.fr/@arthurlutzim/107319871138485424) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
