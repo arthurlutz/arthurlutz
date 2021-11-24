@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (2 weeks ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 weeks ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (3 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (5 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (7 months ago)
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Voilà ! J&#39;ai découvert plein d…”](https://mamot.fr/@arthurlutzim/107319940319712864) (1 day ago)
-- [arthurlutzim: “J&#39;avais entendu parler de Ener…”](https://mamot.fr/@arthurlutzim/107319925003460326) (1 day ago)
-- [arthurlutzim: “La méthodologie de constructio…”](https://mamot.fr/@arthurlutzim/107319905062144902) (1 day ago)
-- [arthurlutzim: “Montage des tasseaux sur film …”](https://mamot.fr/@arthurlutzim/107319888522567207) (1 day ago)
-- [arthurlutzim: “On a fait une demi journée sur…”](https://mamot.fr/@arthurlutzim/107319871138485424) (1 day ago)
+- [arthurlutzim: “Voilà ! J&#39;ai découvert plein d…”](https://mamot.fr/@arthurlutzim/107319940319712864) (2 days ago)
+- [arthurlutzim: “J&#39;avais entendu parler de Ener…”](https://mamot.fr/@arthurlutzim/107319925003460326) (2 days ago)
+- [arthurlutzim: “La méthodologie de constructio…”](https://mamot.fr/@arthurlutzim/107319905062144902) (2 days ago)
+- [arthurlutzim: “Montage des tasseaux sur film …”](https://mamot.fr/@arthurlutzim/107319888522567207) (2 days ago)
+- [arthurlutzim: “On a fait une demi journée sur…”](https://mamot.fr/@arthurlutzim/107319871138485424) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
