@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.10](https://github.com/libretro/ludo/releases/tag/v0.16.10), 1 week ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.10](https://github.com/libretro/ludo/releases/tag/v0.16.10), 2 weeks ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Voilà ! J&#39;ai découvert plein d…”](https://mamot.fr/@arthurlutzim/107319940319712864) (3 days ago)
-- [arthurlutzim: “J&#39;avais entendu parler de Ener…”](https://mamot.fr/@arthurlutzim/107319925003460326) (3 days ago)
-- [arthurlutzim: “La méthodologie de constructio…”](https://mamot.fr/@arthurlutzim/107319905062144902) (3 days ago)
-- [arthurlutzim: “Montage des tasseaux sur film …”](https://mamot.fr/@arthurlutzim/107319888522567207) (3 days ago)
-- [arthurlutzim: “On a fait une demi journée sur…”](https://mamot.fr/@arthurlutzim/107319871138485424) (3 days ago)
+- [arthurlutzim: “Voilà ! J&#39;ai découvert plein d…”](https://mamot.fr/@arthurlutzim/107319940319712864) (4 days ago)
+- [arthurlutzim: “J&#39;avais entendu parler de Ener…”](https://mamot.fr/@arthurlutzim/107319925003460326) (4 days ago)
+- [arthurlutzim: “La méthodologie de constructio…”](https://mamot.fr/@arthurlutzim/107319905062144902) (4 days ago)
+- [arthurlutzim: “Montage des tasseaux sur film …”](https://mamot.fr/@arthurlutzim/107319888522567207) (4 days ago)
+- [arthurlutzim: “On a fait une demi journée sur…”](https://mamot.fr/@arthurlutzim/107319871138485424) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
