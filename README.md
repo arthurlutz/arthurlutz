@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 weeks ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 weeks ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (3 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (6 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (7 months ago)
@@ -39,9 +39,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Les ingés lumière de concert q…”](https://mamot.fr/@arthurlutzim/107367955516809189) (today)
-- [arthurlutzim: “&#34;Lernen durch Lehren&#34; …”](https://mamot.fr/@arthurlutzim/107359985246700499) (1 day ago)
-- [arthurlutzim: “ELFE - Expérimentons Localemen…”](https://mamot.fr/@arthurlutzim/107359767662606966) (1 day ago)
+- [arthurlutzim: “Les ingés lumière de concert q…”](https://mamot.fr/@arthurlutzim/107367955516809189) (1 day ago)
+- [arthurlutzim: “&#34;Lernen durch Lehren&#34; …”](https://mamot.fr/@arthurlutzim/107359985246700499) (2 days ago)
+- [arthurlutzim: “ELFE - Expérimentons Localemen…”](https://mamot.fr/@arthurlutzim/107359767662606966) (2 days ago)
 - [arthurlutzim: “Voilà ! J&#39;ai découvert plein d…”](https://mamot.fr/@arthurlutzim/107319940319712864) (1 week ago)
 - [arthurlutzim: “J&#39;avais entendu parler de Ener…”](https://mamot.fr/@arthurlutzim/107319925003460326) (1 week ago)
 
