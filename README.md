@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370981627439524) (today)
-- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370968050575967) (today)
-- [arthurlutzim: “Les ingés lumière de concert q…”](https://mamot.fr/@arthurlutzim/107367955516809189) (1 day ago)
-- [arthurlutzim: “&#34;Lernen durch Lehren&#34; …”](https://mamot.fr/@arthurlutzim/107359985246700499) (2 days ago)
-- [arthurlutzim: “ELFE - Expérimentons Localemen…”](https://mamot.fr/@arthurlutzim/107359767662606966) (2 days ago)
+- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370981627439524) (1 day ago)
+- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370968050575967) (1 day ago)
+- [arthurlutzim: “Les ingés lumière de concert q…”](https://mamot.fr/@arthurlutzim/107367955516809189) (2 days ago)
+- [arthurlutzim: “&#34;Lernen durch Lehren&#34; …”](https://mamot.fr/@arthurlutzim/107359985246700499) (3 days ago)
+- [arthurlutzim: “ELFE - Expérimentons Localemen…”](https://mamot.fr/@arthurlutzim/107359767662606966) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
