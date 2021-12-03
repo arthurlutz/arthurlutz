@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 weeks ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 month ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (3 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (6 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (7 months ago)
@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.10](https://github.com/libretro/ludo/releases/tag/v0.16.10), 2 weeks ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.10](https://github.com/libretro/ludo/releases/tag/v0.16.10), 3 weeks ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370981627439524) (1 day ago)
-- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370968050575967) (1 day ago)
-- [arthurlutzim: “Les ingés lumière de concert q…”](https://mamot.fr/@arthurlutzim/107367955516809189) (2 days ago)
-- [arthurlutzim: “&#34;Lernen durch Lehren&#34; …”](https://mamot.fr/@arthurlutzim/107359985246700499) (3 days ago)
-- [arthurlutzim: “ELFE - Expérimentons Localemen…”](https://mamot.fr/@arthurlutzim/107359767662606966) (3 days ago)
+- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370981627439524) (2 days ago)
+- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370968050575967) (2 days ago)
+- [arthurlutzim: “Les ingés lumière de concert q…”](https://mamot.fr/@arthurlutzim/107367955516809189) (3 days ago)
+- [arthurlutzim: “&#34;Lernen durch Lehren&#34; …”](https://mamot.fr/@arthurlutzim/107359985246700499) (4 days ago)
+- [arthurlutzim: “ELFE - Expérimentons Localemen…”](https://mamot.fr/@arthurlutzim/107359767662606966) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
