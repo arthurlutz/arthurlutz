@@ -14,7 +14,7 @@ Say Hello, I don't bite!
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 month ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (3 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (6 months ago)
-- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (7 months ago)
+- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (8 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (8 months ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (10 months ago)
 
@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Suis en train de suivre le #mo…”](https://mamot.fr/@arthurlutzim/107407499701611189) (today)
-- [arthurlutzim: “https://isitbandcampfriday.com…”](https://mamot.fr/@arthurlutzim/107382154812812421) (4 days ago)
-- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370981627439524) (6 days ago)
-- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370968050575967) (6 days ago)
+- [arthurlutzim: “Suis en train de suivre le #mo…”](https://mamot.fr/@arthurlutzim/107407499701611189) (1 day ago)
+- [arthurlutzim: “https://isitbandcampfriday.com…”](https://mamot.fr/@arthurlutzim/107382154812812421) (5 days ago)
+- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370981627439524) (1 week ago)
+- [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370968050575967) (1 week ago)
 - [arthurlutzim: “Les ingés lumière de concert q…”](https://mamot.fr/@arthurlutzim/107367955516809189) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
