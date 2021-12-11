@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Comment des feuilles mortes pe…”](https://mamot.fr/@arthurlutzim/107429609924981151) (today)
 - [arthurlutzim: “Suis en train de suivre le #mo…”](https://mamot.fr/@arthurlutzim/107407499701611189) (4 days ago)
 - [arthurlutzim: “https://isitbandcampfriday.com…”](https://mamot.fr/@arthurlutzim/107382154812812421) (1 week ago)
 - [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370981627439524) (1 week ago)
 - [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370968050575967) (1 week ago)
-- [arthurlutzim: “Les ingés lumière de concert q…”](https://mamot.fr/@arthurlutzim/107367955516809189) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
