@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.10](https://github.com/libretro/ludo/releases/tag/v0.16.10), 4 weeks ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.10](https://github.com/libretro/ludo/releases/tag/v0.16.10), 1 month ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -39,8 +39,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Comment des feuilles mortes pe…”](https://mamot.fr/@arthurlutzim/107429609924981151) (today)
-- [arthurlutzim: “Suis en train de suivre le #mo…”](https://mamot.fr/@arthurlutzim/107407499701611189) (4 days ago)
+- [arthurlutzim: “Comment des feuilles mortes pe…”](https://mamot.fr/@arthurlutzim/107429609924981151) (1 day ago)
+- [arthurlutzim: “Suis en train de suivre le #mo…”](https://mamot.fr/@arthurlutzim/107407499701611189) (5 days ago)
 - [arthurlutzim: “https://isitbandcampfriday.com…”](https://mamot.fr/@arthurlutzim/107382154812812421) (1 week ago)
 - [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370981627439524) (1 week ago)
 - [arthurlutzim: “#teardown #démontage …”](https://mamot.fr/@arthurlutzim/107370968050575967) (1 week ago)
