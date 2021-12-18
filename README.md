@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Introducing Matrix highlights …”](https://mamot.fr/@arthurlutzim/107466450437728100) (today)
 - [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434863654881758) (6 days ago)
 - [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434843095816721) (6 days ago)
 - [arthurlutzim: “#teardown #démontage #shredder”](https://mamot.fr/@arthurlutzim/107434832102601156) (6 days ago)
 - [arthurlutzim: “#démontage #teardown #shredder”](https://mamot.fr/@arthurlutzim/107434798363866307) (6 days ago)
-- [arthurlutzim: “#teardown #démontage #shredder”](https://mamot.fr/@arthurlutzim/107434781643567297) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
