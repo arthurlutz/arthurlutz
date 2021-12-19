@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.11](https://github.com/libretro/ludo/releases/tag/v0.16.11), 4 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.11](https://github.com/libretro/ludo/releases/tag/v0.16.11), 5 days ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Introducing Matrix highlights …”](https://mamot.fr/@arthurlutzim/107466450437728100) (today)
-- [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434863654881758) (6 days ago)
-- [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434843095816721) (6 days ago)
-- [arthurlutzim: “#teardown #démontage #shredder”](https://mamot.fr/@arthurlutzim/107434832102601156) (6 days ago)
-- [arthurlutzim: “#démontage #teardown #shredder”](https://mamot.fr/@arthurlutzim/107434798363866307) (6 days ago)
+- [arthurlutzim: “Introducing Matrix highlights …”](https://mamot.fr/@arthurlutzim/107466450437728100) (1 day ago)
+- [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434863654881758) (1 week ago)
+- [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434843095816721) (1 week ago)
+- [arthurlutzim: “#teardown #démontage #shredder”](https://mamot.fr/@arthurlutzim/107434832102601156) (1 week ago)
+- [arthurlutzim: “#démontage #teardown #shredder”](https://mamot.fr/@arthurlutzim/107434798363866307) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
