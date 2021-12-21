@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.11](https://github.com/libretro/ludo/releases/tag/v0.16.11), 6 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.11](https://github.com/libretro/ludo/releases/tag/v0.16.11), 1 week ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Introducing Matrix highlights …”](https://mamot.fr/@arthurlutzim/107466450437728100) (2 days ago)
+- [arthurlutzim: “Introducing Matrix highlights …”](https://mamot.fr/@arthurlutzim/107466450437728100) (3 days ago)
 - [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434863654881758) (1 week ago)
 - [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434843095816721) (1 week ago)
 - [arthurlutzim: “#teardown #démontage #shredder”](https://mamot.fr/@arthurlutzim/107434832102601156) (1 week ago)
