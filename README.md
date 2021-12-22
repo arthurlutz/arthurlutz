@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (4 days ago)
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (5 days ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 month ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (6 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.19](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.19), 6 days ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.19](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.19), 1 week ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.11](https://github.com/libretro/ludo/releases/tag/v0.16.11), 1 week ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -41,8 +41,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “L&#39;ERREUR EST URBAINE &#34;Et la cr…”](https://mamot.fr/@arthurlutzim/107483929378580137) (today)
-- [arthurlutzim: “Introducing Matrix highlights …”](https://mamot.fr/@arthurlutzim/107466450437728100) (3 days ago)
+- [arthurlutzim: “L&#39;ERREUR EST URBAINE &#34;Et la cr…”](https://mamot.fr/@arthurlutzim/107483929378580137) (1 day ago)
+- [arthurlutzim: “Introducing Matrix highlights …”](https://mamot.fr/@arthurlutzim/107466450437728100) (4 days ago)
 - [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434863654881758) (1 week ago)
 - [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434843095816721) (1 week ago)
 - [arthurlutzim: “#teardown #démontage #shredder”](https://mamot.fr/@arthurlutzim/107434832102601156) (1 week ago)
