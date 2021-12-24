@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “🛠 Atelier métal... Pour répara…”](https://mamot.fr/@arthurlutzim/107503053015260027) (today)
+- [arthurlutzim: “🛠 Atelier métal”](https://mamot.fr/@arthurlutzim/107503021092477577) (today)
+- [arthurlutzim: “🛠 Atelier bois”](https://mamot.fr/@arthurlutzim/107503015164195141) (today)
+- [arthurlutzim: “🛠 Atelier bois: scie japonaise…”](https://mamot.fr/@arthurlutzim/107503002046600173) (today)
 - [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/107489690569594645) (2 days ago)
-- [arthurlutzim: “L&#39;ERREUR EST URBAINE &#34;Et la cr…”](https://mamot.fr/@arthurlutzim/107483929378580137) (3 days ago)
-- [arthurlutzim: “Introducing Matrix highlights …”](https://mamot.fr/@arthurlutzim/107466450437728100) (6 days ago)
-- [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434863654881758) (1 week ago)
-- [arthurlutzim: “#teardown #démontage #shredder…”](https://mamot.fr/@arthurlutzim/107434843095816721) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
