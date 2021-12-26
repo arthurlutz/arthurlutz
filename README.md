@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.21](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.21), 2 days ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.21](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.21), 3 days ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.11](https://github.com/libretro/ludo/releases/tag/v0.16.11), 1 week ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🛠 Atelier métal... Pour répara…”](https://mamot.fr/@arthurlutzim/107503053015260027) (1 day ago)
-- [arthurlutzim: “🛠 Atelier métal”](https://mamot.fr/@arthurlutzim/107503021092477577) (1 day ago)
-- [arthurlutzim: “🛠 Atelier bois”](https://mamot.fr/@arthurlutzim/107503015164195141) (1 day ago)
-- [arthurlutzim: “🛠 Atelier bois: scie japonaise…”](https://mamot.fr/@arthurlutzim/107503002046600173) (1 day ago)
-- [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/107489690569594645) (3 days ago)
+- [arthurlutzim: “🛠 Atelier métal... Pour répara…”](https://mamot.fr/@arthurlutzim/107503053015260027) (2 days ago)
+- [arthurlutzim: “🛠 Atelier métal”](https://mamot.fr/@arthurlutzim/107503021092477577) (2 days ago)
+- [arthurlutzim: “🛠 Atelier bois”](https://mamot.fr/@arthurlutzim/107503015164195141) (2 days ago)
+- [arthurlutzim: “🛠 Atelier bois: scie japonaise…”](https://mamot.fr/@arthurlutzim/107503002046600173) (2 days ago)
+- [arthurlutzim: CW “covid” (sensitive)](https://mamot.fr/@arthurlutzim/107489690569594645) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
