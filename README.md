@@ -14,7 +14,7 @@ Say Hello, I don't bite!
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (1 week ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 month ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
-- [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (6 months ago)
+- [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (7 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (8 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (8 months ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (10 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), today) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 1 day ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.11](https://github.com/libretro/ludo/releases/tag/v0.16.11), 2 weeks ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “https://pinouts.org/…”](https://mamot.fr/@arthurlutzim/107515734131632713) (2 days ago)
-- [arthurlutzim: CW “covid, enfants, pédiatrie, san…” (sensitive)](https://mamot.fr/@arthurlutzim/107515697691219241) (2 days ago)
-- [arthurlutzim: “#TeamVieux #nostalgie #autorad…”](https://mamot.fr/@arthurlutzim/107513706949028169) (2 days ago)
-- [arthurlutzim: “🛠 Atelier métal... Pour répara…”](https://mamot.fr/@arthurlutzim/107503053015260027) (4 days ago)
-- [arthurlutzim: “🛠 Atelier métal”](https://mamot.fr/@arthurlutzim/107503021092477577) (4 days ago)
+- [arthurlutzim: “https://pinouts.org/…”](https://mamot.fr/@arthurlutzim/107515734131632713) (3 days ago)
+- [arthurlutzim: CW “covid, enfants, pédiatrie, san…” (sensitive)](https://mamot.fr/@arthurlutzim/107515697691219241) (3 days ago)
+- [arthurlutzim: “#TeamVieux #nostalgie #autorad…”](https://mamot.fr/@arthurlutzim/107513706949028169) (3 days ago)
+- [arthurlutzim: “🛠 Atelier métal... Pour répara…”](https://mamot.fr/@arthurlutzim/107503053015260027) (5 days ago)
+- [arthurlutzim: “🛠 Atelier métal”](https://mamot.fr/@arthurlutzim/107503021092477577) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
