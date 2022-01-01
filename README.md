@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 3 days ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 4 days ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.11](https://github.com/libretro/ludo/releases/tag/v0.16.11), 2 weeks ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -41,9 +41,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “https://pinouts.org/…”](https://mamot.fr/@arthurlutzim/107515734131632713) (5 days ago)
-- [arthurlutzim: CW “covid, enfants, pédiatrie, san…” (sensitive)](https://mamot.fr/@arthurlutzim/107515697691219241) (5 days ago)
-- [arthurlutzim: “#TeamVieux #nostalgie #autorad…”](https://mamot.fr/@arthurlutzim/107513706949028169) (5 days ago)
+- [arthurlutzim: “https://pinouts.org/…”](https://mamot.fr/@arthurlutzim/107515734131632713) (6 days ago)
+- [arthurlutzim: CW “covid, enfants, pédiatrie, san…” (sensitive)](https://mamot.fr/@arthurlutzim/107515697691219241) (6 days ago)
+- [arthurlutzim: “#TeamVieux #nostalgie #autorad…”](https://mamot.fr/@arthurlutzim/107513706949028169) (6 days ago)
 - [arthurlutzim: “🛠 Atelier métal... Pour répara…”](https://mamot.fr/@arthurlutzim/107503053015260027) (1 week ago)
 - [arthurlutzim: “🛠 Atelier métal”](https://mamot.fr/@arthurlutzim/107503021092477577) (1 week ago)
 
