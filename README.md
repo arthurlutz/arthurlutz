@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “📻 🎧 Atelier des médias - «Méta…”](https://mamot.fr/@arthurlutzim/107553869157222804) (today)
 - [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553250174793733) (today)
 - [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553237658841713) (today)
 - [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553225548421305) (today)
 - [arthurlutzim: “📺 🤖  Trouvé dans le caniveau :…”](https://mamot.fr/@arthurlutzim/107553217604594119) (today)
-- [arthurlutzim: “💾  Démontage de disque dur USB…”](https://mamot.fr/@arthurlutzim/107553142351813080) (today)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
