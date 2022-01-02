@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “https://pinouts.org/…”](https://mamot.fr/@arthurlutzim/107515734131632713) (1 week ago)
-- [arthurlutzim: CW “covid, enfants, pédiatrie, san…” (sensitive)](https://mamot.fr/@arthurlutzim/107515697691219241) (1 week ago)
-- [arthurlutzim: “#TeamVieux #nostalgie #autorad…”](https://mamot.fr/@arthurlutzim/107513706949028169) (1 week ago)
-- [arthurlutzim: “🛠 Atelier métal... Pour répara…”](https://mamot.fr/@arthurlutzim/107503053015260027) (1 week ago)
-- [arthurlutzim: “🛠 Atelier métal”](https://mamot.fr/@arthurlutzim/107503021092477577) (1 week ago)
+- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553250174793733) (today)
+- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553237658841713) (today)
+- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553225548421305) (today)
+- [arthurlutzim: “📺 🤖  Trouvé dans le caniveau :…”](https://mamot.fr/@arthurlutzim/107553217604594119) (today)
+- [arthurlutzim: “💾  Démontage de disque dur USB…”](https://mamot.fr/@arthurlutzim/107553142351813080) (today)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
