@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “🍞 Réparation du grille pain Du…”](https://mamot.fr/@arthurlutzim/107559491447505571) (today)
+- [arthurlutzim: “🍞 Réparation du grille pain Du…”](https://mamot.fr/@arthurlutzim/107559471951127694) (today)
+- [arthurlutzim: “🍞 Réparation du jour : grille …”](https://mamot.fr/@arthurlutzim/107559461253597430) (today)
 - [arthurlutzim: “🎱  Pinball Coffee Table You Ca…”](https://mamot.fr/@arthurlutzim/107558882184794559) (today)
 - [arthurlutzim: “📻 🎧 Atelier des médias - «Méta…”](https://mamot.fr/@arthurlutzim/107553869157222804) (1 day ago)
-- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553250174793733) (1 day ago)
-- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553237658841713) (1 day ago)
-- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553225548421305) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
