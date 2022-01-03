@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (today)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (2 weeks ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (7 months ago)
@@ -28,8 +28,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), today) - A libretro frontend written in golang
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 5 days ago) - Crowdsec bouncer written in golang for firewalls
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 1 day ago) - A libretro frontend written in golang
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 6 days ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “📻 🎧 Atelier des médias - «Méta…”](https://mamot.fr/@arthurlutzim/107553869157222804) (today)
-- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553250174793733) (today)
-- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553237658841713) (today)
-- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553225548421305) (today)
-- [arthurlutzim: “📺 🤖  Trouvé dans le caniveau :…”](https://mamot.fr/@arthurlutzim/107553217604594119) (today)
+- [arthurlutzim: “📻 🎧 Atelier des médias - «Méta…”](https://mamot.fr/@arthurlutzim/107553869157222804) (1 day ago)
+- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553250174793733) (1 day ago)
+- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553237658841713) (1 day ago)
+- [arthurlutzim: “📺 🤖 &#34;X96 - Mini&#34;…”](https://mamot.fr/@arthurlutzim/107553225548421305) (1 day ago)
+- [arthurlutzim: “📺 🤖  Trouvé dans le caniveau :…”](https://mamot.fr/@arthurlutzim/107553217604594119) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
