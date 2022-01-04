@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (2 days ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (2 weeks ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (7 months ago)
@@ -28,8 +28,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 1 day ago) - A libretro frontend written in golang
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 6 days ago) - Crowdsec bouncer written in golang for firewalls
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 2 days ago) - A libretro frontend written in golang
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 1 week ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🍞 Réparation du grille pain Du…”](https://mamot.fr/@arthurlutzim/107559491447505571) (today)
-- [arthurlutzim: “🍞 Réparation du grille pain Du…”](https://mamot.fr/@arthurlutzim/107559471951127694) (today)
-- [arthurlutzim: “🍞 Réparation du jour : grille …”](https://mamot.fr/@arthurlutzim/107559461253597430) (today)
-- [arthurlutzim: “🎱  Pinball Coffee Table You Ca…”](https://mamot.fr/@arthurlutzim/107558882184794559) (today)
-- [arthurlutzim: “📻 🎧 Atelier des médias - «Méta…”](https://mamot.fr/@arthurlutzim/107553869157222804) (1 day ago)
+- [arthurlutzim: “🍞 Réparation du grille pain Du…”](https://mamot.fr/@arthurlutzim/107559491447505571) (1 day ago)
+- [arthurlutzim: “🍞 Réparation du grille pain Du…”](https://mamot.fr/@arthurlutzim/107559471951127694) (1 day ago)
+- [arthurlutzim: “🍞 Réparation du jour : grille …”](https://mamot.fr/@arthurlutzim/107559461253597430) (1 day ago)
+- [arthurlutzim: “🎱  Pinball Coffee Table You Ca…”](https://mamot.fr/@arthurlutzim/107558882184794559) (1 day ago)
+- [arthurlutzim: “📻 🎧 Atelier des médias - «Méta…”](https://mamot.fr/@arthurlutzim/107553869157222804) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
