@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 days ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 days ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (2 weeks ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (7 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 3 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 4 days ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 1 week ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#flipper #pinball …”](https://mamot.fr/@arthurlutzim/107569339987689785) (today)
-- [arthurlutzim: “🚪 Petite réparation du jour: p…”](https://mamot.fr/@arthurlutzim/107564664159379593) (1 day ago)
-- [arthurlutzim: “Visionnage du live peertube de…”](https://mamot.fr/@arthurlutzim/107564305827643838) (1 day ago)
-- [arthurlutzim: “🍞 Réparation du grille pain Du…”](https://mamot.fr/@arthurlutzim/107559491447505571) (2 days ago)
-- [arthurlutzim: “🍞 Réparation du grille pain Du…”](https://mamot.fr/@arthurlutzim/107559471951127694) (2 days ago)
+- [arthurlutzim: “#flipper #pinball …”](https://mamot.fr/@arthurlutzim/107569339987689785) (1 day ago)
+- [arthurlutzim: “🚪 Petite réparation du jour: p…”](https://mamot.fr/@arthurlutzim/107564664159379593) (2 days ago)
+- [arthurlutzim: “Visionnage du live peertube de…”](https://mamot.fr/@arthurlutzim/107564305827643838) (2 days ago)
+- [arthurlutzim: “🍞 Réparation du grille pain Du…”](https://mamot.fr/@arthurlutzim/107559491447505571) (3 days ago)
+- [arthurlutzim: “🍞 Réparation du grille pain Du…”](https://mamot.fr/@arthurlutzim/107559471951127694) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
