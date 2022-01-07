@@ -11,11 +11,11 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 days ago)
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (2 weeks ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (5 days ago)
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (3 weeks ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (7 months ago)
-- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (8 months ago)
+- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (9 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (9 months ago)
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror) (11 months ago)
 
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 4 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 5 days ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 1 week ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “📻🎧 &#34;Je n&#39;arrivais pas à faire …”](https://mamot.fr/@arthurlutzim/107575398699462899) (today)
-- [arthurlutzim: “#rangement #chargeurs #reuse”](https://mamot.fr/@arthurlutzim/107574977530041671) (today)
-- [arthurlutzim: “#teamvieux #rangement #palm #h…”](https://mamot.fr/@arthurlutzim/107574919298615003) (today)
-- [arthurlutzim: “#flipper #pinball …”](https://mamot.fr/@arthurlutzim/107569339987689785) (1 day ago)
-- [arthurlutzim: “🚪 Petite réparation du jour: p…”](https://mamot.fr/@arthurlutzim/107564664159379593) (2 days ago)
+- [arthurlutzim: “📻🎧 &#34;Je n&#39;arrivais pas à faire …”](https://mamot.fr/@arthurlutzim/107575398699462899) (1 day ago)
+- [arthurlutzim: “#rangement #chargeurs #reuse”](https://mamot.fr/@arthurlutzim/107574977530041671) (1 day ago)
+- [arthurlutzim: “#teamvieux #rangement #palm #h…”](https://mamot.fr/@arthurlutzim/107574919298615003) (1 day ago)
+- [arthurlutzim: “#flipper #pinball …”](https://mamot.fr/@arthurlutzim/107569339987689785) (2 days ago)
+- [arthurlutzim: “🚪 Petite réparation du jour: p…”](https://mamot.fr/@arthurlutzim/107564664159379593) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
