@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (5 days ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (6 days ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (3 weeks ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (7 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 5 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 6 days ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 1 week ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🩸 hop, don de sang fait ce mat…”](https://mamot.fr/@arthurlutzim/107581569052428820) (today)
-- [arthurlutzim: “📻🎧 &#34;Je n&#39;arrivais pas à faire …”](https://mamot.fr/@arthurlutzim/107575398699462899) (1 day ago)
-- [arthurlutzim: “#rangement #chargeurs #reuse”](https://mamot.fr/@arthurlutzim/107574977530041671) (1 day ago)
-- [arthurlutzim: “#teamvieux #rangement #palm #h…”](https://mamot.fr/@arthurlutzim/107574919298615003) (1 day ago)
-- [arthurlutzim: “#flipper #pinball …”](https://mamot.fr/@arthurlutzim/107569339987689785) (2 days ago)
+- [arthurlutzim: “🩸 hop, don de sang fait ce mat…”](https://mamot.fr/@arthurlutzim/107581569052428820) (1 day ago)
+- [arthurlutzim: “📻🎧 &#34;Je n&#39;arrivais pas à faire …”](https://mamot.fr/@arthurlutzim/107575398699462899) (2 days ago)
+- [arthurlutzim: “#rangement #chargeurs #reuse”](https://mamot.fr/@arthurlutzim/107574977530041671) (2 days ago)
+- [arthurlutzim: “#teamvieux #rangement #palm #h…”](https://mamot.fr/@arthurlutzim/107574919298615003) (2 days ago)
+- [arthurlutzim: “#flipper #pinball …”](https://mamot.fr/@arthurlutzim/107569339987689785) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
