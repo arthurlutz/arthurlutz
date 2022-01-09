@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Projet pas fini du jour : tent…”](https://mamot.fr/@arthurlutzim/107593195199702055) (today)
 - [arthurlutzim: “🩸 hop, don de sang fait ce mat…”](https://mamot.fr/@arthurlutzim/107581569052428820) (2 days ago)
 - [arthurlutzim: “📻🎧 &#34;Je n&#39;arrivais pas à faire …”](https://mamot.fr/@arthurlutzim/107575398699462899) (3 days ago)
 - [arthurlutzim: “#rangement #chargeurs #reuse”](https://mamot.fr/@arthurlutzim/107574977530041671) (3 days ago)
 - [arthurlutzim: “#teamvieux #rangement #palm #h…”](https://mamot.fr/@arthurlutzim/107574919298615003) (3 days ago)
-- [arthurlutzim: “#flipper #pinball …”](https://mamot.fr/@arthurlutzim/107569339987689785) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
