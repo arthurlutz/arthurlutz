@@ -42,10 +42,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “9) je continue à faire des mod…”](https://mamot.fr/@arthurlutzim/107605231961496407) (today)
 - [arthurlutzim: “8) et j&#39;imprime au fur et à me…”](https://mamot.fr/@arthurlutzim/107604406842980721) (today)
 - [arthurlutzim: “7) essayons avec tinkercad htt…”](https://mamot.fr/@arthurlutzim/107604402349378760) (today)
 - [arthurlutzim: “6) mais oui, je vais faire ça …”](https://mamot.fr/@arthurlutzim/107604397446878926) (today)
 - [arthurlutzim: “5) chouette, il y a un modèle …”](https://mamot.fr/@arthurlutzim/107604392722796594) (today)
-- [arthurlutzim: “4) j&#39;essaye d&#39;adapter &#34;Pinball…”](https://mamot.fr/@arthurlutzim/107604388725150210) (today)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
