@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (1 day ago)
+- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (2 days ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 week ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (3 weeks ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (4 months ago)
@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 1 week ago) - A libretro frontend written in golang
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 1 week ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 2 weeks ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
@@ -42,10 +42,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Coté MagicMirror² voici les pl…”](https://mamot.fr/@arthurlutzim/107595150579388391) (1 day ago)
-- [arthurlutzim: “👷 Projet à moitié fini du jour…”](https://mamot.fr/@arthurlutzim/107595129438017506) (1 day ago)
-- [arthurlutzim: “Projet pas fini du jour : tent…”](https://mamot.fr/@arthurlutzim/107593195199702055) (1 day ago)
-- [arthurlutzim: “🩸 hop, don de sang fait ce mat…”](https://mamot.fr/@arthurlutzim/107581569052428820) (3 days ago)
-- [arthurlutzim: “📻🎧 &#34;Je n&#39;arrivais pas à faire …”](https://mamot.fr/@arthurlutzim/107575398699462899) (4 days ago)
+- [arthurlutzim: “Coté MagicMirror² voici les pl…”](https://mamot.fr/@arthurlutzim/107595150579388391) (2 days ago)
+- [arthurlutzim: “👷 Projet à moitié fini du jour…”](https://mamot.fr/@arthurlutzim/107595129438017506) (2 days ago)
+- [arthurlutzim: “Projet pas fini du jour : tent…”](https://mamot.fr/@arthurlutzim/107593195199702055) (2 days ago)
+- [arthurlutzim: “🩸 hop, don de sang fait ce mat…”](https://mamot.fr/@arthurlutzim/107581569052428820) (4 days ago)
+- [arthurlutzim: “📻🎧 &#34;Je n&#39;arrivais pas à faire …”](https://mamot.fr/@arthurlutzim/107575398699462899) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
