@@ -11,9 +11,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (6 days ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 week ago)
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (4 weeks ago)
+- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (1 week ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (2 weeks ago)
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (1 month ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (5 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (7 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (9 months ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 1 week ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 2 weeks ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 2 weeks ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
@@ -42,10 +42,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Trouvez l&#39;intrus...…”](https://mamot.fr/@arthurlutzim/107627344871542665) (today)
-- [arthurlutzim: “Ho! &#34;It boots!&#34; (ça démarre)…”](https://mamot.fr/@arthurlutzim/107627335119277675) (today)
-- [arthurlutzim: “emSim Animated Schematic Diagr…”](https://mamot.fr/@arthurlutzim/107626676010030749) (today)
-- [arthurlutzim: “Bidouille du jour : début d&#39;ad…”](https://mamot.fr/@arthurlutzim/107621776869033792) (1 day ago)
-- [arthurlutzim: “#rangement #retrocomputing”](https://mamot.fr/@arthurlutzim/107620471442622560) (1 day ago)
+- [arthurlutzim: “Trouvez l&#39;intrus...…”](https://mamot.fr/@arthurlutzim/107627344871542665) (1 day ago)
+- [arthurlutzim: “Ho! &#34;It boots!&#34; (ça démarre)…”](https://mamot.fr/@arthurlutzim/107627335119277675) (1 day ago)
+- [arthurlutzim: “emSim Animated Schematic Diagr…”](https://mamot.fr/@arthurlutzim/107626676010030749) (1 day ago)
+- [arthurlutzim: “Bidouille du jour : début d&#39;ad…”](https://mamot.fr/@arthurlutzim/107621776869033792) (2 days ago)
+- [arthurlutzim: “#rangement #retrocomputing”](https://mamot.fr/@arthurlutzim/107620471442622560) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
