@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 2 weeks ago) - A libretro frontend written in golang
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 2 weeks ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 3 weeks ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
@@ -42,10 +42,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Trouvez l&#39;intrus...…”](https://mamot.fr/@arthurlutzim/107627344871542665) (2 days ago)
-- [arthurlutzim: “Ho! &#34;It boots!&#34; (ça démarre)…”](https://mamot.fr/@arthurlutzim/107627335119277675) (2 days ago)
-- [arthurlutzim: “emSim Animated Schematic Diagr…”](https://mamot.fr/@arthurlutzim/107626676010030749) (2 days ago)
-- [arthurlutzim: “Bidouille du jour : début d&#39;ad…”](https://mamot.fr/@arthurlutzim/107621776869033792) (3 days ago)
-- [arthurlutzim: “#rangement #retrocomputing”](https://mamot.fr/@arthurlutzim/107620471442622560) (3 days ago)
+- [arthurlutzim: “Trouvez l&#39;intrus...…”](https://mamot.fr/@arthurlutzim/107627344871542665) (3 days ago)
+- [arthurlutzim: “Ho! &#34;It boots!&#34; (ça démarre)…”](https://mamot.fr/@arthurlutzim/107627335119277675) (3 days ago)
+- [arthurlutzim: “emSim Animated Schematic Diagr…”](https://mamot.fr/@arthurlutzim/107626676010030749) (3 days ago)
+- [arthurlutzim: “Bidouille du jour : début d&#39;ad…”](https://mamot.fr/@arthurlutzim/107621776869033792) (4 days ago)
+- [arthurlutzim: “#rangement #retrocomputing”](https://mamot.fr/@arthurlutzim/107620471442622560) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
