@@ -11,8 +11,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (1 week ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (2 weeks ago)
+- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (2 weeks ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 weeks ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (1 month ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (5 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (7 months ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 2 weeks ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 3 weeks ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 3 weeks ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
@@ -42,10 +42,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “À midi, nous nous sommes régal…”](https://mamot.fr/@arthurlutzim/107654232560993865) (2 days ago)
-- [arthurlutzim: “Au menu, des choses accessible…”](https://mamot.fr/@arthurlutzim/107654220902484917) (2 days ago)
-- [arthurlutzim: “Hier, chouette journée en comp…”](https://mamot.fr/@arthurlutzim/107654183020015466) (2 days ago)
-- [arthurlutzim: “#Nantes  …”](https://mamot.fr/@arthurlutzim/107650811563164114) (3 days ago)
-- [arthurlutzim: “Doucement mais sûrement, le pr…”](https://mamot.fr/@arthurlutzim/107644185691849651) (4 days ago)
+- [arthurlutzim: “À midi, nous nous sommes régal…”](https://mamot.fr/@arthurlutzim/107654232560993865) (3 days ago)
+- [arthurlutzim: “Au menu, des choses accessible…”](https://mamot.fr/@arthurlutzim/107654220902484917) (3 days ago)
+- [arthurlutzim: “Hier, chouette journée en comp…”](https://mamot.fr/@arthurlutzim/107654183020015466) (3 days ago)
+- [arthurlutzim: “#Nantes  …”](https://mamot.fr/@arthurlutzim/107650811563164114) (4 days ago)
+- [arthurlutzim: “Doucement mais sûrement, le pr…”](https://mamot.fr/@arthurlutzim/107644185691849651) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
