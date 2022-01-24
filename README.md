@@ -42,10 +42,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Un cinéma multiplex dans les b…”](https://mamot.fr/@arthurlutzim/107676594912382409) (today)
+- [arthurlutzim: “Alors faut-il se mettre au FLA…”](https://mamot.fr/@arthurlutzim/107676497885482483) (today)
+- [arthurlutzim: “Audition : les dégâts du son c…”](https://mamot.fr/@arthurlutzim/107676487686726501) (today)
 - [arthurlutzim: “À midi, nous nous sommes régal…”](https://mamot.fr/@arthurlutzim/107654232560993865) (4 days ago)
 - [arthurlutzim: “Au menu, des choses accessible…”](https://mamot.fr/@arthurlutzim/107654220902484917) (4 days ago)
-- [arthurlutzim: “Hier, chouette journée en comp…”](https://mamot.fr/@arthurlutzim/107654183020015466) (4 days ago)
-- [arthurlutzim: “#Nantes  …”](https://mamot.fr/@arthurlutzim/107650811563164114) (5 days ago)
-- [arthurlutzim: “Doucement mais sûrement, le pr…”](https://mamot.fr/@arthurlutzim/107644185691849651) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
