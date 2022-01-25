@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 3 weeks ago) - A libretro frontend written in golang
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 3 weeks ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 4 weeks ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
@@ -42,10 +42,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Un cinéma multiplex dans les b…”](https://mamot.fr/@arthurlutzim/107676594912382409) (today)
-- [arthurlutzim: “Alors faut-il se mettre au FLA…”](https://mamot.fr/@arthurlutzim/107676497885482483) (today)
-- [arthurlutzim: “Audition : les dégâts du son c…”](https://mamot.fr/@arthurlutzim/107676487686726501) (today)
-- [arthurlutzim: “À midi, nous nous sommes régal…”](https://mamot.fr/@arthurlutzim/107654232560993865) (4 days ago)
-- [arthurlutzim: “Au menu, des choses accessible…”](https://mamot.fr/@arthurlutzim/107654220902484917) (4 days ago)
+- [arthurlutzim: “Un cinéma multiplex dans les b…”](https://mamot.fr/@arthurlutzim/107676594912382409) (1 day ago)
+- [arthurlutzim: “Alors faut-il se mettre au FLA…”](https://mamot.fr/@arthurlutzim/107676497885482483) (1 day ago)
+- [arthurlutzim: “Audition : les dégâts du son c…”](https://mamot.fr/@arthurlutzim/107676487686726501) (1 day ago)
+- [arthurlutzim: “À midi, nous nous sommes régal…”](https://mamot.fr/@arthurlutzim/107654232560993865) (5 days ago)
+- [arthurlutzim: “Au menu, des choses accessible…”](https://mamot.fr/@arthurlutzim/107654220902484917) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
