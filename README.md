@@ -12,7 +12,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (3 weeks ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 weeks ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 month ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (1 month ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (5 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (8 months ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 4 weeks ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 1 month ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 1 month ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
@@ -42,10 +42,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🎵  Excellentes vidéos pédagogi…”](https://mamot.fr/@arthurlutzim/107711966782404602) (1 day ago)
-- [arthurlutzim: “Rangement... Junk ? Projets ? …”](https://mamot.fr/@arthurlutzim/107707186780894381) (2 days ago)
-- [arthurlutzim: “Après quelques itérations, j&#39;a…”](https://mamot.fr/@arthurlutzim/107701203606209213) (3 days ago)
-- [arthurlutzim: “#pinball #arcade #tinkercad #p…”](https://mamot.fr/@arthurlutzim/107699291061393161) (3 days ago)
-- [arthurlutzim: “Grâce à la recommandation de @…”](https://mamot.fr/@arthurlutzim/107698743542730991) (3 days ago)
+- [arthurlutzim: “🎵  Excellentes vidéos pédagogi…”](https://mamot.fr/@arthurlutzim/107711966782404602) (2 days ago)
+- [arthurlutzim: “Rangement... Junk ? Projets ? …”](https://mamot.fr/@arthurlutzim/107707186780894381) (3 days ago)
+- [arthurlutzim: “Après quelques itérations, j&#39;a…”](https://mamot.fr/@arthurlutzim/107701203606209213) (4 days ago)
+- [arthurlutzim: “#pinball #arcade #tinkercad #p…”](https://mamot.fr/@arthurlutzim/107699291061393161) (4 days ago)
+- [arthurlutzim: “Grâce à la recommandation de @…”](https://mamot.fr/@arthurlutzim/107698743542730991) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
