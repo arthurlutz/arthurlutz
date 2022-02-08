@@ -11,8 +11,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (6 days ago)
-- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (4 weeks ago)
+- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (1 week ago)
+- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (1 month ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 month ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (1 month ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (5 months ago)
@@ -43,9 +43,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “💿  https://abrahaminc.bandcamp…”](https://mamot.fr/@arthurlutzim/107740189533717803) (3 days ago)
-- [arthurlutzim: “🎼 🎵 🎧 https://isitbandcampfrid…”](https://mamot.fr/@arthurlutzim/107740177254067994) (3 days ago)
-- [arthurlutzim: “Ça y est, je me suis désabonné…”](https://mamot.fr/@arthurlutzim/107733862129714811) (4 days ago)
+- [arthurlutzim: “💿  https://abrahaminc.bandcamp…”](https://mamot.fr/@arthurlutzim/107740189533717803) (4 days ago)
+- [arthurlutzim: “🎼 🎵 🎧 https://isitbandcampfrid…”](https://mamot.fr/@arthurlutzim/107740177254067994) (4 days ago)
+- [arthurlutzim: “Ça y est, je me suis désabonné…”](https://mamot.fr/@arthurlutzim/107733862129714811) (5 days ago)
 - [arthurlutzim: “🎵  Excellentes vidéos pédagogi…”](https://mamot.fr/@arthurlutzim/107711966782404602) (1 week ago)
 - [arthurlutzim: “Rangement... Junk ? Projets ? …”](https://mamot.fr/@arthurlutzim/107707186780894381) (1 week ago)
 
