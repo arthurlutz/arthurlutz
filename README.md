@@ -30,8 +30,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc0](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc0), today) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 1 month ago) - A libretro frontend written in golang
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.22](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.22), 1 month ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
