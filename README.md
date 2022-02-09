@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc0](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc0), today) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc0](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc0), 1 day ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 1 month ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -43,9 +43,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “💿  https://abrahaminc.bandcamp…”](https://mamot.fr/@arthurlutzim/107740189533717803) (4 days ago)
-- [arthurlutzim: “🎼 🎵 🎧 https://isitbandcampfrid…”](https://mamot.fr/@arthurlutzim/107740177254067994) (4 days ago)
-- [arthurlutzim: “Ça y est, je me suis désabonné…”](https://mamot.fr/@arthurlutzim/107733862129714811) (5 days ago)
+- [arthurlutzim: “💿  https://abrahaminc.bandcamp…”](https://mamot.fr/@arthurlutzim/107740189533717803) (5 days ago)
+- [arthurlutzim: “🎼 🎵 🎧 https://isitbandcampfrid…”](https://mamot.fr/@arthurlutzim/107740177254067994) (5 days ago)
+- [arthurlutzim: “Ça y est, je me suis désabonné…”](https://mamot.fr/@arthurlutzim/107733862129714811) (6 days ago)
 - [arthurlutzim: “🎵  Excellentes vidéos pédagogi…”](https://mamot.fr/@arthurlutzim/107711966782404602) (1 week ago)
 - [arthurlutzim: “Rangement... Junk ? Projets ? …”](https://mamot.fr/@arthurlutzim/107707186780894381) (1 week ago)
 
