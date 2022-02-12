@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (1 month ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 month ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (1 month ago)
-- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (5 months ago)
+- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (6 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (8 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (10 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (10 months ago)
@@ -30,12 +30,12 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc0](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc0), 3 days ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc0](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc0), 4 days ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 1 month ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
-- [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (5 months ago)
+- [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (6 months ago)
 - [Suite réparations Flipper Gottlieb Four Seasons](https://arthur.lutz.im/blog/2021/07/19/suite-reparations-flipper-gottlieb-four-seasons/) (6 months ago)
 - [Inktober 2020](https://arthur.lutz.im/blog/2020/11/09/inktober-2020/) (1 year ago)
 - [Expérimentations et usages autour du financement participatif](https://arthur.lutz.im/blog/2020/09/21/experimentations-et-usages-autour-du-financement-participatif/) (1 year ago)
@@ -43,8 +43,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Rangement de mon stock de câbl…”](https://mamot.fr/@arthurlutzim/107780319223082621) (today)
-- [arthurlutzim: “https://www.stations-services.…”](https://mamot.fr/@arthurlutzim/107768767873626206) (2 days ago)
+- [arthurlutzim: “Rangement de mon stock de câbl…”](https://mamot.fr/@arthurlutzim/107780319223082621) (1 day ago)
+- [arthurlutzim: “https://www.stations-services.…”](https://mamot.fr/@arthurlutzim/107768767873626206) (3 days ago)
 - [arthurlutzim: “💿  https://abrahaminc.bandcamp…”](https://mamot.fr/@arthurlutzim/107740189533717803) (1 week ago)
 - [arthurlutzim: “🎼 🎵 🎧 https://isitbandcampfrid…”](https://mamot.fr/@arthurlutzim/107740177254067994) (1 week ago)
 - [arthurlutzim: “Ça y est, je me suis désabonné…”](https://mamot.fr/@arthurlutzim/107733862129714811) (1 week ago)
