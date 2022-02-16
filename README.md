@@ -42,8 +42,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Rangement de mon stock de câbl…”](https://mamot.fr/@arthurlutzim/107780319223082621) (4 days ago)
-- [arthurlutzim: “https://www.stations-services.…”](https://mamot.fr/@arthurlutzim/107768767873626206) (6 days ago)
+- [arthurlutzim: “Rangement de mon stock de câbl…”](https://mamot.fr/@arthurlutzim/107780319223082621) (5 days ago)
+- [arthurlutzim: “https://www.stations-services.…”](https://mamot.fr/@arthurlutzim/107768767873626206) (1 week ago)
 - [arthurlutzim: “💿  https://abrahaminc.bandcamp…”](https://mamot.fr/@arthurlutzim/107740189533717803) (1 week ago)
 - [arthurlutzim: “🎼 🎵 🎧 https://isitbandcampfrid…”](https://mamot.fr/@arthurlutzim/107740177254067994) (1 week ago)
 - [arthurlutzim: “Ça y est, je me suis désabonné…”](https://mamot.fr/@arthurlutzim/107733862129714811) (1 week ago)
