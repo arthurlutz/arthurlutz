@@ -43,10 +43,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: CW “génocide, impérialisme, coloni…” (sensitive)](https://mamot.fr/@arthurlutzim/107835436732998501) (today)
 - [arthurlutzim: “Rangement de mon stock de câbl…”](https://mamot.fr/@arthurlutzim/107780319223082621) (1 week ago)
 - [arthurlutzim: “https://www.stations-services.…”](https://mamot.fr/@arthurlutzim/107768767873626206) (1 week ago)
 - [arthurlutzim: “💿  https://abrahaminc.bandcamp…”](https://mamot.fr/@arthurlutzim/107740189533717803) (2 weeks ago)
 - [arthurlutzim: “🎼 🎵 🎧 https://isitbandcampfrid…”](https://mamot.fr/@arthurlutzim/107740177254067994) (2 weeks ago)
-- [arthurlutzim: “Ça y est, je me suis désabonné…”](https://mamot.fr/@arthurlutzim/107733862129714811) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
