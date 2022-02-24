@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (5 days ago)
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (6 days ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (3 weeks ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (1 month ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 month ago)
@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc3), 1 day ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc3), 2 days ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 1 month ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -43,7 +43,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: CW “génocide, impérialisme, coloni…” (sensitive)](https://mamot.fr/@arthurlutzim/107835436732998501) (2 days ago)
+- [arthurlutzim: CW “génocide, impérialisme, coloni…” (sensitive)](https://mamot.fr/@arthurlutzim/107835436732998501) (3 days ago)
 - [arthurlutzim: “Rangement de mon stock de câbl…”](https://mamot.fr/@arthurlutzim/107780319223082621) (1 week ago)
 - [arthurlutzim: “https://www.stations-services.…”](https://mamot.fr/@arthurlutzim/107768767873626206) (2 weeks ago)
 - [arthurlutzim: “💿  https://abrahaminc.bandcamp…”](https://mamot.fr/@arthurlutzim/107740189533717803) (2 weeks ago)
