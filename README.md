@@ -30,23 +30,23 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc3), 5 days ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc3), 6 days ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 1 month ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
-- [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (today)
-- [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (today)
-- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (3 days ago)
+- [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (1 day ago)
+- [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (1 day ago)
+- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (4 days ago)
 - [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (6 months ago)
 - [Suite réparations Flipper Gottlieb Four Seasons](https://arthur.lutz.im/blog/2021/07/19/suite-reparations-flipper-gottlieb-four-seasons/) (7 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “[blog]  PinCab à partir d’un G…”](https://mamot.fr/@arthurlutzim/107869929346158413) (today)
-- [arthurlutzim: “[blog] Stage construction d’un…”](https://mamot.fr/@arthurlutzim/107869320795214777) (today)
-- [arthurlutzim: “[blog] Travail du bois – chant…”](https://mamot.fr/@arthurlutzim/107852317297674558) (3 days ago)
-- [arthurlutzim: CW “génocide, impérialisme, coloni…” (sensitive)](https://mamot.fr/@arthurlutzim/107835436732998501) (6 days ago)
+- [arthurlutzim: “[blog]  PinCab à partir d’un G…”](https://mamot.fr/@arthurlutzim/107869929346158413) (1 day ago)
+- [arthurlutzim: “[blog] Stage construction d’un…”](https://mamot.fr/@arthurlutzim/107869320795214777) (1 day ago)
+- [arthurlutzim: “[blog] Travail du bois – chant…”](https://mamot.fr/@arthurlutzim/107852317297674558) (4 days ago)
+- [arthurlutzim: CW “génocide, impérialisme, coloni…” (sensitive)](https://mamot.fr/@arthurlutzim/107835436732998501) (1 week ago)
 - [arthurlutzim: “Rangement de mon stock de câbl…”](https://mamot.fr/@arthurlutzim/107780319223082621) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
