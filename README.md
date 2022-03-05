@@ -35,18 +35,18 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (4 days ago)
-- [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (5 days ago)
-- [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (5 days ago)
+- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (5 days ago)
+- [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (6 days ago)
+- [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (6 days ago)
 - [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (1 week ago)
 - [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (6 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Tools for Communicating Offlin…”](https://mamot.fr/@arthurlutzim/107894097098357185) (1 day ago)
-- [arthurlutzim: “[blog] 🎹 🚦☊📺 Explorations clav…”](https://mamot.fr/@arthurlutzim/107876184854427556) (4 days ago)
-- [arthurlutzim: “[blog]  PinCab à partir d’un G…”](https://mamot.fr/@arthurlutzim/107869929346158413) (5 days ago)
-- [arthurlutzim: “[blog] Stage construction d’un…”](https://mamot.fr/@arthurlutzim/107869320795214777) (5 days ago)
+- [arthurlutzim: “Tools for Communicating Offlin…”](https://mamot.fr/@arthurlutzim/107894097098357185) (2 days ago)
+- [arthurlutzim: “[blog] 🎹 🚦☊📺 Explorations clav…”](https://mamot.fr/@arthurlutzim/107876184854427556) (5 days ago)
+- [arthurlutzim: “[blog]  PinCab à partir d’un G…”](https://mamot.fr/@arthurlutzim/107869929346158413) (6 days ago)
+- [arthurlutzim: “[blog] Stage construction d’un…”](https://mamot.fr/@arthurlutzim/107869320795214777) (6 days ago)
 - [arthurlutzim: “[blog] Travail du bois – chant…”](https://mamot.fr/@arthurlutzim/107852317297674558) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
