@@ -18,7 +18,7 @@ Say Hello, I don't bite!
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (2 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (6 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (9 months ago)
-- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (10 months ago)
+- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (11 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (11 months ago)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc3), 1 week ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc3), 2 weeks ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.12](https://github.com/libretro/ludo/releases/tag/v0.16.12), 2 months ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -43,7 +43,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Tools for Communicating Offlin…”](https://mamot.fr/@arthurlutzim/107894097098357185) (4 days ago)
+- [arthurlutzim: “Tools for Communicating Offlin…”](https://mamot.fr/@arthurlutzim/107894097098357185) (5 days ago)
 - [arthurlutzim: “[blog] 🎹 🚦☊📺 Explorations clav…”](https://mamot.fr/@arthurlutzim/107876184854427556) (1 week ago)
 - [arthurlutzim: “[blog]  PinCab à partir d’un G…”](https://mamot.fr/@arthurlutzim/107869929346158413) (1 week ago)
 - [arthurlutzim: “[blog] Stage construction d’un…”](https://mamot.fr/@arthurlutzim/107869320795214777) (1 week ago)
