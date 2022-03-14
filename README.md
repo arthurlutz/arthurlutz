@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (2 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (2 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (2 months ago)
-- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (6 months ago)
+- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (7 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (9 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (11 months ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (11 months ago)
@@ -30,22 +30,22 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), today) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 1 day ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23-rc3), 2 weeks ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
-- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (1 week ago)
+- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (2 weeks ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (2 weeks ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (2 weeks ago)
 - [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (2 weeks ago)
-- [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (6 months ago)
+- [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (7 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#LookUp”](https://mamot.fr/@arthurlutzim/107944628591893714) (1 day ago)
+- [arthurlutzim: “#LookUp”](https://mamot.fr/@arthurlutzim/107944628591893714) (2 days ago)
 - [arthurlutzim: “Tools for Communicating Offlin…”](https://mamot.fr/@arthurlutzim/107894097098357185) (1 week ago)
-- [arthurlutzim: “[blog] 🎹 🚦☊📺 Explorations clav…”](https://mamot.fr/@arthurlutzim/107876184854427556) (1 week ago)
+- [arthurlutzim: “[blog] 🎹 🚦☊📺 Explorations clav…”](https://mamot.fr/@arthurlutzim/107876184854427556) (2 weeks ago)
 - [arthurlutzim: “[blog]  PinCab à partir d’un G…”](https://mamot.fr/@arthurlutzim/107869929346158413) (2 weeks ago)
 - [arthurlutzim: “[blog] Stage construction d’un…”](https://mamot.fr/@arthurlutzim/107869320795214777) (2 weeks ago)
 
