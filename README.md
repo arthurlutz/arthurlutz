@@ -35,7 +35,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (4 weeks ago)
+- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (1 month ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (1 month ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (1 month ago)
 - [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (1 month ago)
@@ -43,7 +43,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “The Ethics of Looking And The …”](https://mamot.fr/@arthurlutzim/108034151626355871) (1 day ago)
+- [arthurlutzim: “The Ethics of Looking And The …”](https://mamot.fr/@arthurlutzim/108034151626355871) (2 days ago)
 - [arthurlutzim: “#hackmonday …”](https://mamot.fr/@arthurlutzim/107955732602100158) (2 weeks ago)
 - [arthurlutzim: “#hackmonday…”](https://mamot.fr/@arthurlutzim/107955656001096054) (2 weeks ago)
 - [arthurlutzim: “#LookUp”](https://mamot.fr/@arthurlutzim/107944628591893714) (2 weeks ago)
