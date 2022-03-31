@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23), 1 week ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23), 2 weeks ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 2 weeks ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -43,10 +43,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “The Ethics of Looking And The …”](https://mamot.fr/@arthurlutzim/108034151626355871) (2 days ago)
+- [arthurlutzim: “The Ethics of Looking And The …”](https://mamot.fr/@arthurlutzim/108034151626355871) (3 days ago)
 - [arthurlutzim: “#hackmonday …”](https://mamot.fr/@arthurlutzim/107955732602100158) (2 weeks ago)
 - [arthurlutzim: “#hackmonday…”](https://mamot.fr/@arthurlutzim/107955656001096054) (2 weeks ago)
 - [arthurlutzim: “#LookUp”](https://mamot.fr/@arthurlutzim/107944628591893714) (2 weeks ago)
-- [arthurlutzim: “Tools for Communicating Offlin…”](https://mamot.fr/@arthurlutzim/107894097098357185) (3 weeks ago)
+- [arthurlutzim: “Tools for Communicating Offlin…”](https://mamot.fr/@arthurlutzim/107894097098357185) (4 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
