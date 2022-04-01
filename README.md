@@ -43,7 +43,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “The Ethics of Looking And The …”](https://mamot.fr/@arthurlutzim/108034151626355871) (3 days ago)
+- [arthurlutzim: “The Ethics of Looking And The …”](https://mamot.fr/@arthurlutzim/108034151626355871) (4 days ago)
 - [arthurlutzim: “#hackmonday …”](https://mamot.fr/@arthurlutzim/107955732602100158) (2 weeks ago)
 - [arthurlutzim: “#hackmonday…”](https://mamot.fr/@arthurlutzim/107955656001096054) (2 weeks ago)
 - [arthurlutzim: “#LookUp”](https://mamot.fr/@arthurlutzim/107944628591893714) (2 weeks ago)
