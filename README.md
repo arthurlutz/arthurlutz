@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23), 2 weeks ago) - Crowdsec bouncer written in golang for firewalls
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 2 weeks ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 3 weeks ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -43,10 +43,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (today)
-- [arthurlutzim: “🎶 Ardour 11.0 released…”](https://mamot.fr/@arthurlutzim/108057974474769144) (1 day ago)
-- [arthurlutzim: “Get ready for MetaBrainz NFTs!…”](https://mamot.fr/@arthurlutzim/108057950897666832) (1 day ago)
-- [arthurlutzim: “The Ethics of Looking And The …”](https://mamot.fr/@arthurlutzim/108034151626355871) (5 days ago)
+- [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (1 day ago)
+- [arthurlutzim: “🎶 Ardour 11.0 released…”](https://mamot.fr/@arthurlutzim/108057974474769144) (2 days ago)
+- [arthurlutzim: “Get ready for MetaBrainz NFTs!…”](https://mamot.fr/@arthurlutzim/108057950897666832) (2 days ago)
+- [arthurlutzim: “The Ethics of Looking And The …”](https://mamot.fr/@arthurlutzim/108034151626355871) (6 days ago)
 - [arthurlutzim: “#hackmonday …”](https://mamot.fr/@arthurlutzim/107955732602100158) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
