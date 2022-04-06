@@ -43,10 +43,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (2 days ago)
-- [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (3 days ago)
-- [arthurlutzim: “🎶 Ardour 11.0 released…”](https://mamot.fr/@arthurlutzim/108057974474769144) (4 days ago)
-- [arthurlutzim: “Get ready for MetaBrainz NFTs!…”](https://mamot.fr/@arthurlutzim/108057950897666832) (4 days ago)
+- [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (3 days ago)
+- [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (4 days ago)
+- [arthurlutzim: “🎶 Ardour 11.0 released…”](https://mamot.fr/@arthurlutzim/108057974474769144) (5 days ago)
+- [arthurlutzim: “Get ready for MetaBrainz NFTs!…”](https://mamot.fr/@arthurlutzim/108057950897666832) (5 days ago)
 - [arthurlutzim: “The Ethics of Looking And The …”](https://mamot.fr/@arthurlutzim/108034151626355871) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
