@@ -18,7 +18,7 @@ Say Hello, I don't bite!
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (3 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (7 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (10 months ago)
-- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (11 months ago)
+- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (1 year ago)
 - [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (1 year ago)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23), 2 weeks ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23), 3 weeks ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 3 weeks ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -43,10 +43,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (3 days ago)
-- [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (4 days ago)
-- [arthurlutzim: “🎶 Ardour 11.0 released…”](https://mamot.fr/@arthurlutzim/108057974474769144) (5 days ago)
-- [arthurlutzim: “Get ready for MetaBrainz NFTs!…”](https://mamot.fr/@arthurlutzim/108057950897666832) (5 days ago)
+- [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (4 days ago)
+- [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (5 days ago)
+- [arthurlutzim: “🎶 Ardour 11.0 released…”](https://mamot.fr/@arthurlutzim/108057974474769144) (6 days ago)
+- [arthurlutzim: “Get ready for MetaBrainz NFTs!…”](https://mamot.fr/@arthurlutzim/108057950897666832) (6 days ago)
 - [arthurlutzim: “The Ethics of Looking And The …”](https://mamot.fr/@arthurlutzim/108034151626355871) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
