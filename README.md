@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (1 month ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (2 months ago)
-- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (2 months ago)
+- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (3 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (3 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (7 months ago)
@@ -43,9 +43,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🌜 🚋 ⁨Devenez relai local « Oui…”](https://mamot.fr/@arthurlutzim/108091631689820577) (1 day ago)
-- [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (5 days ago)
-- [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (6 days ago)
+- [arthurlutzim: “🌜 🚋 ⁨Devenez relai local « Oui…”](https://mamot.fr/@arthurlutzim/108091631689820577) (2 days ago)
+- [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (6 days ago)
+- [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (1 week ago)
 - [arthurlutzim: “🎶 Ardour 11.0 released…”](https://mamot.fr/@arthurlutzim/108057974474769144) (1 week ago)
 - [arthurlutzim: “Get ready for MetaBrainz NFTs!…”](https://mamot.fr/@arthurlutzim/108057950897666832) (1 week ago)
 
