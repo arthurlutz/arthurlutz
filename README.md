@@ -19,7 +19,6 @@ Say Hello, I don't bite!
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (7 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (10 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (1 year ago)
-- [OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-mergerfsfolders) - openmediavault plugin to create mergerfs pools from folder(s) (1 year ago)
 
 #### 🌱 My latest projects
 
