@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (2 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (3 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 months ago)
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (3 months ago)
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (4 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (8 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (10 months ago)
 - [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (1 year ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23), 4 weeks ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23), 1 month ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 1 month ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -42,10 +42,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108115486466983959) (4 days ago)
+- [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108115486466983959) (5 days ago)
 - [arthurlutzim: “🌜 🚋 ⁨Devenez relai local « Oui…”](https://mamot.fr/@arthurlutzim/108091631689820577) (1 week ago)
 - [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (1 week ago)
-- [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (1 week ago)
+- [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (2 weeks ago)
 - [arthurlutzim: “🎶 Ardour 11.0 released…”](https://mamot.fr/@arthurlutzim/108057974474769144) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
