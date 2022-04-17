@@ -42,9 +42,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108115486466983959) (5 days ago)
+- [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108115486466983959) (6 days ago)
 - [arthurlutzim: “🌜 🚋 ⁨Devenez relai local « Oui…”](https://mamot.fr/@arthurlutzim/108091631689820577) (1 week ago)
-- [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (1 week ago)
+- [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (2 weeks ago)
 - [arthurlutzim: “L’écriture inclusive a-t-elle …”](https://mamot.fr/@arthurlutzim/108061731255419195) (2 weeks ago)
 - [arthurlutzim: “🎶 Ardour 11.0 released…”](https://mamot.fr/@arthurlutzim/108057974474769144) (2 weeks ago)
 
