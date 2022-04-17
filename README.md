@@ -18,7 +18,6 @@ Say Hello, I don't bite!
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (4 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (8 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (10 months ago)
-- [wolfallein/clockworkpi-retroarch](https://github.com/wolfallein/clockworkpi-retroarch) - Customized RetroArch for clockworkpi (1 year ago)
 
 #### 🌱 My latest projects
 
