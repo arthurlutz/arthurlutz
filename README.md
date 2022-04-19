@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (1 month ago)
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (2 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (2 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (3 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 months ago)
@@ -41,8 +41,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “&#34;Trésor&#34; de jardin. Ça me fera…”](https://mamot.fr/@arthurlutzim/108148153594009669) (1 day ago)
-- [arthurlutzim: “&gt; Will cash disappear in the n…”](https://mamot.fr/@arthurlutzim/108146488607613965) (1 day ago)
+- [arthurlutzim: “&#34;Trésor&#34; de jardin. Ça me fera…”](https://mamot.fr/@arthurlutzim/108148153594009669) (2 days ago)
+- [arthurlutzim: “&gt; Will cash disappear in the n…”](https://mamot.fr/@arthurlutzim/108146488607613965) (2 days ago)
 - [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108115486466983959) (1 week ago)
 - [arthurlutzim: “🌜 🚋 ⁨Devenez relai local « Oui…”](https://mamot.fr/@arthurlutzim/108091631689820577) (1 week ago)
 - [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (2 weeks ago)
