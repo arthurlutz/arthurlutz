@@ -41,8 +41,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “&#34;Trésor&#34; de jardin. Ça me fera…”](https://mamot.fr/@arthurlutzim/108148153594009669) (5 days ago)
-- [arthurlutzim: “&gt; Will cash disappear in the n…”](https://mamot.fr/@arthurlutzim/108146488607613965) (5 days ago)
+- [arthurlutzim: “&#34;Trésor&#34; de jardin. Ça me fera…”](https://mamot.fr/@arthurlutzim/108148153594009669) (6 days ago)
+- [arthurlutzim: “&gt; Will cash disappear in the n…”](https://mamot.fr/@arthurlutzim/108146488607613965) (6 days ago)
 - [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108115486466983959) (1 week ago)
 - [arthurlutzim: “🌜 🚋 ⁨Devenez relai local « Oui…”](https://mamot.fr/@arthurlutzim/108091631689820577) (2 weeks ago)
 - [arthurlutzim: “Les Ecossolies - Le festival D…”](https://mamot.fr/@arthurlutzim/108067852812271836) (2 weeks ago)
