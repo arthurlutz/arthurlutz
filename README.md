@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “@audrey@upload.fedithese.net c…”](https://mamot.fr/@arthurlutzim/108192380985507941) (today)
 - [arthurlutzim: “Transhumanism | Philosophy Tub…”](https://mamot.fr/@arthurlutzim/108191814818578519) (today)
 - [arthurlutzim: “Concert de Tigran hier soir au…”](https://mamot.fr/@arthurlutzim/108186593769955483) (1 day ago)
 - [arthurlutzim: “&#34;Trésor&#34; de jardin. Ça me fera…”](https://mamot.fr/@arthurlutzim/108148153594009669) (1 week ago)
 - [arthurlutzim: “&gt; Will cash disappear in the n…”](https://mamot.fr/@arthurlutzim/108146488607613965) (1 week ago)
-- [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108115486466983959) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
