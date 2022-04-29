@@ -33,7 +33,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (1 month ago)
+- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (2 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (2 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (2 months ago)
 - [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (2 months ago)
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#hackmonday ... Et bien sûr im…”](https://mamot.fr/@arthurlutzim/108194348896746187) (3 days ago)
-- [arthurlutzim: “#hackmonday Bidouillage autour…”](https://mamot.fr/@arthurlutzim/108194303302773714) (3 days ago)
-- [arthurlutzim: “@audrey@upload.fedithese.net c…”](https://mamot.fr/@arthurlutzim/108192380985507941) (3 days ago)
-- [arthurlutzim: “Transhumanism | Philosophy Tub…”](https://mamot.fr/@arthurlutzim/108191814818578519) (3 days ago)
-- [arthurlutzim: “Concert de Tigran hier soir au…”](https://mamot.fr/@arthurlutzim/108186593769955483) (4 days ago)
+- [arthurlutzim: “#hackmonday ... Et bien sûr im…”](https://mamot.fr/@arthurlutzim/108194348896746187) (4 days ago)
+- [arthurlutzim: “#hackmonday Bidouillage autour…”](https://mamot.fr/@arthurlutzim/108194303302773714) (4 days ago)
+- [arthurlutzim: “@audrey@upload.fedithese.net c…”](https://mamot.fr/@arthurlutzim/108192380985507941) (4 days ago)
+- [arthurlutzim: “Transhumanism | Philosophy Tub…”](https://mamot.fr/@arthurlutzim/108191814818578519) (4 days ago)
+- [arthurlutzim: “Concert de Tigran hier soir au…”](https://mamot.fr/@arthurlutzim/108186593769955483) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
