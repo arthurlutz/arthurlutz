@@ -12,9 +12,9 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (2 months ago)
-- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (2 months ago)
+- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (3 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (3 months ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (4 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (8 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (11 months ago)
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Lundi, j&#39;ai commencé le cours …”](https://mamot.fr/@arthurlutzim/108222366941895682) (1 day ago)
-- [arthurlutzim: “#hackmonday ... Et bien sûr im…”](https://mamot.fr/@arthurlutzim/108194348896746187) (6 days ago)
-- [arthurlutzim: “#hackmonday Bidouillage autour…”](https://mamot.fr/@arthurlutzim/108194303302773714) (6 days ago)
-- [arthurlutzim: “@audrey@upload.fedithese.net c…”](https://mamot.fr/@arthurlutzim/108192380985507941) (6 days ago)
-- [arthurlutzim: “Transhumanism | Philosophy Tub…”](https://mamot.fr/@arthurlutzim/108191814818578519) (6 days ago)
+- [arthurlutzim: “Lundi, j&#39;ai commencé le cours …”](https://mamot.fr/@arthurlutzim/108222366941895682) (2 days ago)
+- [arthurlutzim: “#hackmonday ... Et bien sûr im…”](https://mamot.fr/@arthurlutzim/108194348896746187) (1 week ago)
+- [arthurlutzim: “#hackmonday Bidouillage autour…”](https://mamot.fr/@arthurlutzim/108194303302773714) (1 week ago)
+- [arthurlutzim: “@audrey@upload.fedithese.net c…”](https://mamot.fr/@arthurlutzim/108192380985507941) (1 week ago)
+- [arthurlutzim: “Transhumanism | Philosophy Tub…”](https://mamot.fr/@arthurlutzim/108191814818578519) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
