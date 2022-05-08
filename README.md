@@ -41,9 +41,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108238879720858628) (4 days ago)
-- [arthurlutzim: “Autant ma collection locale de…”](https://mamot.fr/@arthurlutzim/108233931029001925) (5 days ago)
-- [arthurlutzim: “🎧  audiobookshelf - Self-hoste…”](https://mamot.fr/@arthurlutzim/108233914623326863) (5 days ago)
+- [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108238879720858628) (5 days ago)
+- [arthurlutzim: “Autant ma collection locale de…”](https://mamot.fr/@arthurlutzim/108233931029001925) (6 days ago)
+- [arthurlutzim: “🎧  audiobookshelf - Self-hoste…”](https://mamot.fr/@arthurlutzim/108233914623326863) (6 days ago)
 - [arthurlutzim: “Lundi, j&#39;ai commencé le cours …”](https://mamot.fr/@arthurlutzim/108222366941895682) (1 week ago)
 - [arthurlutzim: “#hackmonday ... Et bien sûr im…”](https://mamot.fr/@arthurlutzim/108194348896746187) (1 week ago)
 
