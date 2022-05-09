@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108238879720858628) (6 days ago)
-- [arthurlutzim: “Autant ma collection locale de…”](https://mamot.fr/@arthurlutzim/108233931029001925) (1 week ago)
-- [arthurlutzim: “🎧  audiobookshelf - Self-hoste…”](https://mamot.fr/@arthurlutzim/108233914623326863) (1 week ago)
-- [arthurlutzim: “Lundi, j&#39;ai commencé le cours …”](https://mamot.fr/@arthurlutzim/108222366941895682) (1 week ago)
-- [arthurlutzim: “#hackmonday ... Et bien sûr im…”](https://mamot.fr/@arthurlutzim/108194348896746187) (2 weeks ago)
+- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271907060638232) (today)
+- [arthurlutzim: “Pour pouvoir les écouter dans …”](https://mamot.fr/@arthurlutzim/108271897647399504) (today)
+- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271885116386930) (today)
+- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271831625214841) (today)
+- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271811093350976) (today)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
