@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (2 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (3 months ago)
-- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (3 months ago)
+- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (4 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (4 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (8 months ago)
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108238879720858628) (5 days ago)
-- [arthurlutzim: “Autant ma collection locale de…”](https://mamot.fr/@arthurlutzim/108233931029001925) (6 days ago)
-- [arthurlutzim: “🎧  audiobookshelf - Self-hoste…”](https://mamot.fr/@arthurlutzim/108233914623326863) (6 days ago)
+- [arthurlutzim: “#FleuriTonFil”](https://mamot.fr/@arthurlutzim/108238879720858628) (6 days ago)
+- [arthurlutzim: “Autant ma collection locale de…”](https://mamot.fr/@arthurlutzim/108233931029001925) (1 week ago)
+- [arthurlutzim: “🎧  audiobookshelf - Self-hoste…”](https://mamot.fr/@arthurlutzim/108233914623326863) (1 week ago)
 - [arthurlutzim: “Lundi, j&#39;ai commencé le cours …”](https://mamot.fr/@arthurlutzim/108222366941895682) (1 week ago)
-- [arthurlutzim: “#hackmonday ... Et bien sûr im…”](https://mamot.fr/@arthurlutzim/108194348896746187) (1 week ago)
+- [arthurlutzim: “#hackmonday ... Et bien sûr im…”](https://mamot.fr/@arthurlutzim/108194348896746187) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
