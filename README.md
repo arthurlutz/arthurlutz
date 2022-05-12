@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23), 1 month ago) - Crowdsec bouncer written in golang for firewalls
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 1 month ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 2 months ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108272386461177215) (2 days ago)
-- [arthurlutzim: “Découvert dans le cadre du cou…”](https://mamot.fr/@arthurlutzim/108272056465728444) (2 days ago)
-- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271907060638232) (2 days ago)
-- [arthurlutzim: “Pour pouvoir les écouter dans …”](https://mamot.fr/@arthurlutzim/108271897647399504) (2 days ago)
-- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271885116386930) (2 days ago)
+- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108272386461177215) (3 days ago)
+- [arthurlutzim: “Découvert dans le cadre du cou…”](https://mamot.fr/@arthurlutzim/108272056465728444) (3 days ago)
+- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271907060638232) (3 days ago)
+- [arthurlutzim: “Pour pouvoir les écouter dans …”](https://mamot.fr/@arthurlutzim/108271897647399504) (3 days ago)
+- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271885116386930) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
