@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (4 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (4 months ago)
-- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (8 months ago)
+- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (9 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (11 months ago)
 
 #### 🌱 My latest projects
@@ -37,14 +37,14 @@ Say Hello, I don't bite!
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (2 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (2 months ago)
 - [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (2 months ago)
-- [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (8 months ago)
+- [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (9 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108272386461177215) (3 days ago)
-- [arthurlutzim: “Découvert dans le cadre du cou…”](https://mamot.fr/@arthurlutzim/108272056465728444) (3 days ago)
-- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271907060638232) (3 days ago)
-- [arthurlutzim: “Pour pouvoir les écouter dans …”](https://mamot.fr/@arthurlutzim/108271897647399504) (3 days ago)
-- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271885116386930) (3 days ago)
+- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108272386461177215) (4 days ago)
+- [arthurlutzim: “Découvert dans le cadre du cou…”](https://mamot.fr/@arthurlutzim/108272056465728444) (4 days ago)
+- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271907060638232) (4 days ago)
+- [arthurlutzim: “Pour pouvoir les écouter dans …”](https://mamot.fr/@arthurlutzim/108271897647399504) (4 days ago)
+- [arthurlutzim: “#lownum …”](https://mamot.fr/@arthurlutzim/108271885116386930) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
