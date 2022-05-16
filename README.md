@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (3 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (4 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 months ago)
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (4 months ago)
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (5 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (9 months ago)
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (11 months ago)
 
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23), 1 month ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.23](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.23), 2 months ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 2 months ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (today)
-- [arthurlutzim: “Côté carte graphique, c&#39;est pr…”](https://mamot.fr/@arthurlutzim/108302048126805421) (1 day ago)
-- [arthurlutzim: “Moi qui suis très mauvais en &#34;…”](https://mamot.fr/@arthurlutzim/108302028297137874) (1 day ago)
-- [arthurlutzim: “Et beaucoup beaucoup de poussi…”](https://mamot.fr/@arthurlutzim/108302015016863112) (1 day ago)
-- [arthurlutzim: “Les machines ont été vidées de…”](https://mamot.fr/@arthurlutzim/108302000494577212) (1 day ago)
+- [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (1 day ago)
+- [arthurlutzim: “Côté carte graphique, c&#39;est pr…”](https://mamot.fr/@arthurlutzim/108302048126805421) (2 days ago)
+- [arthurlutzim: “Moi qui suis très mauvais en &#34;…”](https://mamot.fr/@arthurlutzim/108302028297137874) (2 days ago)
+- [arthurlutzim: “Et beaucoup beaucoup de poussi…”](https://mamot.fr/@arthurlutzim/108302015016863112) (2 days ago)
+- [arthurlutzim: “Les machines ont été vidées de…”](https://mamot.fr/@arthurlutzim/108302000494577212) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
