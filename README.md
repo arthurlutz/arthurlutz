@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (1 day ago)
-- [arthurlutzim: “Côté carte graphique, c&#39;est pr…”](https://mamot.fr/@arthurlutzim/108302048126805421) (2 days ago)
-- [arthurlutzim: “Moi qui suis très mauvais en &#34;…”](https://mamot.fr/@arthurlutzim/108302028297137874) (2 days ago)
-- [arthurlutzim: “Et beaucoup beaucoup de poussi…”](https://mamot.fr/@arthurlutzim/108302015016863112) (2 days ago)
-- [arthurlutzim: “Les machines ont été vidées de…”](https://mamot.fr/@arthurlutzim/108302000494577212) (2 days ago)
+- [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (2 days ago)
+- [arthurlutzim: “Côté carte graphique, c&#39;est pr…”](https://mamot.fr/@arthurlutzim/108302048126805421) (3 days ago)
+- [arthurlutzim: “Moi qui suis très mauvais en &#34;…”](https://mamot.fr/@arthurlutzim/108302028297137874) (3 days ago)
+- [arthurlutzim: “Et beaucoup beaucoup de poussi…”](https://mamot.fr/@arthurlutzim/108302015016863112) (3 days ago)
+- [arthurlutzim: “Les machines ont été vidées de…”](https://mamot.fr/@arthurlutzim/108302000494577212) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
