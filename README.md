@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (2 months ago)
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (3 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (3 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (4 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), today) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 1 day ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 2 months ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Pour la semaine 3 du cours #lo…”](https://mamot.fr/@arthurlutzim/108318339238168214) (1 day ago)
-- [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (3 days ago)
-- [arthurlutzim: “Côté carte graphique, c&#39;est pr…”](https://mamot.fr/@arthurlutzim/108302048126805421) (4 days ago)
-- [arthurlutzim: “Moi qui suis très mauvais en &#34;…”](https://mamot.fr/@arthurlutzim/108302028297137874) (4 days ago)
-- [arthurlutzim: “Et beaucoup beaucoup de poussi…”](https://mamot.fr/@arthurlutzim/108302015016863112) (4 days ago)
+- [arthurlutzim: “Pour la semaine 3 du cours #lo…”](https://mamot.fr/@arthurlutzim/108318339238168214) (2 days ago)
+- [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (4 days ago)
+- [arthurlutzim: “Côté carte graphique, c&#39;est pr…”](https://mamot.fr/@arthurlutzim/108302048126805421) (5 days ago)
+- [arthurlutzim: “Moi qui suis très mauvais en &#34;…”](https://mamot.fr/@arthurlutzim/108302028297137874) (5 days ago)
+- [arthurlutzim: “Et beaucoup beaucoup de poussi…”](https://mamot.fr/@arthurlutzim/108302015016863112) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
