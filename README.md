@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (today)
 - [arthurlutzim: “#lownum Guillaume Carnino util…”](https://mamot.fr/@arthurlutzim/108351249825536866) (today)
 - [arthurlutzim: “#lownum semaine 4 : j&#39;écoute l…”](https://mamot.fr/@arthurlutzim/108351143972143009) (today)
 - [arthurlutzim: “Pour la semaine 3 du cours #lo…”](https://mamot.fr/@arthurlutzim/108318339238168214) (6 days ago)
 - [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (1 week ago)
-- [arthurlutzim: “Côté carte graphique, c&#39;est pr…”](https://mamot.fr/@arthurlutzim/108302048126805421) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
