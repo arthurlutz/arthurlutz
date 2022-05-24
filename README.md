@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 5 days ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 6 days ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 2 months ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (today)
-- [arthurlutzim: “#lownum Guillaume Carnino util…”](https://mamot.fr/@arthurlutzim/108351249825536866) (today)
-- [arthurlutzim: “#lownum semaine 4 : j&#39;écoute l…”](https://mamot.fr/@arthurlutzim/108351143972143009) (today)
-- [arthurlutzim: “Pour la semaine 3 du cours #lo…”](https://mamot.fr/@arthurlutzim/108318339238168214) (6 days ago)
+- [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (1 day ago)
+- [arthurlutzim: “#lownum Guillaume Carnino util…”](https://mamot.fr/@arthurlutzim/108351249825536866) (1 day ago)
+- [arthurlutzim: “#lownum semaine 4 : j&#39;écoute l…”](https://mamot.fr/@arthurlutzim/108351143972143009) (1 day ago)
+- [arthurlutzim: “Pour la semaine 3 du cours #lo…”](https://mamot.fr/@arthurlutzim/108318339238168214) (1 week ago)
 - [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
