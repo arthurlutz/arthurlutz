@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 6 days ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 1 week ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 2 months ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -36,14 +36,14 @@ Say Hello, I don't bite!
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (2 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (2 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (2 months ago)
-- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (2 months ago)
+- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (3 months ago)
 - [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (9 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (1 day ago)
-- [arthurlutzim: “#lownum Guillaume Carnino util…”](https://mamot.fr/@arthurlutzim/108351249825536866) (1 day ago)
-- [arthurlutzim: “#lownum semaine 4 : j&#39;écoute l…”](https://mamot.fr/@arthurlutzim/108351143972143009) (1 day ago)
+- [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (2 days ago)
+- [arthurlutzim: “#lownum Guillaume Carnino util…”](https://mamot.fr/@arthurlutzim/108351249825536866) (2 days ago)
+- [arthurlutzim: “#lownum semaine 4 : j&#39;écoute l…”](https://mamot.fr/@arthurlutzim/108351143972143009) (2 days ago)
 - [arthurlutzim: “Pour la semaine 3 du cours #lo…”](https://mamot.fr/@arthurlutzim/108318339238168214) (1 week ago)
 - [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (1 week ago)
 
