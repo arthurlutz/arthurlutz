@@ -33,7 +33,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (2 months ago)
+- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (3 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (3 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (3 months ago)
 - [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (3 months ago)
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (5 days ago)
-- [arthurlutzim: “#lownum Guillaume Carnino util…”](https://mamot.fr/@arthurlutzim/108351249825536866) (5 days ago)
-- [arthurlutzim: “#lownum semaine 4 : j&#39;écoute l…”](https://mamot.fr/@arthurlutzim/108351143972143009) (5 days ago)
+- [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (6 days ago)
+- [arthurlutzim: “#lownum Guillaume Carnino util…”](https://mamot.fr/@arthurlutzim/108351249825536866) (6 days ago)
+- [arthurlutzim: “#lownum semaine 4 : j&#39;écoute l…”](https://mamot.fr/@arthurlutzim/108351143972143009) (6 days ago)
 - [arthurlutzim: “Pour la semaine 3 du cours #lo…”](https://mamot.fr/@arthurlutzim/108318339238168214) (1 week ago)
-- [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (1 week ago)
+- [arthurlutzim: “Wow 🤩  &#34;Parasite&#34; sur arte.tv …”](https://mamot.fr/@arthurlutzim/108305143886471072) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
