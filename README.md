@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#lownum j&#39;écoute la semaine 5 …”](https://mamot.fr/@arthurlutzim/108390741104138903) (today)
+- [arthurlutzim: “#lownum j&#39;écoute la semaine 5 …”](https://mamot.fr/@arthurlutzim/108390741104138903) (1 day ago)
 - [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (1 week ago)
 - [arthurlutzim: “#lownum Guillaume Carnino util…”](https://mamot.fr/@arthurlutzim/108351249825536866) (1 week ago)
 - [arthurlutzim: “#lownum semaine 4 : j&#39;écoute l…”](https://mamot.fr/@arthurlutzim/108351143972143009) (1 week ago)
-- [arthurlutzim: “Pour la semaine 3 du cours #lo…”](https://mamot.fr/@arthurlutzim/108318339238168214) (1 week ago)
+- [arthurlutzim: “Pour la semaine 3 du cours #lo…”](https://mamot.fr/@arthurlutzim/108318339238168214) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
