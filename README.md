@@ -17,7 +17,6 @@ Say Hello, I don't bite!
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (5 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (5 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (9 months ago)
-- [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus (1 year ago)
 
 #### 🌱 My latest projects
 
