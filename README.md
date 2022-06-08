@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (3 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (4 months ago)
-- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (4 months ago)
+- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (5 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (5 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (5 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (9 months ago)
@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 2 weeks ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 3 weeks ago) - Crowdsec bouncer written in golang for firewalls
 - [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 2 months ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
@@ -40,9 +40,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “En cherchant des pièces détach…”](https://mamot.fr/@arthurlutzim/108425061614864544) (2 days ago)
-- [arthurlutzim: “Une fois démonté, je trouve bi…”](https://mamot.fr/@arthurlutzim/108425049907853112) (2 days ago)
-- [arthurlutzim: “Tentative de réparation du mom…”](https://mamot.fr/@arthurlutzim/108425028399606265) (2 days ago)
+- [arthurlutzim: “En cherchant des pièces détach…”](https://mamot.fr/@arthurlutzim/108425061614864544) (3 days ago)
+- [arthurlutzim: “Une fois démonté, je trouve bi…”](https://mamot.fr/@arthurlutzim/108425049907853112) (3 days ago)
+- [arthurlutzim: “Tentative de réparation du mom…”](https://mamot.fr/@arthurlutzim/108425028399606265) (3 days ago)
 - [arthurlutzim: “#lownum j&#39;écoute la semaine 5 …”](https://mamot.fr/@arthurlutzim/108390741104138903) (1 week ago)
 - [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (2 weeks ago)
 
