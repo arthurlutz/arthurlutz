@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “#sotm2022 …”](https://mamot.fr/@arthurlutzim/108457871028378824) (today)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108457749042703252) (today)
+- [arthurlutzim: “Aujourd&#39;hui journée de confére…”](https://mamot.fr/@arthurlutzim/108457727630757636) (today)
 - [arthurlutzim: “En cherchant des pièces détach…”](https://mamot.fr/@arthurlutzim/108425061614864544) (6 days ago)
 - [arthurlutzim: “Une fois démonté, je trouve bi…”](https://mamot.fr/@arthurlutzim/108425049907853112) (6 days ago)
-- [arthurlutzim: “Tentative de réparation du mom…”](https://mamot.fr/@arthurlutzim/108425028399606265) (6 days ago)
-- [arthurlutzim: “#lownum j&#39;écoute la semaine 5 …”](https://mamot.fr/@arthurlutzim/108390741104138903) (1 week ago)
-- [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
