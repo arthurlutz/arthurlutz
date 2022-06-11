@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 3 weeks ago) - Crowdsec bouncer written in golang for firewalls
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 2 months ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.13](https://github.com/libretro/ludo/releases/tag/v0.16.13), 3 months ago) - A libretro frontend written in golang
 
 #### 📜 My recent blog posts
 
@@ -40,9 +40,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “En cherchant des pièces détach…”](https://mamot.fr/@arthurlutzim/108425061614864544) (5 days ago)
-- [arthurlutzim: “Une fois démonté, je trouve bi…”](https://mamot.fr/@arthurlutzim/108425049907853112) (5 days ago)
-- [arthurlutzim: “Tentative de réparation du mom…”](https://mamot.fr/@arthurlutzim/108425028399606265) (5 days ago)
+- [arthurlutzim: “En cherchant des pièces détach…”](https://mamot.fr/@arthurlutzim/108425061614864544) (6 days ago)
+- [arthurlutzim: “Une fois démonté, je trouve bi…”](https://mamot.fr/@arthurlutzim/108425049907853112) (6 days ago)
+- [arthurlutzim: “Tentative de réparation du mom…”](https://mamot.fr/@arthurlutzim/108425028399606265) (6 days ago)
 - [arthurlutzim: “#lownum j&#39;écoute la semaine 5 …”](https://mamot.fr/@arthurlutzim/108390741104138903) (1 week ago)
 - [arthurlutzim: “🗺️📍 Au fait, vous savez que la…”](https://mamot.fr/@arthurlutzim/108351326388365973) (2 weeks ago)
 
