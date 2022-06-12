@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (5 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (5 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (5 months ago)
-- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (9 months ago)
+- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,14 +36,14 @@ Say Hello, I don't bite!
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (3 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (3 months ago)
 - [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (3 months ago)
-- [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (9 months ago)
+- [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (10 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108459031269798500) (today)
-- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458996780163242) (today)
-- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458924345081750) (today)
-- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458906349072347) (today)
-- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458891127173132) (today)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108459031269798500) (1 day ago)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458996780163242) (1 day ago)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458924345081750) (1 day ago)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458906349072347) (1 day ago)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458891127173132) (1 day ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
