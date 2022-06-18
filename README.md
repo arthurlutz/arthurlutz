@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (3 months ago)
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (4 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (4 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (5 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (5 months ago)
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108459031269798500) (6 days ago)
-- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458996780163242) (6 days ago)
-- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458924345081750) (6 days ago)
-- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458906349072347) (6 days ago)
-- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458891127173132) (6 days ago)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108459031269798500) (1 week ago)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458996780163242) (1 week ago)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458924345081750) (1 week ago)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458906349072347) (1 week ago)
+- [arthurlutzim: “#SOTM2022 …”](https://mamot.fr/@arthurlutzim/108458891127173132) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
