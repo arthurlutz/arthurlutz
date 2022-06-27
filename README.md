@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Salut les bricoleuses et brico…”](https://mamot.fr/@arthurlutzim/108548486841778894) (today)
 - [arthurlutzim: “😎 ☀ JveuxDuSoleil - Détecteur …”](https://mamot.fr/@arthurlutzim/108541963297223192) (1 day ago)
 - [arthurlutzim: “Wow, c&#39;est technique une confi…”](https://mamot.fr/@arthurlutzim/108541873723608180) (1 day ago)
 - [arthurlutzim: “Enquête - Les dessous du march…”](https://mamot.fr/@arthurlutzim/108541830981668710) (1 day ago)
 - [arthurlutzim: “Neural Network Identifies Bird…”](https://mamot.fr/@arthurlutzim/108541746976243426) (1 day ago)
-- [arthurlutzim: “A new graphic display for a Fl…”](https://mamot.fr/@arthurlutzim/108539810689232058) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
