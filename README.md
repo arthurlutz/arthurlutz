@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (3 months ago)
+- [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (4 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (4 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (4 months ago)
 - [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (4 months ago)
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Avec une tour de récupe trouvé…”](https://mamot.fr/@arthurlutzim/108550759358604192) (today)
-- [arthurlutzim: “Salut les bricoleuses et brico…”](https://mamot.fr/@arthurlutzim/108548486841778894) (today)
-- [arthurlutzim: “😎 ☀ JveuxDuSoleil - Détecteur …”](https://mamot.fr/@arthurlutzim/108541963297223192) (1 day ago)
-- [arthurlutzim: “Wow, c&#39;est technique une confi…”](https://mamot.fr/@arthurlutzim/108541873723608180) (1 day ago)
-- [arthurlutzim: “Enquête - Les dessous du march…”](https://mamot.fr/@arthurlutzim/108541830981668710) (1 day ago)
+- [arthurlutzim: “Avec une tour de récupe trouvé…”](https://mamot.fr/@arthurlutzim/108550759358604192) (1 day ago)
+- [arthurlutzim: “Salut les bricoleuses et brico…”](https://mamot.fr/@arthurlutzim/108548486841778894) (1 day ago)
+- [arthurlutzim: “😎 ☀ JveuxDuSoleil - Détecteur …”](https://mamot.fr/@arthurlutzim/108541963297223192) (2 days ago)
+- [arthurlutzim: “Wow, c&#39;est technique une confi…”](https://mamot.fr/@arthurlutzim/108541873723608180) (2 days ago)
+- [arthurlutzim: “Enquête - Les dessous du march…”](https://mamot.fr/@arthurlutzim/108541830981668710) (2 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
