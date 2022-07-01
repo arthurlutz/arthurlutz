@@ -12,9 +12,9 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (4 months ago)
-- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (4 months ago)
+- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (5 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (5 months ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (5 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (6 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (6 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (10 months ago)
 
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Avec une tour de récupe trouvé…”](https://mamot.fr/@arthurlutzim/108550759358604192) (3 days ago)
-- [arthurlutzim: “Salut les bricoleuses et brico…”](https://mamot.fr/@arthurlutzim/108548486841778894) (3 days ago)
-- [arthurlutzim: “😎 ☀ JveuxDuSoleil - Détecteur …”](https://mamot.fr/@arthurlutzim/108541963297223192) (4 days ago)
-- [arthurlutzim: “Wow, c&#39;est technique une confi…”](https://mamot.fr/@arthurlutzim/108541873723608180) (4 days ago)
-- [arthurlutzim: “Enquête - Les dessous du march…”](https://mamot.fr/@arthurlutzim/108541830981668710) (4 days ago)
+- [arthurlutzim: “Avec une tour de récupe trouvé…”](https://mamot.fr/@arthurlutzim/108550759358604192) (4 days ago)
+- [arthurlutzim: “Salut les bricoleuses et brico…”](https://mamot.fr/@arthurlutzim/108548486841778894) (4 days ago)
+- [arthurlutzim: “😎 ☀ JveuxDuSoleil - Détecteur …”](https://mamot.fr/@arthurlutzim/108541963297223192) (5 days ago)
+- [arthurlutzim: “Wow, c&#39;est technique une confi…”](https://mamot.fr/@arthurlutzim/108541873723608180) (5 days ago)
+- [arthurlutzim: “Enquête - Les dessous du march…”](https://mamot.fr/@arthurlutzim/108541830981668710) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
