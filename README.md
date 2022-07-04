@@ -40,8 +40,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Avec une tour de récupe trouvé…”](https://mamot.fr/@arthurlutzim/108550759358604192) (6 days ago)
-- [arthurlutzim: “Salut les bricoleuses et brico…”](https://mamot.fr/@arthurlutzim/108548486841778894) (6 days ago)
+- [arthurlutzim: “Avec une tour de récupe trouvé…”](https://mamot.fr/@arthurlutzim/108550759358604192) (1 week ago)
+- [arthurlutzim: “Salut les bricoleuses et brico…”](https://mamot.fr/@arthurlutzim/108548486841778894) (1 week ago)
 - [arthurlutzim: “😎 ☀ JveuxDuSoleil - Détecteur …”](https://mamot.fr/@arthurlutzim/108541963297223192) (1 week ago)
 - [arthurlutzim: “Wow, c&#39;est technique une confi…”](https://mamot.fr/@arthurlutzim/108541873723608180) (1 week ago)
 - [arthurlutzim: “Enquête - Les dessous du march…”](https://mamot.fr/@arthurlutzim/108541830981668710) (1 week ago)
