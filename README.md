@@ -40,9 +40,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Companies Rumored To Harvest W…”](https://mamot.fr/@arthurlutzim/108596527787917767) (1 day ago)
-- [arthurlutzim: “J&#39;essaie de maîtriser la décou…”](https://mamot.fr/@arthurlutzim/108588604457453892) (2 days ago)
-- [arthurlutzim: “Tests supplémentaires et monté…”](https://mamot.fr/@arthurlutzim/108588590173887708) (2 days ago)
+- [arthurlutzim: “Companies Rumored To Harvest W…”](https://mamot.fr/@arthurlutzim/108596527787917767) (2 days ago)
+- [arthurlutzim: “J&#39;essaie de maîtriser la décou…”](https://mamot.fr/@arthurlutzim/108588604457453892) (3 days ago)
+- [arthurlutzim: “Tests supplémentaires et monté…”](https://mamot.fr/@arthurlutzim/108588590173887708) (3 days ago)
 - [arthurlutzim: “Avec une tour de récupe trouvé…”](https://mamot.fr/@arthurlutzim/108550759358604192) (1 week ago)
 - [arthurlutzim: “Salut les bricoleuses et brico…”](https://mamot.fr/@arthurlutzim/108548486841778894) (1 week ago)
 
