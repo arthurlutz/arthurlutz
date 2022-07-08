@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (4 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (5 months ago)
-- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (5 months ago)
+- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (6 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (6 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (6 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (10 months ago)
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Les différentes sortes de flip…”](https://mamot.fr/@arthurlutzim/108607241223081483) (today)
-- [arthurlutzim: “The Absurd Notifier…”](https://mamot.fr/@arthurlutzim/108607232457103260) (today)
-- [arthurlutzim: “Check Your Battery&#39;s Health fr…”](https://mamot.fr/@arthurlutzim/108607210529163269) (today)
-- [arthurlutzim: “Companies Rumored To Harvest W…”](https://mamot.fr/@arthurlutzim/108596527787917767) (2 days ago)
-- [arthurlutzim: “J&#39;essaie de maîtriser la décou…”](https://mamot.fr/@arthurlutzim/108588604457453892) (3 days ago)
+- [arthurlutzim: “Les différentes sortes de flip…”](https://mamot.fr/@arthurlutzim/108607241223081483) (1 day ago)
+- [arthurlutzim: “The Absurd Notifier…”](https://mamot.fr/@arthurlutzim/108607232457103260) (1 day ago)
+- [arthurlutzim: “Check Your Battery&#39;s Health fr…”](https://mamot.fr/@arthurlutzim/108607210529163269) (1 day ago)
+- [arthurlutzim: “Companies Rumored To Harvest W…”](https://mamot.fr/@arthurlutzim/108596527787917767) (3 days ago)
+- [arthurlutzim: “J&#39;essaie de maîtriser la décou…”](https://mamot.fr/@arthurlutzim/108588604457453892) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
