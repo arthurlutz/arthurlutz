@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Les différentes sortes de flip…”](https://mamot.fr/@arthurlutzim/108607241223081483) (2 days ago)
-- [arthurlutzim: “The Absurd Notifier…”](https://mamot.fr/@arthurlutzim/108607232457103260) (2 days ago)
-- [arthurlutzim: “Check Your Battery&#39;s Health fr…”](https://mamot.fr/@arthurlutzim/108607210529163269) (2 days ago)
-- [arthurlutzim: “Companies Rumored To Harvest W…”](https://mamot.fr/@arthurlutzim/108596527787917767) (4 days ago)
-- [arthurlutzim: “J&#39;essaie de maîtriser la décou…”](https://mamot.fr/@arthurlutzim/108588604457453892) (5 days ago)
+- [arthurlutzim: “Les différentes sortes de flip…”](https://mamot.fr/@arthurlutzim/108607241223081483) (3 days ago)
+- [arthurlutzim: “The Absurd Notifier…”](https://mamot.fr/@arthurlutzim/108607232457103260) (3 days ago)
+- [arthurlutzim: “Check Your Battery&#39;s Health fr…”](https://mamot.fr/@arthurlutzim/108607210529163269) (3 days ago)
+- [arthurlutzim: “Companies Rumored To Harvest W…”](https://mamot.fr/@arthurlutzim/108596527787917767) (5 days ago)
+- [arthurlutzim: “J&#39;essaie de maîtriser la décou…”](https://mamot.fr/@arthurlutzim/108588604457453892) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
