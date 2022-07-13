@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.14-altui](https://github.com/libretro/ludo/releases/tag/v0.16.14-altui), 2 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.14-altui](https://github.com/libretro/ludo/releases/tag/v0.16.14-altui), 3 days ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 1 month ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
@@ -40,9 +40,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Les différentes sortes de flip…”](https://mamot.fr/@arthurlutzim/108607241223081483) (5 days ago)
-- [arthurlutzim: “The Absurd Notifier…”](https://mamot.fr/@arthurlutzim/108607232457103260) (5 days ago)
-- [arthurlutzim: “Check Your Battery&#39;s Health fr…”](https://mamot.fr/@arthurlutzim/108607210529163269) (5 days ago)
+- [arthurlutzim: “Les différentes sortes de flip…”](https://mamot.fr/@arthurlutzim/108607241223081483) (6 days ago)
+- [arthurlutzim: “The Absurd Notifier…”](https://mamot.fr/@arthurlutzim/108607232457103260) (6 days ago)
+- [arthurlutzim: “Check Your Battery&#39;s Health fr…”](https://mamot.fr/@arthurlutzim/108607210529163269) (6 days ago)
 - [arthurlutzim: “Companies Rumored To Harvest W…”](https://mamot.fr/@arthurlutzim/108596527787917767) (1 week ago)
 - [arthurlutzim: “J&#39;essaie de maîtriser la décou…”](https://mamot.fr/@arthurlutzim/108588604457453892) (1 week ago)
 
