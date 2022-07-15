@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (5 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (6 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (6 months ago)
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (6 months ago)
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (7 months ago)
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (11 months ago)
 
 #### 🌱 My latest projects
@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.14-altui](https://github.com/libretro/ludo/releases/tag/v0.16.14-altui), 4 days ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.14-altui](https://github.com/libretro/ludo/releases/tag/v0.16.14-altui), 5 days ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 1 month ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
