@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [arthurlutzim: “Watch Out For Lasercutter Manu…”](https://mamot.fr/@arthurlutzim/108661826414324828) (today)
 - [arthurlutzim: “Let petit &#34;feel good&#34; de tout …”](https://mamot.fr/@arthurlutzim/108652347823233825) (2 days ago)
 - [arthurlutzim: “Vous sentez-vous cultivés ? co…”](https://mamot.fr/@arthurlutzim/108652013858198235) (2 days ago)
 - [arthurlutzim: “Les différentes sortes de flip…”](https://mamot.fr/@arthurlutzim/108607241223081483) (1 week ago)
 - [arthurlutzim: “The Absurd Notifier…”](https://mamot.fr/@arthurlutzim/108607232457103260) (1 week ago)
-- [arthurlutzim: “Check Your Battery&#39;s Health fr…”](https://mamot.fr/@arthurlutzim/108607210529163269) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
