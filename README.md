@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (4 months ago)
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (5 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (5 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (6 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (6 months ago)
@@ -40,9 +40,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Watch Out For Lasercutter Manu…”](https://mamot.fr/@arthurlutzim/108661826414324828) (today)
-- [arthurlutzim: “Let petit &#34;feel good&#34; de tout …”](https://mamot.fr/@arthurlutzim/108652347823233825) (2 days ago)
-- [arthurlutzim: “Vous sentez-vous cultivés ? co…”](https://mamot.fr/@arthurlutzim/108652013858198235) (2 days ago)
+- [arthurlutzim: “Watch Out For Lasercutter Manu…”](https://mamot.fr/@arthurlutzim/108661826414324828) (1 day ago)
+- [arthurlutzim: “Let petit &#34;feel good&#34; de tout …”](https://mamot.fr/@arthurlutzim/108652347823233825) (3 days ago)
+- [arthurlutzim: “Vous sentez-vous cultivés ? co…”](https://mamot.fr/@arthurlutzim/108652013858198235) (3 days ago)
 - [arthurlutzim: “Les différentes sortes de flip…”](https://mamot.fr/@arthurlutzim/108607241223081483) (1 week ago)
 - [arthurlutzim: “The Absurd Notifier…”](https://mamot.fr/@arthurlutzim/108607232457103260) (1 week ago)
 
