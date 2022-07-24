@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.14-altui](https://github.com/libretro/ludo/releases/tag/v0.16.14-altui), 1 week ago) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.14-altui](https://github.com/libretro/ludo/releases/tag/v0.16.14-altui), 2 weeks ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 2 months ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
@@ -35,14 +35,14 @@ Say Hello, I don't bite!
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (4 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (4 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (4 months ago)
-- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (4 months ago)
+- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (5 months ago)
 - [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (11 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🏆💪 Ortur Laser Will Go Open-So…”](https://mamot.fr/@arthurlutzim/108673859271004925) (4 days ago)
-- [arthurlutzim: “🌊 🥵 Pour changer des images d&#39;…”](https://mamot.fr/@arthurlutzim/108668539631146762) (5 days ago)
-- [arthurlutzim: “Watch Out For Lasercutter Manu…”](https://mamot.fr/@arthurlutzim/108661826414324828) (6 days ago)
+- [arthurlutzim: “🏆💪 Ortur Laser Will Go Open-So…”](https://mamot.fr/@arthurlutzim/108673859271004925) (5 days ago)
+- [arthurlutzim: “🌊 🥵 Pour changer des images d&#39;…”](https://mamot.fr/@arthurlutzim/108668539631146762) (6 days ago)
+- [arthurlutzim: “Watch Out For Lasercutter Manu…”](https://mamot.fr/@arthurlutzim/108661826414324828) (1 week ago)
 - [arthurlutzim: “Let petit &#34;feel good&#34; de tout …”](https://mamot.fr/@arthurlutzim/108652347823233825) (1 week ago)
 - [arthurlutzim: “Vous sentez-vous cultivés ? co…”](https://mamot.fr/@arthurlutzim/108652013858198235) (1 week ago)
 
