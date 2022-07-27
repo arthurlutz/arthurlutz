@@ -33,8 +33,8 @@ Say Hello, I don't bite!
 #### 📜 My recent blog posts
 
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (4 months ago)
-- [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (4 months ago)
-- [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (4 months ago)
+- [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (5 months ago)
+- [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (5 months ago)
 - [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (5 months ago)
 - [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (11 months ago)
 
