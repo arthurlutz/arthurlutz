@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.15](https://github.com/libretro/ludo/releases/tag/v0.16.15), today) - A libretro frontend written in golang
+- [libretro/ludo](https://github.com/libretro/ludo) ([v0.16.15](https://github.com/libretro/ludo/releases/tag/v0.16.15), 1 day ago) - A libretro frontend written in golang
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.24-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.24-rc1), 2 months ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
@@ -40,8 +40,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Turning an old Amazon Kindle i…”](https://mamot.fr/@arthurlutzim/108743884150806986) (1 day ago)
-- [arthurlutzim: “🏆💪 Ortur Laser Will Go Open-So…”](https://mamot.fr/@arthurlutzim/108673859271004925) (1 week ago)
+- [arthurlutzim: “Turning an old Amazon Kindle i…”](https://mamot.fr/@arthurlutzim/108743884150806986) (2 days ago)
+- [arthurlutzim: “🏆💪 Ortur Laser Will Go Open-So…”](https://mamot.fr/@arthurlutzim/108673859271004925) (2 weeks ago)
 - [arthurlutzim: “🌊 🥵 Pour changer des images d&#39;…”](https://mamot.fr/@arthurlutzim/108668539631146762) (2 weeks ago)
 - [arthurlutzim: “Watch Out For Lasercutter Manu…”](https://mamot.fr/@arthurlutzim/108661826414324828) (2 weeks ago)
 - [arthurlutzim: “Let petit &#34;feel good&#34; de tout …”](https://mamot.fr/@arthurlutzim/108652347823233825) (2 weeks ago)
