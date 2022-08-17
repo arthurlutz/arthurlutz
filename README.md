@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (5 months ago)
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (6 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (6 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (7 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (7 months ago)
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 - [arthurlutzim: “Turning an old Amazon Kindle i…”](https://mamot.fr/@arthurlutzim/108743884150806986) (2 weeks ago)
 - [arthurlutzim: “🏆💪 Ortur Laser Will Go Open-So…”](https://mamot.fr/@arthurlutzim/108673859271004925) (4 weeks ago)
-- [arthurlutzim: “🌊 🥵 Pour changer des images d&#39;…”](https://mamot.fr/@arthurlutzim/108668539631146762) (4 weeks ago)
+- [arthurlutzim: “🌊 🥵 Pour changer des images d&#39;…”](https://mamot.fr/@arthurlutzim/108668539631146762) (1 month ago)
 - [arthurlutzim: “Watch Out For Lasercutter Manu…”](https://mamot.fr/@arthurlutzim/108661826414324828) (1 month ago)
 - [arthurlutzim: “Let petit &#34;feel good&#34; de tout …”](https://mamot.fr/@arthurlutzim/108652347823233825) (1 month ago)
 
