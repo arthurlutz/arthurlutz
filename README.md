@@ -16,7 +16,6 @@ Say Hello, I don't bite!
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (7 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (7 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (8 months ago)
-- [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang (1 year ago)
 
 #### 🌱 My latest projects
 
