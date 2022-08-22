@@ -38,7 +38,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Everyone Everywhere Needs Waym…”](https://mamot.fr/@arthurlutzim/108856909780132910) (1 day ago)
+- [arthurlutzim: “Everyone Everywhere Needs Waym…”](https://mamot.fr/@arthurlutzim/108856909780132910) (2 days ago)
 - [arthurlutzim: “Turning an old Amazon Kindle i…”](https://mamot.fr/@arthurlutzim/108743884150806986) (3 weeks ago)
 - [arthurlutzim: “🏆💪 Ortur Laser Will Go Open-So…”](https://mamot.fr/@arthurlutzim/108673859271004925) (1 month ago)
 - [arthurlutzim: “🌊 🥵 Pour changer des images d&#39;…”](https://mamot.fr/@arthurlutzim/108668539631146762) (1 month ago)
