@@ -33,12 +33,12 @@ Say Hello, I don't bite!
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (5 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (5 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (5 months ago)
-- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (5 months ago)
+- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (6 months ago)
 - [Piano numérique dans meuble de piano ancien – part 2](https://arthur.lutz.im/blog/2021/08/16/piano-numerique-dans-meuble-de-piano-ancien-part-2/) (1 year ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Everyone Everywhere Needs Waym…”](https://mamot.fr/@arthurlutzim/108856909780132910) (2 days ago)
+- [arthurlutzim: “Everyone Everywhere Needs Waym…”](https://mamot.fr/@arthurlutzim/108856909780132910) (3 days ago)
 - [arthurlutzim: “Turning an old Amazon Kindle i…”](https://mamot.fr/@arthurlutzim/108743884150806986) (3 weeks ago)
 - [arthurlutzim: “🏆💪 Ortur Laser Will Go Open-So…”](https://mamot.fr/@arthurlutzim/108673859271004925) (1 month ago)
 - [arthurlutzim: “🌊 🥵 Pour changer des images d&#39;…”](https://mamot.fr/@arthurlutzim/108668539631146762) (1 month ago)
