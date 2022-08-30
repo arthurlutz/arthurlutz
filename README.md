@@ -12,9 +12,9 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (6 months ago)
-- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (6 months ago)
+- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (7 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (7 months ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (7 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (8 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (8 months ago)
 
 #### 🌱 My latest projects
@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc1), 6 days ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc1](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc1), 1 week ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
@@ -38,10 +38,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🗨️ J&#39;ai fini par regarder la c…”](https://mamot.fr/@arthurlutzim/108894876947084695) (2 days ago)
-- [arthurlutzim: “Regina Spektor - Music Box…”](https://mamot.fr/@arthurlutzim/108894379374915742) (2 days ago)
+- [arthurlutzim: “🗨️ J&#39;ai fini par regarder la c…”](https://mamot.fr/@arthurlutzim/108894876947084695) (3 days ago)
+- [arthurlutzim: “Regina Spektor - Music Box…”](https://mamot.fr/@arthurlutzim/108894379374915742) (3 days ago)
 - [arthurlutzim: “Everyone Everywhere Needs Waym…”](https://mamot.fr/@arthurlutzim/108856909780132910) (1 week ago)
-- [arthurlutzim: “Turning an old Amazon Kindle i…”](https://mamot.fr/@arthurlutzim/108743884150806986) (4 weeks ago)
+- [arthurlutzim: “Turning an old Amazon Kindle i…”](https://mamot.fr/@arthurlutzim/108743884150806986) (1 month ago)
 - [arthurlutzim: “🏆💪 Ortur Laser Will Go Open-So…”](https://mamot.fr/@arthurlutzim/108673859271004925) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
