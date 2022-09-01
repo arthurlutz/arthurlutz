@@ -38,8 +38,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “🗨️ J&#39;ai fini par regarder la c…”](https://mamot.fr/@arthurlutzim/108894876947084695) (4 days ago)
-- [arthurlutzim: “Regina Spektor - Music Box…”](https://mamot.fr/@arthurlutzim/108894379374915742) (4 days ago)
+- [arthurlutzim: “🗨️ J&#39;ai fini par regarder la c…”](https://mamot.fr/@arthurlutzim/108894876947084695) (5 days ago)
+- [arthurlutzim: “Regina Spektor - Music Box…”](https://mamot.fr/@arthurlutzim/108894379374915742) (5 days ago)
 - [arthurlutzim: “Everyone Everywhere Needs Waym…”](https://mamot.fr/@arthurlutzim/108856909780132910) (1 week ago)
 - [arthurlutzim: “Turning an old Amazon Kindle i…”](https://mamot.fr/@arthurlutzim/108743884150806986) (1 month ago)
 - [arthurlutzim: “🏆💪 Ortur Laser Will Go Open-So…”](https://mamot.fr/@arthurlutzim/108673859271004925) (1 month ago)
