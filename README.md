@@ -38,9 +38,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Celles là je les ai dans ma co…”](https://mamot.fr/@arthurlutzim/108941715937454637) (today)
-- [arthurlutzim: “Nostalgie de rentrée…”](https://mamot.fr/@arthurlutzim/108941705604912833) (today)
-- [arthurlutzim: “Petit moment de nostalgie.…”](https://mamot.fr/@arthurlutzim/108941641299524318) (today)
+- [arthurlutzim: “Celles là je les ai dans ma co…”](https://mamot.fr/@arthurlutzim/108941715937454637) (1 day ago)
+- [arthurlutzim: “Nostalgie de rentrée…”](https://mamot.fr/@arthurlutzim/108941705604912833) (1 day ago)
+- [arthurlutzim: “Petit moment de nostalgie.…”](https://mamot.fr/@arthurlutzim/108941641299524318) (1 day ago)
 - [arthurlutzim: “🗨️ J&#39;ai fini par regarder la c…”](https://mamot.fr/@arthurlutzim/108894876947084695) (1 week ago)
 - [arthurlutzim: “Regina Spektor - Music Box…”](https://mamot.fr/@arthurlutzim/108894379374915742) (1 week ago)
 
