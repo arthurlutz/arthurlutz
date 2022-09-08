@@ -38,10 +38,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Le business du bonheur …”](https://mamot.fr/@arthurlutzim/108946063550585238) (2 days ago)
-- [arthurlutzim: “Celles là je les ai dans ma co…”](https://mamot.fr/@arthurlutzim/108941715937454637) (3 days ago)
-- [arthurlutzim: “Nostalgie de rentrée…”](https://mamot.fr/@arthurlutzim/108941705604912833) (3 days ago)
-- [arthurlutzim: “Petit moment de nostalgie.…”](https://mamot.fr/@arthurlutzim/108941641299524318) (3 days ago)
+- [arthurlutzim: “Le business du bonheur …”](https://mamot.fr/@arthurlutzim/108946063550585238) (3 days ago)
+- [arthurlutzim: “Celles là je les ai dans ma co…”](https://mamot.fr/@arthurlutzim/108941715937454637) (4 days ago)
+- [arthurlutzim: “Nostalgie de rentrée…”](https://mamot.fr/@arthurlutzim/108941705604912833) (4 days ago)
+- [arthurlutzim: “Petit moment de nostalgie.…”](https://mamot.fr/@arthurlutzim/108941641299524318) (4 days ago)
 - [arthurlutzim: “🗨️ J&#39;ai fini par regarder la c…”](https://mamot.fr/@arthurlutzim/108894876947084695) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
