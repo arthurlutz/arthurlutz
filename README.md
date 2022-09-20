@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc2](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc2), 4 days ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc2](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc2), 5 days ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
@@ -38,7 +38,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “✊ ⚕️  Dissolution de l&#39;ordre d…”](https://mamot.fr/@arthurlutzim/108993131803242280) (6 days ago)
+- [arthurlutzim: “✊ ⚕️  Dissolution de l&#39;ordre d…”](https://mamot.fr/@arthurlutzim/108993131803242280) (1 week ago)
 - [arthurlutzim: “Le business du bonheur …”](https://mamot.fr/@arthurlutzim/108946063550585238) (2 weeks ago)
 - [arthurlutzim: “Celles là je les ai dans ma co…”](https://mamot.fr/@arthurlutzim/108941715937454637) (2 weeks ago)
 - [arthurlutzim: “Nostalgie de rentrée…”](https://mamot.fr/@arthurlutzim/108941705604912833) (2 weeks ago)
