@@ -11,11 +11,11 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (2 days ago)
+- [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (3 days ago)
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (7 months ago)
-- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (7 months ago)
+- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (8 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (8 months ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (8 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (9 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (9 months ago)
 
 #### 🌱 My latest projects
@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc2](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc2), 1 week ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc2](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc2), 2 weeks ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “How to connect a guitar to an …”](https://mamot.fr/@arthurlutzim/109046179337566861) (5 days ago)
+- [arthurlutzim: “How to connect a guitar to an …”](https://mamot.fr/@arthurlutzim/109046179337566861) (6 days ago)
 - [arthurlutzim: “✊ ⚕️  Dissolution de l&#39;ordre d…”](https://mamot.fr/@arthurlutzim/108993131803242280) (2 weeks ago)
 - [arthurlutzim: “Le business du bonheur …”](https://mamot.fr/@arthurlutzim/108946063550585238) (3 weeks ago)
 - [arthurlutzim: “Celles là je les ai dans ma co…”](https://mamot.fr/@arthurlutzim/108941715937454637) (3 weeks ago)
