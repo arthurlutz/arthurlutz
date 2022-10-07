@@ -39,8 +39,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Scanning apps, off the record…”](https://mamot.fr/@arthurlutzim/109106196838045116) (3 days ago)
-- [arthurlutzim: “How to connect a guitar to an …”](https://mamot.fr/@arthurlutzim/109046179337566861) (1 week ago)
+- [arthurlutzim: “Scanning apps, off the record…”](https://mamot.fr/@arthurlutzim/109106196838045116) (4 days ago)
+- [arthurlutzim: “How to connect a guitar to an …”](https://mamot.fr/@arthurlutzim/109046179337566861) (2 weeks ago)
 - [arthurlutzim: “✊ ⚕️  Dissolution de l&#39;ordre d…”](https://mamot.fr/@arthurlutzim/108993131803242280) (3 weeks ago)
 - [arthurlutzim: “Le business du bonheur …”](https://mamot.fr/@arthurlutzim/108946063550585238) (1 month ago)
 - [arthurlutzim: “Celles là je les ai dans ma co…”](https://mamot.fr/@arthurlutzim/108941715937454637) (1 month ago)
