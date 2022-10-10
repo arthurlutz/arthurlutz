@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (1 week ago)
+- [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (2 weeks ago)
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (7 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (8 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (9 months ago)
@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Scanning apps, off the record…”](https://mamot.fr/@arthurlutzim/109106196838045116) (6 days ago)
+- [arthurlutzim: “Scanning apps, off the record…”](https://mamot.fr/@arthurlutzim/109106196838045116) (1 week ago)
 - [arthurlutzim: “How to connect a guitar to an …”](https://mamot.fr/@arthurlutzim/109046179337566861) (2 weeks ago)
 - [arthurlutzim: “✊ ⚕️  Dissolution de l&#39;ordre d…”](https://mamot.fr/@arthurlutzim/108993131803242280) (3 weeks ago)
 - [arthurlutzim: “Le business du bonheur …”](https://mamot.fr/@arthurlutzim/108946063550585238) (1 month ago)
