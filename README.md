@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc2](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc2), 4 weeks ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc2](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc2), 1 month ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
@@ -39,8 +39,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “#conférencegesticulée …”](https://mamot.fr/@arthurlutzim/109144332411568078) (4 days ago)
-- [arthurlutzim: “https://www.enmodeclimat.fr/…”](https://mamot.fr/@arthurlutzim/109143532551050968) (4 days ago)
+- [arthurlutzim: “#conférencegesticulée …”](https://mamot.fr/@arthurlutzim/109144332411568078) (5 days ago)
+- [arthurlutzim: “https://www.enmodeclimat.fr/…”](https://mamot.fr/@arthurlutzim/109143532551050968) (5 days ago)
 - [arthurlutzim: “Scanning apps, off the record…”](https://mamot.fr/@arthurlutzim/109106196838045116) (1 week ago)
 - [arthurlutzim: “How to connect a guitar to an …”](https://mamot.fr/@arthurlutzim/109046179337566861) (3 weeks ago)
 - [arthurlutzim: “✊ ⚕️  Dissolution de l&#39;ordre d…”](https://mamot.fr/@arthurlutzim/108993131803242280) (1 month ago)
