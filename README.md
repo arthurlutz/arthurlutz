@@ -13,9 +13,9 @@ Say Hello, I don't bite!
 
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (1 month ago)
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (8 months ago)
-- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (8 months ago)
+- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (9 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (9 months ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (9 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (10 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (10 months ago)
 
 #### 🌱 My latest projects
