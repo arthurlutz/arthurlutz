@@ -39,8 +39,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “📺 Toutes musclées - Culture et…”](https://mamot.fr/@arthurlutzim/109291401793778824) (2 days ago)
-- [arthurlutzim: “En visitant un musée, je me re…”](https://mamot.fr/@arthurlutzim/109275310701829733) (5 days ago)
+- [arthurlutzim: “📺 Toutes musclées - Culture et…”](https://mamot.fr/@arthurlutzim/109291401793778824) (3 days ago)
+- [arthurlutzim: “En visitant un musée, je me re…”](https://mamot.fr/@arthurlutzim/109275310701829733) (6 days ago)
 - [arthurlutzim: “🎉🇧🇷🌎…”](https://mamot.fr/@arthurlutzim/109261594115229376) (1 week ago)
 - [arthurlutzim: “[blog]  Appareil Android en mo…”](https://mamot.fr/@arthurlutzim/109183974917780857) (3 weeks ago)
 - [arthurlutzim: “#conférencegesticulée …”](https://mamot.fr/@arthurlutzim/109144332411568078) (4 weeks ago)
