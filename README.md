@@ -12,7 +12,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (1 month ago)
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (8 months ago)
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (9 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (9 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (10 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (10 months ago)
@@ -39,8 +39,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [arthurlutzim: “Bon, en vrai, je suis toujours…”](https://mamot.fr/@arthurlutzim/109342165676291511) (today)
-- [arthurlutzim: “Suite à un mail d&#39;Enercoop sur…”](https://mamot.fr/@arthurlutzim/109342153755285472) (today)
+- [arthurlutzim: “Bon, en vrai, je suis toujours…”](https://mamot.fr/@arthurlutzim/109342165676291511) (1 day ago)
+- [arthurlutzim: “Suite à un mail d&#39;Enercoop sur…”](https://mamot.fr/@arthurlutzim/109342153755285472) (1 day ago)
 - [arthurlutzim: “📺 Toutes musclées - Culture et…”](https://mamot.fr/@arthurlutzim/109291401793778824) (1 week ago)
 - [arthurlutzim: “En visitant un musée, je me re…”](https://mamot.fr/@arthurlutzim/109275310701829733) (1 week ago)
 - [arthurlutzim: “🎉🇧🇷🌎…”](https://mamot.fr/@arthurlutzim/109261594115229376) (2 weeks ago)
