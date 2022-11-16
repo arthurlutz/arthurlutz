@@ -31,7 +31,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (4 weeks ago)
+- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (1 month ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (8 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (8 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (8 months ago)
@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109346636376383576) (today)
-- [](https://mamot.fr/@arthurlutzim/109346608488179221) (today)
-- [](https://mamot.fr/@arthurlutzim/109342165676291511) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/109342153755285472) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/109346636376383576) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/109346608488179221) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/109342165676291511) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/109342153755285472) (2 days ago)
 - [](https://mamot.fr/@arthurlutzim/109291401793778824) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
