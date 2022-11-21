@@ -35,14 +35,14 @@ Say Hello, I don't bite!
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (8 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (8 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (8 months ago)
-- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (8 months ago)
+- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (9 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109361079612715141) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109361060535234388) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109361054702033582) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109346636376383576) (5 days ago)
-- [](https://mamot.fr/@arthurlutzim/109346608488179221) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/109361079612715141) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109361060535234388) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109361054702033582) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109346636376383576) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/109346608488179221) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
