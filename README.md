@@ -13,9 +13,9 @@ Say Hello, I don't bite!
 
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (2 months ago)
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (9 months ago)
-- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (9 months ago)
+- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (10 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (10 months ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (10 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (11 months ago)
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (11 months ago)
 
 #### 🌱 My latest projects
@@ -39,8 +39,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109403216363932585) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/109403213088781341) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/109403216363932585) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/109403213088781341) (3 days ago)
 - [](https://mamot.fr/@arthurlutzim/109361079612715141) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109361060535234388) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109361054702033582) (1 week ago)
