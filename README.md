@@ -11,6 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (today)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (2 months ago)
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (9 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (10 months ago)
@@ -27,6 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.1.5](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.1.5), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc2](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc2), 2 months ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
