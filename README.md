@@ -17,7 +17,7 @@ Say Hello, I don't bite!
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (10 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (11 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (11 months ago)
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (11 months ago)
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) - Crowdsec bouncer written in golang for firewalls (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109482522776151274) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/109482492474198114) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/109462292633140536) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/109461610412247827) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/109461604588673308) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/109482522776151274) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/109482492474198114) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/109462292633140536) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/109461610412247827) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/109461604588673308) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
