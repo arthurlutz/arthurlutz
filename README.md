@@ -28,8 +28,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.1.7](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.1.7), today) - Custom component to calculate estimated power consumption of lights and other appliances
 - [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc3), 2 days ago) - Crowdsec bouncer written in golang for firewalls
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.1.6](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.1.6), 1 week ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
