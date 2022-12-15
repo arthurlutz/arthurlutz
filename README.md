@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (1 week ago)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (2 months ago)
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (9 months ago)
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (10 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (10 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (11 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (11 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc3), 1 day ago) - Crowdsec bouncer written in golang for firewalls
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc3), 2 days ago) - Crowdsec bouncer written in golang for firewalls
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.1.6](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.1.6), 1 week ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
@@ -41,9 +41,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109508356264349827) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/109482522776151274) (5 days ago)
-- [](https://mamot.fr/@arthurlutzim/109482492474198114) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/109508356264349827) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/109482522776151274) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/109482492474198114) (6 days ago)
 - [](https://mamot.fr/@arthurlutzim/109462292633140536) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109461610412247827) (1 week ago)
 
