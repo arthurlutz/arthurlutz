@@ -28,12 +28,12 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.1.7](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.1.7), today) - Custom component to calculate estimated power consumption of lights and other appliances
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc3), 2 days ago) - Crowdsec bouncer written in golang for firewalls
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.1.7](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.1.7), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc3), 3 days ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
-- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (1 month ago)
+- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (2 months ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (9 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (9 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (9 months ago)
@@ -41,9 +41,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109508356264349827) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/109482522776151274) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/109482492474198114) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/109508356264349827) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/109482522776151274) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/109482492474198114) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109462292633140536) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109461610412247827) (1 week ago)
 
