@@ -28,8 +28,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.1.7](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.1.7), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
-- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc3), 3 days ago) - Crowdsec bouncer written in golang for firewalls
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.1.7](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.1.7), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) ([v0.0.25-rc3](https://github.com/crowdsecurity/cs-firewall-bouncer/releases/tag/v0.0.25-rc3), 4 days ago) - Crowdsec bouncer written in golang for firewalls
 
 #### 📜 My recent blog posts
 
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109508356264349827) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/109508356264349827) (4 days ago)
 - [](https://mamot.fr/@arthurlutzim/109482522776151274) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109482492474198114) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109462292633140536) (1 week ago)
