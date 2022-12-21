@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.1.8](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.1.8), today) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.1.8](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.1.8), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
@@ -35,14 +35,14 @@ Say Hello, I don't bite!
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (9 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (9 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (9 months ago)
-- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (9 months ago)
+- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (10 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109533782543034276) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/109531145997397537) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109531140828924401) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109529840836375245) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/109533782543034276) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/109531145997397537) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109531140828924401) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109529840836375245) (4 days ago)
 - [](https://mamot.fr/@arthurlutzim/109508356264349827) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
