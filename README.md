@@ -14,9 +14,9 @@ Say Hello, I don't bite!
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (3 weeks ago)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (3 months ago)
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (10 months ago)
-- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (10 months ago)
+- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (11 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (11 months ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (11 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.2.0](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.2.0), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.2.0](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.2.0), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
