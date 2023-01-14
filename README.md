@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (1 month ago)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (3 months ago)
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (10 months ago)
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (11 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (11 months ago)
 - [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (1 year ago)
 
@@ -38,10 +38,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109664875111951200) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109664870522952432) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109664372075444583) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109609296515911423) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/109664875111951200) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109664870522952432) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109664372075444583) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109609296515911423) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/109604302512265499) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
