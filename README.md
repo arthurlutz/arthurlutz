@@ -15,7 +15,6 @@ Say Hello, I don't bite!
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (3 months ago)
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (11 months ago)
 - [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (11 months ago)
-- [Menturan/MMM-OpeningHours](https://github.com/Menturan/MMM-OpeningHours) - Magic Mirror module that displays places opening hours. (1 year ago)
 
 #### 🌱 My latest projects
 
