@@ -26,11 +26,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.3.0](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.3.0), today) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.3.0](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.3.0), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
-- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (2 months ago)
+- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (3 months ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (10 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (10 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (10 months ago)
@@ -38,9 +38,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109664875111951200) (4 days ago)
-- [](https://mamot.fr/@arthurlutzim/109664870522952432) (4 days ago)
-- [](https://mamot.fr/@arthurlutzim/109664372075444583) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109664875111951200) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/109664870522952432) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/109664372075444583) (5 days ago)
 - [](https://mamot.fr/@arthurlutzim/109609296515911423) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/109604302512265499) (2 weeks ago)
 
