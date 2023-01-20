@@ -25,7 +25,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.3.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.3.1), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.3.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.3.1), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
@@ -33,12 +33,12 @@ Say Hello, I don't bite!
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (10 months ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (10 months ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (10 months ago)
-- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (10 months ago)
+- [Travail du bois – chantier participatif et atelier](https://arthur.lutz.im/blog/2022/02/24/travail-du-bois-chantier-participatif-et-atelier/) (11 months ago)
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109700568448168309) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109693507441136349) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109700568448168309) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109693507441136349) (5 days ago)
 - [](https://mamot.fr/@arthurlutzim/109664875111951200) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109664870522952432) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109664372075444583) (1 week ago)
