@@ -14,7 +14,7 @@ Say Hello, I don't bite!
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (1 month ago)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (4 months ago)
 - [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (11 months ago)
-- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (11 months ago)
+- [scanlime/mixcandy](https://github.com/scanlime/mixcandy) - Music Hack Day SF, 2014 (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -25,7 +25,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.3.2](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.3.2), 5 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.3.2](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.3.2), 6 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
@@ -37,10 +37,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109739124766720691) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109739121865887324) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109739106671386930) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109738266144925671) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/109738180397727442) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/109739124766720691) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109739121865887324) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109739106671386930) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109738266144925671) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/109738180397727442) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
