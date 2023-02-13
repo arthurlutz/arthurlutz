@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (2 months ago)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (4 months ago)
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (11 months ago)
+- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.3.4](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.3.4), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.3.4](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.3.4), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109816600554869222) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/109816600554869222) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109802671377163719) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109782885722579051) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109771353481828721) (2 weeks ago)
