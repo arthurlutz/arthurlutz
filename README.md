@@ -13,7 +13,6 @@ Say Hello, I don't bite!
 
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (2 months ago)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (4 months ago)
-- [InfiniTimeOrg/InfiniSim](https://github.com/InfiniTimeOrg/InfiniSim) - Simulator for InfiniTime user interface without needing a PineTime (1 year ago)
 
 #### 🌱 My latest projects
 
