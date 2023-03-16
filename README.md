@@ -23,11 +23,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.3.11](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.3.11), 3 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.3.11](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.3.11), 4 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
-- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (4 months ago)
+- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (5 months ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (1 year ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (1 year ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (1 year ago)
@@ -35,8 +35,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/109992895836671244) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/109992357218787702) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/109992895836671244) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/109992357218787702) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109988563834514312) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109988551279008286) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/109987828603863713) (1 week ago)
