@@ -21,6 +21,7 @@ Say Hello, I don't bite!
 - [arthurlutz/adventure-maps](https://github.com/arthurlutz/adventure-maps) - 
 - [arthurlutz/awesome-software-running-on-old-hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware) - Abandonware on old hardware renders it unsecure, partially unusuable. Let&#39;s upgrade or replace it. (mirror)
 - [arthurlutz/PersonalDataDotIO.github.io](https://github.com/arthurlutz/PersonalDataDotIO.github.io) - 
+- [arthurlutz/Deco](https://github.com/arthurlutz/Deco) - an Omeka theme
 
 #### 🔭 Latest releases I've contributed to
 
