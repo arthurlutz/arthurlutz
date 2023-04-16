@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (1 week ago)
+- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (2 weeks ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (4 months ago)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (6 months ago)
 
@@ -25,7 +25,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.5.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.5.1), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.5.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.5.1), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
@@ -37,7 +37,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/110191742336249664) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/110191742336249664) (3 days ago)
 - [](https://mamot.fr/@arthurlutzim/110078190926468623) (3 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/110061967850985175) (3 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/110061862316718913) (3 weeks ago)
