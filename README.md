@@ -25,11 +25,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.6.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.6.1), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.6.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.6.1), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
-- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (6 months ago)
+- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (7 months ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (1 year ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (1 year ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (1 year ago)
@@ -37,7 +37,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/110350673667661439) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/110350673667661439) (4 days ago)
 - [](https://mamot.fr/@arthurlutzim/110320183749559564) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110320154082707709) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110219253405242849) (3 weeks ago)
