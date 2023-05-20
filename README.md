@@ -25,7 +25,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.6.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.6.1), 6 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.6.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.6.1), 1 week ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
@@ -37,10 +37,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/110385173311831635) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/110385168549564822) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/110385137308995496) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/110385124686558687) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/110385118519914795) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/110385173311831635) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/110385168549564822) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/110385137308995496) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/110385124686558687) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/110385118519914795) (3 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
