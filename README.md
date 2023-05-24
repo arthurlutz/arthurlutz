@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (1 month ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (5 months ago)
-- [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (7 months ago)
+- [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,10 +37,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/110411341285754212) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/110411134438207551) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/110385173311831635) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/110385168549564822) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/110385137308995496) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/110411341285754212) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/110411134438207551) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/110385173311831635) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/110385168549564822) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/110385137308995496) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
