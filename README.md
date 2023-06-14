@@ -25,11 +25,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.6.6](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.6.6), 4 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.6.6](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.6.6), 5 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
-- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (7 months ago)
+- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (8 months ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (1 year ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (1 year ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (1 year ago)
@@ -40,7 +40,7 @@ Say Hello, I don't bite!
 - [](https://mamot.fr/@arthurlutzim/110456389633172491) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/110411341285754212) (3 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/110411134438207551) (3 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/110385173311831635) (3 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/110385168549564822) (3 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/110385173311831635) (4 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/110385168549564822) (4 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
