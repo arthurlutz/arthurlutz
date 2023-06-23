@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (2 months ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (6 months ago)
-- [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (8 months ago)
+- [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,7 +25,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.6.8](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.6.8), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.6.8](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.6.8), 3 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
