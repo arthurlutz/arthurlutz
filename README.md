@@ -25,7 +25,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.7.0-beta.3](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.7.0-beta.3), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.7.0-beta.3](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.7.0-beta.3), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 - [](https://mamot.fr/@arthurlutzim/110547422498898856) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110547416316158863) (1 week ago)
-- [](https://mamot.fr/@arthurlutzim/110456389633172491) (3 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/110456389633172491) (4 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/110411341285754212) (1 month ago)
 - [](https://mamot.fr/@arthurlutzim/110411134438207551) (1 month ago)
 
