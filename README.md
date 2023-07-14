@@ -25,11 +25,11 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.8.0-beta.5](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.8.0-beta.5), 5 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.8.0-beta.5](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.8.0-beta.5), 6 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 
 #### 📜 My recent blog posts
 
-- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (8 months ago)
+- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (9 months ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (1 year ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (1 year ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (1 year ago)
@@ -37,7 +37,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/110689523023252951) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/110689523023252951) (4 days ago)
 - [](https://mamot.fr/@arthurlutzim/110637706910950464) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110623003415325099) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/110547422498898856) (4 weeks ago)
