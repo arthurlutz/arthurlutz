@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (3 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (4 days ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (3 months ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (7 months ago)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (9 months ago)
@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.8.2](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.8.2), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.8.2](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.8.2), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.3.9](https://github.com/wimpysworld/deb-get/releases/tag/0.3.9), 1 month ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 
 #### 📜 My recent blog posts
@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/110739365222349196) (today)
-- [](https://mamot.fr/@arthurlutzim/110725433497590406) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/110725417855617660) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/110723742803545080) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/110739365222349196) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/110725433497590406) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/110725417855617660) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/110723742803545080) (4 days ago)
 - [](https://mamot.fr/@arthurlutzim/110689523023252951) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
