@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.8.5](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.8.5), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.8.5](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.8.5), 3 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.3.9](https://github.com/wimpysworld/deb-get/releases/tag/0.3.9), 1 month ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 
 #### 📜 My recent blog posts
@@ -39,9 +39,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/110793637452294122) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/110793637452294122) (5 days ago)
 - [](https://mamot.fr/@arthurlutzim/110773423006069429) (1 week ago)
-- [](https://mamot.fr/@arthurlutzim/110739365222349196) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/110739365222349196) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/110725433497590406) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/110725417855617660) (2 weeks ago)
 
