@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (5 days ago)
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (6 days ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (4 weeks ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (4 months ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (8 months ago)
@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.1), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.1), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.13.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.13.0), 1 month ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.3.9](https://github.com/wimpysworld/deb-get/releases/tag/0.3.9), 2 months ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/110846919781748364) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/110846919781748364) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110821392024797201) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110793637452294122) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/110773423006069429) (2 weeks ago)
