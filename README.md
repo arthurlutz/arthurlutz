@@ -11,8 +11,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (6 days ago)
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (4 weeks ago)
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (1 week ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (1 month ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (4 months ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (8 months ago)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (10 months ago)
@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.1), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.1](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.1), 3 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.13.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.13.0), 1 month ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.3.9](https://github.com/wimpysworld/deb-get/releases/tag/0.3.9), 2 months ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 
@@ -44,7 +44,7 @@ Say Hello, I don't bite!
 - [](https://mamot.fr/@arthurlutzim/110846919781748364) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110821392024797201) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110793637452294122) (2 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/110773423006069429) (2 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/110773423006069429) (3 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/110739365222349196) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
