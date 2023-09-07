@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (4 weeks ago)
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (1 month ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (1 month ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (5 months ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (9 months ago)
@@ -27,8 +27,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.14.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.14.0), 3 days ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.3](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.3), 4 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.14.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.14.0), 4 days ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.3](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.3), 5 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.3.9](https://github.com/wimpysworld/deb-get/releases/tag/0.3.9), 2 months ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 
 #### 📜 My recent blog posts
@@ -41,9 +41,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/110994195799460731) (4 days ago)
-- [](https://mamot.fr/@arthurlutzim/110994173950214297) (4 days ago)
-- [](https://mamot.fr/@arthurlutzim/110994156228233452) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/110994195799460731) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/110994173950214297) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/110994156228233452) (5 days ago)
 - [](https://mamot.fr/@arthurlutzim/110967882481764699) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110967874463646139) (1 week ago)
 
