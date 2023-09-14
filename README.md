@@ -12,7 +12,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (1 month ago)
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (1 month ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (2 months ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (5 months ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (9 months ago)
 - [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (11 months ago)
@@ -41,8 +41,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111056477843570620) (today)
-- [](https://mamot.fr/@arthurlutzim/111053267143371579) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111056477843570620) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111053267143371579) (2 days ago)
 - [](https://mamot.fr/@arthurlutzim/110994195799460731) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110994173950214297) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/110994156228233452) (1 week ago)
