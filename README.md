@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.14.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.14.0), 1 week ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.14.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.14.0), 2 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.3](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.3), 2 weeks ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.3.9](https://github.com/wimpysworld/deb-get/releases/tag/0.3.9), 3 months ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111070392615789404) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/111065595709192841) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/111065068931291488) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/111065033993144988) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/111056477843570620) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111070392615789404) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/111065595709192841) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111065068931291488) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111065033993144988) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111056477843570620) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
