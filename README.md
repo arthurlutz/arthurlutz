@@ -15,7 +15,6 @@ Say Hello, I don't bite!
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (2 months ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (6 months ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (10 months ago)
-- [AmberELEC/website](https://github.com/AmberELEC/website) - AmberELEC website (1 year ago)
 
 #### 🌱 My latest projects
 
