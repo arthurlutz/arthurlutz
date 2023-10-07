@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (1 month ago)
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (2 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (2 months ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (6 months ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (10 months ago)
@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.5](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.5), 2 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.5](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.5), 3 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.14.1](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.14.1), 2 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.3.9](https://github.com/wimpysworld/deb-get/releases/tag/0.3.9), 3 months ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111188342345035520) (today)
-- [](https://mamot.fr/@arthurlutzim/111184590056420857) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/111184579311351869) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/111184567001708114) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/111167385930493279) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/111188342345035520) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111184590056420857) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/111184579311351869) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/111184567001708114) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/111167385930493279) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
