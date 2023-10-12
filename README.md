@@ -28,11 +28,11 @@ Say Hello, I don't bite!
 
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.5](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.5), 1 week ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.14.1](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.14.1), 3 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.3.9](https://github.com/wimpysworld/deb-get/releases/tag/0.3.9), 3 months ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.3.9](https://github.com/wimpysworld/deb-get/releases/tag/0.3.9), 4 months ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 
 #### 📜 My recent blog posts
 
-- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (11 months ago)
+- [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (1 year ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (2 years ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (2 years ago)
 - [Stage construction d’un panneau chauffage solaire low-tech](https://arthur.lutz.im/blog/2022/02/27/stage-construction-dun-panneau-chauffage-solaire-low-tech/) (2 years ago)
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111206815657567836) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/111205382712248865) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/111205367717864370) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/111188342345035520) (5 days ago)
-- [](https://mamot.fr/@arthurlutzim/111184590056420857) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/111206815657567836) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111205382712248865) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111205367717864370) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111188342345035520) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/111184590056420857) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
