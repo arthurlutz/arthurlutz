@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (today)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 day ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (2 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (3 months ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (6 months ago)
@@ -43,7 +43,7 @@ Say Hello, I don't bite!
 
 - [](https://mamot.fr/@arthurlutzim/111263538734348679) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111234026823533984) (1 week ago)
-- [](https://mamot.fr/@arthurlutzim/111228833516945271) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/111228833516945271) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/111206815657567836) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/111205382712248865) (2 weeks ago)
 
