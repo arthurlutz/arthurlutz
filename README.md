@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (1 week ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 week ago)
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (2 months ago)
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (3 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (3 months ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (7 months ago)
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (11 months ago)
@@ -42,9 +42,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111324664659894286) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/111324176345094369) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/111324157905276382) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/111324664659894286) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/111324176345094369) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/111324157905276382) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111319333346404960) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111319295561921303) (1 week ago)
 
