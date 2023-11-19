@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (2 weeks ago)
+- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (3 weeks ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 weeks ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (3 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (4 months ago)
@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.7](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.7), today) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.7](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.7), 1 day ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 1 week ago) - apt-get for .debs published via GitHub or direct download 📦
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.14.2](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.14.2), 1 week ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 
@@ -41,8 +41,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111426876255363444) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/111416584053244086) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111426876255363444) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/111416584053244086) (4 days ago)
 - [](https://mamot.fr/@arthurlutzim/111364485607544085) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111324664659894286) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/111324176345094369) (2 weeks ago)
