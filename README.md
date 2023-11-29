@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (3 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (4 months ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (8 months ago)
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (11 months ago)
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.8](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.8), 5 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) ([v1.9.8](https://github.com/bramstroker/homeassistant-powercalc/releases/tag/v1.9.8), 6 days ago) - Custom component to calculate estimated power consumption of lights and other appliances
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 2 weeks ago) - apt-get for .debs published via GitHub or direct download 📦
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.14.2](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.14.2), 3 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 
@@ -41,8 +41,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111486970421334652) (today)
-- [](https://mamot.fr/@arthurlutzim/111486958467530627) (today)
+- [](https://mamot.fr/@arthurlutzim/111486970421334652) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111486958467530627) (1 day ago)
 - [](https://mamot.fr/@arthurlutzim/111443027059676378) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111441899420662915) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111426876255363444) (1 week ago)
