@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
+- [](https://mamot.fr/@arthurlutzim/111636583092094772) (today)
+- [](https://mamot.fr/@arthurlutzim/111636579263760782) (today)
 - [](https://mamot.fr/@arthurlutzim/111562080905768266) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111561943536662269) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111561927502558403) (1 week ago)
-- [](https://mamot.fr/@arthurlutzim/111560594847247696) (1 week ago)
-- [](https://mamot.fr/@arthurlutzim/111560588723305110) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
