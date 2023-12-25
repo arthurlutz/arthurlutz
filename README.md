@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (1 month ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 month ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (2 months ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (4 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (5 months ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (8 months ago)
@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.16.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.16.0), 1 week ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.16.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.16.0), 2 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 1 month ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111636583092094772) (today)
-- [](https://mamot.fr/@arthurlutzim/111636579263760782) (today)
-- [](https://mamot.fr/@arthurlutzim/111562080905768266) (1 week ago)
-- [](https://mamot.fr/@arthurlutzim/111561943536662269) (1 week ago)
-- [](https://mamot.fr/@arthurlutzim/111561927502558403) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/111636583092094772) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111636579263760782) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111562080905768266) (2 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/111561943536662269) (2 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/111561927502558403) (2 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
