@@ -26,8 +26,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.16.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.16.0), 3 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 1 month ago) - apt-get for .debs published via GitHub or direct download 📦
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.16.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.16.0), 4 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 2 months ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
 
@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111694400615893393) (4 days ago)
-- [](https://mamot.fr/@arthurlutzim/111691013476873559) (4 days ago)
-- [](https://mamot.fr/@arthurlutzim/111690993262004537) (4 days ago)
-- [](https://mamot.fr/@arthurlutzim/111682851618386829) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/111682818272565347) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/111694400615893393) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/111691013476873559) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/111690993262004537) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/111682851618386829) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/111682818272565347) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
