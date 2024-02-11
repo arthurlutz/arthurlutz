@@ -13,7 +13,7 @@ Say Hello, I don't bite!
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (3 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 months ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (6 months ago)
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (6 months ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (7 months ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (10 months ago)
 
 #### 🌱 My latest projects
@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111877691919662289) (5 days ago)
-- [](https://mamot.fr/@arthurlutzim/111873779854578814) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/111872955689607846) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/111872711674322351) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/111877691919662289) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/111873779854578814) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/111872955689607846) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/111872711674322351) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111868233793690359) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
