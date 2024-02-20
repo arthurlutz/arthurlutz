@@ -40,8 +40,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111957501529666407) (today)
-- [](https://mamot.fr/@arthurlutzim/111957476406248274) (today)
+- [](https://mamot.fr/@arthurlutzim/111957501529666407) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111957476406248274) (1 day ago)
 - [](https://mamot.fr/@arthurlutzim/111919574065252925) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111918963995413664) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111877691919662289) (2 weeks ago)
