@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (4 weeks ago)
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 month ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (3 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 months ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (6 months ago)
@@ -40,8 +40,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111957501529666407) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/111957476406248274) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111957501529666407) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/111957476406248274) (2 days ago)
 - [](https://mamot.fr/@arthurlutzim/111919574065252925) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111918963995413664) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111877691919662289) (2 weeks ago)
