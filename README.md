@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [FOSDEM 2024 – les conférences que j’ai vu](https://arthur.lutz.im/blog/2024/02/22/fosdem-2024-les-conferences-que-jai-vu/) (2 days ago)
+- [FOSDEM 2024 – les conférences que j’ai vu](https://arthur.lutz.im/blog/2024/02/22/fosdem-2024-les-conferences-que-jai-vu/) (3 days ago)
 - [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (1 year ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (2 years ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (2 years ago)
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111977071924854177) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/111977028781772478) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/111975111983126890) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/111957501529666407) (5 days ago)
-- [](https://mamot.fr/@arthurlutzim/111957476406248274) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/111977071924854177) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111977028781772478) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111975111983126890) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111957501529666407) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/111957476406248274) (6 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
