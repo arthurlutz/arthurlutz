@@ -11,11 +11,11 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 month ago)
-- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (3 months ago)
+- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (4 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 months ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (6 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (7 months ago)
-- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (10 months ago)
+- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ Say Hello, I don't bite!
 
 #### 📜 My recent blog posts
 
-- [FOSDEM 2024 – les conférences que j’ai vu](https://arthur.lutz.im/blog/2024/02/22/fosdem-2024-les-conferences-que-jai-vu/) (3 days ago)
+- [FOSDEM 2024 – les conférences que j’ai vu](https://arthur.lutz.im/blog/2024/02/22/fosdem-2024-les-conferences-que-jai-vu/) (4 days ago)
 - [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (1 year ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (2 years ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (2 years ago)
@@ -40,10 +40,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111993087547103278) (today)
-- [](https://mamot.fr/@arthurlutzim/111992191520800984) (today)
-- [](https://mamot.fr/@arthurlutzim/111992164161606549) (today)
-- [](https://mamot.fr/@arthurlutzim/111977071924854177) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/111977028781772478) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/111993087547103278) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111992191520800984) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111992164161606549) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/111977071924854177) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/111977028781772478) (4 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
