@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (today)
+- [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (1 day ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 month ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (4 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 months ago)
@@ -41,8 +41,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111997518743502061) (6 days ago)
-- [](https://mamot.fr/@arthurlutzim/111997111107372678) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/111997518743502061) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/111997111107372678) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111993087547103278) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111992191520800984) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/111992164161606549) (1 week ago)
