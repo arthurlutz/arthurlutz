@@ -28,12 +28,12 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.16.2](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.16.2), 1 day ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.16.2](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.16.2), 2 days ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 4 months ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
 
-- [FOSDEM 2024 – les conférences que j’ai vu](https://arthur.lutz.im/blog/2024/02/22/fosdem-2024-les-conferences-que-jai-vu/) (3 weeks ago)
+- [FOSDEM 2024 – les conférences que j’ai vu](https://arthur.lutz.im/blog/2024/02/22/fosdem-2024-les-conferences-que-jai-vu/) (4 weeks ago)
 - [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (1 year ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (2 years ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (2 years ago)
