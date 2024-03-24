@@ -10,10 +10,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (2 weeks ago)
+- [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (3 weeks ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (4 months ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (4 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (5 months ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (7 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (8 months ago)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (11 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.16.2](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.16.2), 4 days ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.16.2](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.16.2), 5 days ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 4 months ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
@@ -43,8 +43,8 @@ Say Hello, I don't bite!
 
 - [](https://mamot.fr/@arthurlutzim/111997518743502061) (3 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/111997111107372678) (3 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/111993087547103278) (3 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/111992191520800984) (3 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/111992164161606549) (3 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/111993087547103278) (4 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/111992191520800984) (4 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/111992164161606549) (4 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
