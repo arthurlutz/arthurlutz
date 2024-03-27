@@ -12,11 +12,11 @@ Say Hello, I don't bite!
 
 - [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (3 weeks ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 months ago)
-- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (4 months ago)
+- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (5 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (5 months ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (7 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (8 months ago)
-- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (11 months ago)
+- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -41,8 +41,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/111997518743502061) (4 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/111997111107372678) (4 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/111997518743502061) (1 month ago)
+- [](https://mamot.fr/@arthurlutzim/111997111107372678) (1 month ago)
 - [](https://mamot.fr/@arthurlutzim/111993087547103278) (1 month ago)
 - [](https://mamot.fr/@arthurlutzim/111992191520800984) (1 month ago)
 - [](https://mamot.fr/@arthurlutzim/111992164161606549) (1 month ago)
