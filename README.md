@@ -10,8 +10,8 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (3 days ago)
-- [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (4 weeks ago)
+- [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (4 days ago)
+- [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (1 month ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (5 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (5 months ago)
@@ -29,7 +29,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.16.2](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.16.2), 1 week ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.16.2](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.16.2), 2 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 4 months ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
