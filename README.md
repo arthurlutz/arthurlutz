@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (1 week ago)
+- [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (2 weeks ago)
 - [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (1 month ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (5 months ago)
@@ -41,9 +41,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/112243411344548007) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/112237571572260674) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/112237563195618866) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/112243411344548007) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/112237571572260674) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/112237563195618866) (4 days ago)
 - [](https://mamot.fr/@arthurlutzim/111997518743502061) (1 month ago)
 - [](https://mamot.fr/@arthurlutzim/111997111107372678) (1 month ago)
 
