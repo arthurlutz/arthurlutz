@@ -10,10 +10,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (3 weeks ago)
+- [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (4 weeks ago)
 - [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (1 month ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (3 months ago)
-- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (5 months ago)
+- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (6 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (6 months ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (8 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (9 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.17.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.17.0), 2 days ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.17.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.17.0), 3 days ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 5 months ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
@@ -41,8 +41,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/112310503263032676) (4 days ago)
-- [](https://mamot.fr/@arthurlutzim/112310489691691282) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/112310503263032676) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/112310489691691282) (5 days ago)
 - [](https://mamot.fr/@arthurlutzim/112243411344548007) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/112237571572260674) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/112237563195618866) (2 weeks ago)
