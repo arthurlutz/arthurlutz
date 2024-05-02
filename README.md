@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (1 month ago)
-- [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (1 month ago)
+- [lvgl/lv_port_linux_frame_buffer](https://github.com/lvgl/lv_port_linux_frame_buffer) - LVGL configured to work with a standard Linux framebuffer (2 months ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (3 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (6 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (6 months ago)
