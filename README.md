@@ -12,9 +12,9 @@ Say Hello, I don't bite!
 
 - [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (1 month ago)
 - [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (2 months ago)
-- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (3 months ago)
-- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (6 months ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (6 months ago)
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (4 months ago)
+- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (7 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (7 months ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (9 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (10 months ago)
 
@@ -28,12 +28,12 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.18.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.18.0), 1 week ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.18.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.18.0), 2 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 6 months ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
 
-- [FOSDEM 2024 – les conférences que j’ai vu](https://arthur.lutz.im/blog/2024/02/22/fosdem-2024-les-conferences-que-jai-vu/) (2 months ago)
+- [FOSDEM 2024 – les conférences que j’ai vu](https://arthur.lutz.im/blog/2024/02/22/fosdem-2024-les-conferences-que-jai-vu/) (3 months ago)
 - [Appareil Android en mode hors-ligne – pratiques](https://arthur.lutz.im/blog/2022/10/17/appareil-android-en-mode-hors-ligne-pratiques/) (2 years ago)
 - [Explorations clavier midi Launchpad novation](https://arthur.lutz.im/blog/2022/02/28/explorations-clavier-midi-launchpad-novation/) (2 years ago)
 - [PinCab à partir d’un Gottlieb 1968 – tribulations](https://arthur.lutz.im/blog/2022/02/27/pincab-a-partir-dun-gottlieb-1968-tribulations/) (2 years ago)
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/112447124961450720) (today)
-- [](https://mamot.fr/@arthurlutzim/112447116301845894) (today)
-- [](https://mamot.fr/@arthurlutzim/112447097952628171) (today)
-- [](https://mamot.fr/@arthurlutzim/112447092986969118) (today)
-- [](https://mamot.fr/@arthurlutzim/112444359313733222) (today)
+- [](https://mamot.fr/@arthurlutzim/112447124961450720) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/112447116301845894) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/112447097952628171) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/112447092986969118) (1 week ago)
+- [](https://mamot.fr/@arthurlutzim/112444359313733222) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
