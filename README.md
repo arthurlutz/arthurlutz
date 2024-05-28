@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (1 month ago)
+- [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (2 months ago)
 - [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (2 months ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (4 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (7 months ago)
