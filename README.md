@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (4 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (7 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (7 months ago)
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (9 months ago)
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (10 months ago)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (10 months ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.19.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.19.0), 1 day ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.19.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.19.0), 2 days ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 6 months ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/112520230052463185) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/112520230052463185) (6 days ago)
 - [](https://mamot.fr/@arthurlutzim/112447124961450720) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/112447116301845894) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/112447097952628171) (2 weeks ago)
