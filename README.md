@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (7 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (7 months ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (10 months ago)
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (10 months ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦 (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -41,7 +41,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/112587595647671305) (today)
+- [](https://mamot.fr/@arthurlutzim/112587595647671305) (1 day ago)
 - [](https://mamot.fr/@arthurlutzim/112520230052463185) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/112447124961450720) (3 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/112447116301845894) (3 weeks ago)
