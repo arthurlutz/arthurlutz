@@ -12,7 +12,7 @@ Say Hello, I don't bite!
 
 - [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (2 months ago)
 - [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (3 months ago)
-- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (4 months ago)
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (5 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (7 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (7 months ago)
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (10 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.19.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.19.0), 1 week ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.19.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.19.0), 2 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 7 months ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
@@ -41,10 +41,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/112602342864817323) (today)
-- [](https://mamot.fr/@arthurlutzim/112594252773989891) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/112587595647671305) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/112520230052463185) (2 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/112447124961450720) (4 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/112643828761060594) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/112632762253471854) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/112632709879870935) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/112621056362393808) (5 days ago)
+- [](https://mamot.fr/@arthurlutzim/112602342864817323) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
