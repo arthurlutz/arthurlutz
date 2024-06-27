@@ -30,8 +30,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), today) - apt-get for .debs published via GitHub or direct download 📦
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.19.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.19.0), 3 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 7 months ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
 
