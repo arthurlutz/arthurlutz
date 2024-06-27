@@ -10,9 +10,9 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr) -  (1 day ago)
+- [nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr) -  (2 days ago)
 - [knulli-cfw/knulli.org](https://github.com/knulli-cfw/knulli.org) - Knulli Documentation website (1 week ago)
-- [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (2 months ago)
+- [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (3 months ago)
 - [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (3 months ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (5 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (8 months ago)
@@ -43,9 +43,9 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/112678581983432159) (1 day ago)
-- [](https://mamot.fr/@arthurlutzim/112671050041250882) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/112665629866472756) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/112678581983432159) (2 days ago)
+- [](https://mamot.fr/@arthurlutzim/112671050041250882) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/112665629866472756) (4 days ago)
 - [](https://mamot.fr/@arthurlutzim/112643828761060594) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/112632762253471854) (1 week ago)
 
