@@ -10,10 +10,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr) -  (2 days ago)
+- [nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr) -  (3 days ago)
 - [knulli-cfw/knulli.org](https://github.com/knulli-cfw/knulli.org) - Knulli Documentation website (2 weeks ago)
 - [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (3 months ago)
-- [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (3 months ago)
+- [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (4 months ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (5 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (8 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (8 months ago)
@@ -30,8 +30,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 3 days ago) - apt-get for .debs published via GitHub or direct download 📦
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.19.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.19.0), 4 weeks ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 4 days ago) - apt-get for .debs published via GitHub or direct download 📦
+- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.19.0](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.19.0), 1 month ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
 
 #### 📜 My recent blog posts
 
@@ -43,10 +43,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/112696422588523753) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/112692690552695337) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/112678581983432159) (5 days ago)
-- [](https://mamot.fr/@arthurlutzim/112671050041250882) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/112696422588523753) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/112692690552695337) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/112678581983432159) (6 days ago)
+- [](https://mamot.fr/@arthurlutzim/112671050041250882) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/112665629866472756) (1 week ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
