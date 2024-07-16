@@ -31,7 +31,6 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) ([v1.19.3](https://github.com/CycloneDX/cyclonedx-node-npm/releases/tag/v1.19.3), 1 day ago) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects. 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 2 weeks ago) - apt-get for .debs published via GitHub or direct download 📦
 
 #### 📜 My recent blog posts
 
