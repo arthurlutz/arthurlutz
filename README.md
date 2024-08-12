@@ -17,7 +17,6 @@ Say Hello, I don't bite!
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (6 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (9 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (9 months ago)
-- [CycloneDX/cyclonedx-node-npm](https://github.com/CycloneDX/cyclonedx-node-npm) - Create CycloneDX Software Bill of Materials (SBOM) from Node.js NPM projects.  (1 year ago)
 
 #### 🌱 My latest projects
 
