@@ -41,9 +41,9 @@ Say Hello, I don't bite!
 #### 🐘 My recent toots on mastodon
 
 - [](https://mamot.fr/@arthurlutzim/112800384976023855) (3 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/112791524208702190) (3 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/112791497224376297) (3 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/112790735484770492) (3 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/112791524208702190) (4 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/112791497224376297) (4 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/112790735484770492) (4 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/112728040985573822) (1 month ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
