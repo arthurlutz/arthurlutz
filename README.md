@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/112800384976023855) (4 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/112800384976023855) (1 month ago)
 - [](https://mamot.fr/@arthurlutzim/112791524208702190) (1 month ago)
 - [](https://mamot.fr/@arthurlutzim/112791497224376297) (1 month ago)
 - [](https://mamot.fr/@arthurlutzim/112790735484770492) (1 month ago)
