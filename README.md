@@ -10,10 +10,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr) -  (1 month ago)
+- [nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr) -  (2 months ago)
 - [knulli-cfw/knulli.org](https://github.com/knulli-cfw/knulli.org) - Knulli Documentation website (2 months ago)
 - [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (5 months ago)
-- [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (5 months ago)
+- [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (6 months ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (7 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (10 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (10 months ago)
@@ -39,10 +39,10 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/113028783793114553) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/113028766819641275) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/113028717057741676) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/113028662763066359) (3 days ago)
-- [](https://mamot.fr/@arthurlutzim/113022983118448603) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/113028783793114553) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/113028766819641275) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/113028717057741676) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/113028662763066359) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/113022983118448603) (5 days ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
