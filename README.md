@@ -10,10 +10,10 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr) -  (2 months ago)
+- [nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr) -  (3 months ago)
 - [knulli-cfw/knulli.org](https://github.com/knulli-cfw/knulli.org) - Knulli Documentation website (3 months ago)
 - [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (6 months ago)
-- [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (6 months ago)
+- [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (7 months ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (8 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (11 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (11 months ago)
@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/113193321421673451) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/113193321421673451) (5 days ago)
 - [](https://mamot.fr/@arthurlutzim/113175521780811648) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/113165824944259078) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/113148823258928985) (1 week ago)
