@@ -43,6 +43,6 @@ Say Hello, I don't bite!
 - [](https://mamot.fr/@arthurlutzim/113226471224219618) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/113226066020849564) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/113193321421673451) (2 weeks ago)
-- [](https://mamot.fr/@arthurlutzim/113175521780811648) (2 weeks ago)
+- [](https://mamot.fr/@arthurlutzim/113175521780811648) (3 weeks ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
