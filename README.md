@@ -16,7 +16,7 @@ Say Hello, I don't bite!
 - [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (7 months ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (9 months ago)
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (11 months ago)
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (11 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 year ago)
 
 #### 🌱 My latest projects
 
