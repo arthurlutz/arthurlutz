@@ -15,7 +15,7 @@ Say Hello, I don't bite!
 - [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (6 months ago)
 - [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (7 months ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (9 months ago)
-- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (11 months ago)
+- [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community (1 year ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 year ago)
 
 #### 🌱 My latest projects
@@ -39,7 +39,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/113344275004241937) (1 day ago)
+- [](https://mamot.fr/@arthurlutzim/113344275004241937) (2 days ago)
 - [](https://mamot.fr/@arthurlutzim/113295989394930807) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/113245031933185313) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/113226471224219618) (3 weeks ago)
