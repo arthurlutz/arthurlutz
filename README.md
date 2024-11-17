@@ -14,7 +14,7 @@ Say Hello, I don't bite!
 - [knulli-cfw/knulli.org](https://github.com/knulli-cfw/knulli.org) - Knulli Documentation website (5 months ago)
 - [YunoHost/apps_translations](https://github.com/YunoHost/apps_translations) - repository to store apps translations, you shouldn&#39;t edit it manually, just use weblate or the applications themselves (7 months ago)
 - [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (8 months ago)
-- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (9 months ago)
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,8 +37,8 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 
-- [](https://mamot.fr/@arthurlutzim/113480197526393600) (2 days ago)
-- [](https://mamot.fr/@arthurlutzim/113470091718415639) (4 days ago)
+- [](https://mamot.fr/@arthurlutzim/113480197526393600) (3 days ago)
+- [](https://mamot.fr/@arthurlutzim/113470091718415639) (5 days ago)
 - [](https://mamot.fr/@arthurlutzim/113430194314310510) (1 week ago)
 - [](https://mamot.fr/@arthurlutzim/113402935435473531) (2 weeks ago)
 - [](https://mamot.fr/@arthurlutzim/113362117408930033) (3 weeks ago)
