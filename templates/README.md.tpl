@@ -30,7 +30,7 @@ Say Hello, I don't bite!
 
 #### 🐘 My recent toots on mastodon
 {{range rss "https://mamot.fr/@arthurlutzim.rss" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Description}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
