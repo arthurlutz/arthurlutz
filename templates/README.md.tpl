@@ -28,9 +28,4 @@ Say Hello, I don't bite!
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 🐘 My recent toots on mastodon
-{{range rss "https://mamot.fr/@arthurlutzim.rss" 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
