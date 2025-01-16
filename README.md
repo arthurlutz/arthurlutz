@@ -10,11 +10,11 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (2 days ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (3 days ago)
 - [nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr) -  (6 months ago)
 - [knulli-cfw/knulli.org](https://github.com/knulli-cfw/knulli.org) - Knulli Documentation website (7 months ago)
 - [lvgl/lv_port_linux](https://github.com/lvgl/lv_port_linux) - LVGL configured to work with a standard Linux framebuffer (10 months ago)
-- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (11 months ago)
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 year ago)
 
 #### 🌱 My latest projects
 
