@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (6 months ago)
+- [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (7 months ago)
 
 #### 🌱 My latest projects
 
