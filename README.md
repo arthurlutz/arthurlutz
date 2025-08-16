@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter](https://github.com/simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter) - Un contatore di energia smart basato sulla scheda ESP32-2432S028R V2 e ESPHome. Questo progetto nasce per risolvere un problema specifico: monitorare i consumi del mio inverter solare, il cui display è oscurato dalla piastra protettiva originale. (today)
+- [simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter](https://github.com/simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter) - Un contatore di energia smart basato sulla scheda ESP32-2432S028R V2 e ESPHome. Questo progetto nasce per risolvere un problema specifico: monitorare i consumi del mio inverter solare, il cui display è oscurato dalla piastra protettiva originale. (1 day ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (7 months ago)
 
 #### 🌱 My latest projects
