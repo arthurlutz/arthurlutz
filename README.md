@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [sammwyy/awesome-ps2](https://github.com/sammwyy/awesome-ps2) - Awesome list of PlayStation 2 homebrew, tools and games (today)
+- [sammwyy/awesome-ps2](https://github.com/sammwyy/awesome-ps2) - Awesome list of PlayStation 2 homebrew, tools and games (1 day ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 month ago)
 - [simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter](https://github.com/simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter) - Un contatore di energia smart basato sulla scheda ESP32-2432S028R V2 e ESPHome. Questo progetto nasce per risolvere un problema specifico: monitorare i consumi del mio inverter solare, il cui display è oscurato dalla piastra protettiva originale. (1 month ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (8 months ago)
