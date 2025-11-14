@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) - A Python scrobbler that integrates moOde audio player with ListenBrainz, automatically tracking your played tracks. Features real-time &#34;Listening now...&#34; updates, offline caching, and configurable settings. (2 weeks ago)
+- [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) - A Python scrobbler that integrates moOde audio player with ListenBrainz, automatically tracking your played tracks. Features real-time &#34;Listening now...&#34; updates, offline caching, and configurable settings. (3 weeks ago)
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources (1 month ago)
 - [sammwyy/awesome-ps2](https://github.com/sammwyy/awesome-ps2) - Awesome list of PlayStation 2 homebrew, tools and games (1 month ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 months ago)
