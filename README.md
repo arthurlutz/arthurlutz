@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) - A Python scrobbler that integrates moOde audio player with ListenBrainz, automatically tracking your played tracks. Features real-time &#34;Listening now...&#34; updates, offline caching, and configurable settings. (1 month ago)
-- [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources (1 month ago)
+- [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources (2 months ago)
 - [sammwyy/awesome-ps2](https://github.com/sammwyy/awesome-ps2) - Awesome list of PlayStation 2 homebrew, tools and games (2 months ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (3 months ago)
 - [simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter](https://github.com/simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter) - Un contatore di energia smart basato sulla scheda ESP32-2432S028R V2 e ESPHome. Questo progetto nasce per risolvere un problema specifico: monitorare i consumi del mio inverter solare, il cui display è oscurato dalla piastra protettiva originale. (3 months ago)
