@@ -14,7 +14,7 @@ Say Hello, I don't bite!
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources (3 months ago)
 - [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation (3 months ago)
 - [sammwyy/awesome-ps2](https://github.com/sammwyy/awesome-ps2) - Awesome list of PlayStation 2 homebrew, tools and games (3 months ago)
-- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (4 months ago)
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (5 months ago)
 - [simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter](https://github.com/simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter) - Un contatore di energia smart basato sulla scheda ESP32-2432S028R V2 e ESPHome. Questo progetto nasce per risolvere un problema specifico: monitorare i consumi del mio inverter solare, il cui display è oscurato dalla piastra protettiva originale. (5 months ago)
 - [arthurlutz/dashlord](https://github.com/arthurlutz/dashlord) -  (1 year ago)
 
