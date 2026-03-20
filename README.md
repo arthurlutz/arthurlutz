@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) ([v1.1.0](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler/releases/tag/v1.1.0), 4 weeks ago) - Python scrobbler integrating moOde audio player with ListenBrainz. Real-time listening updates, offline caching, thread-safe cache, configurable settings.
+- [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) ([v1.1.0](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler/releases/tag/v1.1.0), 1 month ago) - Python scrobbler integrating moOde audio player with ListenBrainz. Real-time listening updates, offline caching, thread-safe cache, configurable settings.
 - [simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter](https://github.com/simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter) ([Master](https://github.com/simone7121/ESPHOME-ESP32_CYD_V2-SmartEnergyMeter/releases/tag/Master), 1 year ago) - Un contatore di energia smart basato sulla scheda ESP32-2432S028R V2 e ESPHome. Questo progetto nasce per risolvere un problema specifico: monitorare i consumi del mio inverter solare, il cui display è oscurato dalla piastra protettiva originale.
 
 #### 📜 My recent blog posts
