@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) ([v1.1.0](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler/releases/tag/v1.1.0), 5 months ago) - Python scrobbler integrating moOde audio player with ListenBrainz. Real-time listening updates, offline caching, thread-safe cache, configurable settings.
+- [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) ([v1.1.0](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler/releases/tag/v1.1.0), 6 months ago) - Python scrobbler integrating moOde audio player with ListenBrainz. Real-time listening updates, offline caching, thread-safe cache, configurable settings.
 
 #### 📜 My recent blog posts
 
