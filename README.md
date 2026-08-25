@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (today)
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 day ago)
 - [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation (6 months ago)
 - [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) - Python scrobbler integrating moOde audio player with ListenBrainz. Real-time listening updates, offline caching, thread-safe cache, configurable settings. (10 months ago)
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources (10 months ago)
@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [caronc/apprise](https://github.com/caronc/apprise) ([v1.13.0](https://github.com/caronc/apprise/releases/tag/v1.13.0), 4 days ago) - Apprise - Push Notifications that work with just about every platform!
+- [caronc/apprise](https://github.com/caronc/apprise) ([v1.13.0](https://github.com/caronc/apprise/releases/tag/v1.13.0), 5 days ago) - Apprise - Push Notifications that work with just about every platform!
 - [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) ([v1.1.0](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler/releases/tag/v1.1.0), 6 months ago) - Python scrobbler integrating moOde audio player with ListenBrainz. Real-time listening updates, offline caching, thread-safe cache, configurable settings.
 
 #### 📜 My recent blog posts
