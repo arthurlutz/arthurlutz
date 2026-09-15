@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 day ago)
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 days ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (3 weeks ago)
 - [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation (7 months ago)
 - [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) - Python scrobbler integrating moOde audio player with ListenBrainz. Real-time listening updates, offline caching, thread-safe cache, configurable settings. (10 months ago)
@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 #### 🔭 Latest releases I've contributed to
 
 - [caronc/apprise](https://github.com/caronc/apprise) ([v1.13.1](https://github.com/caronc/apprise/releases/tag/v1.13.1), 2 weeks ago) - Apprise - Push Notifications that work with just about every platform!
-- [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) ([v1.1.0](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler/releases/tag/v1.1.0), 6 months ago) - Python scrobbler integrating moOde audio player with ListenBrainz. Real-time listening updates, offline caching, thread-safe cache, configurable settings.
+- [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) ([v1.1.0](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler/releases/tag/v1.1.0), 7 months ago) - Python scrobbler integrating moOde audio player with ListenBrainz. Real-time listening updates, offline caching, thread-safe cache, configurable settings.
 
 #### 📜 My recent blog posts
 
