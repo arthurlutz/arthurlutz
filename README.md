@@ -16,7 +16,6 @@ Say Hello, I don't bite!
 - [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation (8 months ago)
 - [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) - ListenBrainz scrobbler for moOde audio player on Raspberry Pi: MPD, AirPlay and Spotify Connect, Listening now, offline cache. (11 months ago)
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources (11 months ago)
-- [sammwyy/awesome-ps2](https://github.com/sammwyy/awesome-ps2) - Awesome list of PlayStation 2 homebrew, tools and games (1 year ago)
 
 #### 🌱 My latest projects
 
