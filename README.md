@@ -10,7 +10,7 @@ Say Hello, I don't bite!
 
 #### 👷 Check out what I'm currently working on
 
-- [meshtastic/device-ui](https://github.com/meshtastic/device-ui) - meshtastic device-ui library (today)
+- [meshtastic/device-ui](https://github.com/meshtastic/device-ui) - meshtastic device-ui library (1 day ago)
 - [mopidy/website](https://github.com/mopidy/website) - The Mopidy project&#39;s website, excluding docs (1 week ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 weeks ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 month ago)
@@ -28,8 +28,8 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) ([v1.4.0](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler/releases/tag/v1.4.0), 5 days ago) - ListenBrainz scrobbler for moOde audio player on Raspberry Pi: MPD, AirPlay and Spotify Connect, Listening now, offline cache.
-- [caronc/apprise](https://github.com/caronc/apprise) ([v2.0.0](https://github.com/caronc/apprise/releases/tag/v2.0.0), 6 days ago) - Apprise - Push Notifications that work with just about every platform!
+- [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) ([v1.4.0](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler/releases/tag/v1.4.0), 6 days ago) - ListenBrainz scrobbler for moOde audio player on Raspberry Pi: MPD, AirPlay and Spotify Connect, Listening now, offline cache.
+- [caronc/apprise](https://github.com/caronc/apprise) ([v2.0.0](https://github.com/caronc/apprise/releases/tag/v2.0.0), 1 week ago) - Apprise - Push Notifications that work with just about every platform!
 
 #### 📜 My recent blog posts
 
