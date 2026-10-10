@@ -28,7 +28,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [caronc/apprise](https://github.com/caronc/apprise) ([v2.0.1](https://github.com/caronc/apprise/releases/tag/v2.0.1), 6 days ago) - Apprise - Push Notifications that work with just about every platform!
+- [caronc/apprise](https://github.com/caronc/apprise) ([v2.0.1](https://github.com/caronc/apprise/releases/tag/v2.0.1), 1 week ago) - Apprise - Push Notifications that work with just about every platform!
 - [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) ([v1.4.0](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler/releases/tag/v1.4.0), 1 week ago) - ListenBrainz scrobbler for moOde audio player on Raspberry Pi: MPD, AirPlay and Spotify Connect, Listening now, offline cache.
 
 #### 📜 My recent blog posts
