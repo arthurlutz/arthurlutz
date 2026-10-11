@@ -16,7 +16,6 @@ Say Hello, I don't bite!
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 month ago)
 - [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation (8 months ago)
 - [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) - ListenBrainz scrobbler for moOde audio player on Raspberry Pi: MPD, AirPlay and Spotify Connect, Listening now, offline cache. (11 months ago)
-- [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources (1 year ago)
 
 #### 🌱 My latest projects
 
