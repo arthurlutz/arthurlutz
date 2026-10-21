@@ -11,7 +11,7 @@ Say Hello, I don't bite!
 #### 👷 Check out what I'm currently working on
 
 - [meshtastic/device-ui](https://github.com/meshtastic/device-ui) - meshtastic device-ui library (2 weeks ago)
-- [mopidy/website](https://github.com/mopidy/website) - The Mopidy project&#39;s website, excluding docs (4 weeks ago)
+- [mopidy/website](https://github.com/mopidy/website) - The Mopidy project&#39;s website, excluding docs (1 month ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 month ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 month ago)
 - [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation (8 months ago)
