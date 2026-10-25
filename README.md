@@ -14,7 +14,7 @@ Say Hello, I don't bite!
 - [mopidy/website](https://github.com/mopidy/website) - The Mopidy project&#39;s website, excluding docs (1 month ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 month ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (2 months ago)
-- [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation (8 months ago)
+- [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation (9 months ago)
 - [thestreamdigger/listenbrainz-moode-scrobbler](https://github.com/thestreamdigger/listenbrainz-moode-scrobbler) - ListenBrainz scrobbler for moOde audio player on Raspberry Pi: MPD, AirPlay and Spotify Connect, Listening now, offline cache. (1 year ago)
 
 #### 🌱 My latest projects
@@ -27,7 +27,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [caronc/apprise](https://github.com/caronc/apprise) ([v2.1.0](https://github.com/caronc/apprise/releases/tag/v2.1.0), today) - Apprise - Push Notifications that work with just about every platform!
+- [caronc/apprise](https://github.com/caronc/apprise) ([v2.1.0](https://github.com/caronc/apprise/releases/tag/v2.1.0), 1 day ago) - Apprise - Push Notifications that work with just about every platform!
 
 #### 📜 My recent blog posts
 
