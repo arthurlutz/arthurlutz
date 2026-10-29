@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [caronc/apprise](https://github.com/caronc/apprise) ([v2.1.0](https://github.com/caronc/apprise/releases/tag/v2.1.0), 4 days ago) - Apprise - Push Notifications that work with just about every platform!
+- [caronc/apprise](https://github.com/caronc/apprise) ([v2.1.0](https://github.com/caronc/apprise/releases/tag/v2.1.0), 5 days ago) - Apprise - Push Notifications that work with just about every platform!
 
 #### 📜 My recent blog posts
 
