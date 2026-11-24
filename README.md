@@ -14,7 +14,7 @@ Say Hello, I don't bite!
 - [mopidy/website](https://github.com/mopidy/website) - The Mopidy project&#39;s website, excluding docs (2 months ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 months ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (3 months ago)
-- [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation (9 months ago)
+- [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -26,7 +26,7 @@ Say Hello, I don't bite!
 
 #### 🔭 Latest releases I've contributed to
 
-- [caronc/apprise](https://github.com/caronc/apprise) ([v2.3.0](https://github.com/caronc/apprise/releases/tag/v2.3.0), 3 days ago) - Apprise - Push Notifications that work with just about every platform!
+- [caronc/apprise](https://github.com/caronc/apprise) ([v2.3.0](https://github.com/caronc/apprise/releases/tag/v2.3.0), 4 days ago) - Apprise - Push Notifications that work with just about every platform!
 
 #### 📜 My recent blog posts
 
